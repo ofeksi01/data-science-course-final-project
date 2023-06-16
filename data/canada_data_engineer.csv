@@ -1,0 +1,742 @@
+Job Title,Glassdoor Location,Employer Name,Location,Rating,Salary,Carrier Opportunities,Culure And Values,Senior Management,Comp And Benefits,Life Balance,Company Size,Found year,Description,Company Revenue,Industry,Company Type,Company Sector
+BI Engineer,canada,"MOZ Group
+3.4",Remote,3.4,-1,-1,-1,-1,-1,-1,51 to 200 Employees,2004,"Moz is looking for a natural problem solver with a strong interest both in fulfilling the business' expanding appetite for data, and helping define our data analytics roadmap. This role will be involved in all parts of the Business Intelligence process for the Martech division, from data acquisition to final presentation. The engineer will develop reports and self-service tools for internal customers via Domo and Amazon Quicksight from data housed in log files, Redshift, Vertica, S3 buckets, datashares, and 3rd party API integrations; pipelined via Pentaho and AWS Glue; to serve internal customers.
+Responsibilities:
+Act as the subject matter expert for sourcing and transforming diverse, structured data across the Ziff Davis product platforms using combinations of pipeline tools.
+Utilize business intelligence expertise, business knowledge and technical skills to successfully deliver solutions that help solve business challenges.
+Partner with cross-functional business stakeholders to gather business and functional requirements and translate these requirements into robust, scalable, operable solutions that work well within the overall data architecture
+Assess the impact of production system changes to the existing pipelines and implement changes to data warehouse, ETL, and reporting code to ensure consistent and accurate reporting.
+Define key metrics thoroughly understanding data streams; act as a subject matter expert and manage through obstacles to achieve program objectives
+Analyze, design, and test BI front-end deployment and back-end ETL processes according to user requirements.
+Document technical standards, build and maintain a comprehensive data dictionary.
+
+Requirements:
+5+ years of experience in a Business Intelligence/Reporting Analyst or Engineer role.
+3+ years of knowledge and experience using database systems, SQL, and ETL tools, especially Pentaho, HPE Vertica and Amazon Redshift.
+2+ years of experience deploying data visualizations into BI solutions, especially Domo and Amazon Quicksight.
+Experience in pipelining large, complex data structures.
+Ability to manage data from multiple data sources including varying database platforms, log files, Google Analytics, S3 Buckets, Salesforce, and API endpoints.
+Experience working with structured and unstructured data from various sources and formats.
+Experience with linux-related concepts: ssh, command-line interfacing, cron jobs
+Passion and interest in Business Intelligence, ETL Processes, Data Warehousing, Data Integration, and Data Modeling.
+Strong interpersonal and oral communication skills with ability to communicate ideas and solutions to non-technical users
+Ability to maintain confidentiality with sensitive customer and internal information.
+Highly self-motivated and directed with strong organizational skills and attention to detail.
+Experience working in a team-oriented, collaborative, and remote environment.
+Preferred Experience:
+CI/CD Pipeline
+Terraform and ECS design and maintenance
+DataDog implementation and utilization
+Exposure to Kanban and JIRA
+Prior or current experience working within a SaaS environment
+Professional experience using managed cloud services (AWS)
+Professional experience using command-line interfaces and shell scripting
+What’s Important to Us:
+High technical quality. We know our stack and tools and how to use them effectively. We constantly improve code and practices, work to reduce technical debt, and optimize systems to perform at scale.
+A commitment to shipping. It’s important to deliver, and we value getting new products and features to customers regularly.
+Curiosity and motivation to learn. We’re always seeking opportunities for development and growth.
+Product and customer focus. Our team is invested in the experience of the products we build beyond the code.
+Collaboration. Team-focused communication, knowledge-sharing, and problem-solving make us more effective.
+Diversity & Inclusivity. Moz is committed to building diverse teams where people of all identities and backgrounds are welcome, included, and respected. We work to help close the gender gap in tech, and to actively recruit people from other underrepresented groups. We strongly encourage women, gender diverse people, and underrepresented candidates to apply for this role.
+
+About Moz Group
+The Moz Group, a subsidiary of Ziff Davis, Inc (NASDAQ: ZD), is a leading provider of marketing technology solutions primarily for small and medium-sized enterprises that empowers businesses to engage their customers digitally and grow their revenue by leveraging the power of online search, email, voice, and text communications.
+
+About Ziff Davis
+At Ziff Davis, we work in a culture of collaboration and welcome those who desire to join our growing global community. We seek enthusiastic individuals with an entrepreneurial spirit looking for and environment that rewards your best work.
+Ziff Davis offers competitive salaries, health benefits, and company-sponsored events. If you are seeking a dynamic work environment where you can see the direct impact of your performance, then Ziff Davis is the place for you. We offer a fun and friendly working environment where individuals are given the opportunity to learn, grown and build on their skills.
+
+#Moz",$25 to $100 million (USD),Computer Hardware Development,Company - Private,Information Technology
+Business Intelligence Engineer (12-Month Term),canada,"BC IMC
+4.5",Victoria,4.5,-1,-1,-1,-1,-1,-1,Unknown,Company - Private,"Closing Date: June 8, 2023
+Want to play a critical role by leveraging your design and technical skills to turn data into insights which help drive business decisions? If you are looking for a Data & Analytics career in the investment management industry, BCI is hiring for a new Business Intelligence Engineer to join our growing, and newly formed Corporate Data & Operations department. This is an exciting time to be a part of a centralized team delivering re-usable datasets, reporting, data science, and data governance. Come join us in either our Victoria or Vancouver office!
+POSITION DESCRIPTION
+Reporting to the Manager, Data & Analytics Engineering, the Business Intelligence Engineer (BI Analyst) is responsible for conducting requirements gathering and business analysis, designing, developing, and delivering Business Intelligence (BI) solutions such as reports and dashboards. The BI Engineer works closely with internal team members, such as the Data Product Manager and Data Engineers, and collaborates with the business and technology teams.
+This is a 12-month fixed-term role with potential for extension or a permanent position.
+This position can be based in either Vancouver or Victoria, with the ability to work the majority of the time from home.
+WHAT YOU BRING
+Bachelor’s degree in Data, Science, Technology, Engineering, Mathematics, or a related field
+A minimum of 3 years of experience with responsibility for developing production business intelligence solutions such as reports and dashboards
+Experience conducting business requirements gathering and business analysis
+Experience learning, conducting technical data analysis, and extracting and transforming data from complex data stores
+Must be proficient with SQL
+Must be proficient Power BI or similar modern data visualization tools
+Must be proficient with designing complex data visualization solutions, whilst considering solution user experience
+Knowledge of the investment management industry is an asset
+Knowledge of agile development and agile tracking tools (e.g., Jira) is an asset
+Knowledge of Python is an asset
+Knowledge of SSRS and Power BI Paginated Reports is an asset
+
+WHAT YOU WILL DO
+Engages with stakeholders to understand business problems and opportunities that can be supported through data by conducting requirements gathering and analysis
+Designs and proposes business intelligence solutions which solve business problems
+Analyzes data sources and complex data stores and writes production grade, high performing SQL to extract data
+Develops business intelligence solutions such as reports and dashboards, with a focus on user experience and design
+Conducts quality assurance testing, to ensure solutions built are accurate, high functioning, performant, and meet client requirements
+Provides training and support to end-users of business intelligence software and solutions
+Presents products to internal and external stakeholders, reviews the work of other engineers, and provides feedback in an open, respectful, and constructive manner
+Diagnoses and resolves incidents and provides responsive communication to stakeholders
+Creates and maintains technical documentation and user guides for business intelligence solutions
+Proactively identifies risks and issues and proposes solutions to remove barriers
+Applies knowledge of DevOps practices including continuous deployment, continuous integration, test-driven development, and automated testing
+Performs other related duties as required
+WHY APPLY TO JOIN BCI:
+With our values as our anchor, it’s our people that help shape employee-focused initiatives and who create the environment we work in each day – all of which further strengthens our culture. BCI has been recognized as one of Canada’s Top 100 Employers – for the fourth consecutive year – and has built programs and benefits to support all our employees, including:
+Extended health and dental coverage starting on your first day of work. We have you covered!
+Eligibility for the defined benefit BC Public Service Pension Plan, providing you with a secure retirement income.
+Time off includes: 20 days' vacation, 6 paid sick days, 6 paid personal days, and 2 paid days for volunteering – to support physical, mental, and community health.
+A hybrid schedule offering you the flexibility to work from home up to two days a week.
+Annual wellness allowance to support an active lifestyle well as physical well-being when working at home.
+Ongoing learning through our in-house mentoring program, professional dues support, tuition reimbursement, and online and in-house learning.
+As a pilot program in 2023, we are offering the opportunity to work from anywhere in the world for up to 1 month.
+Our telehealth provider Dialogue connects you and your family to virtual healthcare appointments.
+Relocation support is available if a move to one of BCI’s locations is required.
+Invested in your Learning: BCI investment professionals lead a monthly Investment Club to share industry knowledge with employees who work in other departments.
+TO APPLY
+Apply online with a copy of your resume. We encourage timely submissions of applications as candidates will be actively reviewed and the interview process may advance earlier.
+At BCI, we value diversity and believe in fostering an inclusive culture where all employees can be successful. We are performance and client focused and value integrity; if you share these values, we want to know you. We recognize that some skills can be learned on the job and encourage all to apply.
+If you require an accommodation for the recruitment process (including alternate formats of materials, accessible meeting rooms or other accommodations), contact us at
+hr@bci.ca
+. We would like to hear from you!",-1,-1,Unknown / Non-Applicable,-1
+BI Engineer,canada,"ALLUDO
+3.5",Toronto,3.5,-1,-1,-1,-1,-1,-1,501 to 1000 Employees,1985,"BI Engineer
+Push the boundaries of tech. In your sweatpants.
+Alludo is looking for an experienced BI Engineer to help us change the way the world works. Here, you’ll facilitate the advancement of our analytical capabilities. We are moving from “what was/is” to Predictive modeling and Business optimization. This role will be the key to establishing and developing the data science capabilities at the company.
+The top creative and technical minds could work anywhere. So why are so many of them choosing Alludo? Here are three reasons:
+
+This is the moment. It’s an exciting time at Alludo, with new leadership, a refreshed brand (you probably know us as Corel!), and a whole new approach to changing the way the world works. We’re at the forefront of a movement, and we want you to ride this wave with us.
+We want you to be you. Too often, companies tell you about their culture and then expect you to fit it. Our culture is built from the people who work here. We want you to feel safe to be who you are, take risks, and show us what you’ve got.
+It’s your world. We know you have a life. We want to be part of it, but not all of it. At Alludo, we’re serious about empowering people to work when, how, and where they want. Couch? Sweatpants? Cool with us. We believe that happy employees mean happy customers. That’s why we hire amazing people and get out of their way.
+
+Sound good so far? Awesome. Let’s talk more about the role and see if we’re destined to be together.
+
+THE ROLE:
+Craft and drive data solutions with executive stakeholders
+Lead, define, and provide alternate solutions on business KPIs, their measurement plans, data requirements and reporting with key stakeholders
+Manage multiple complex projects, identifying dependencies and working on parallel tracks independently
+Search and identify pathways for automation and data efficiency
+Build monitors around data accuracy and consistency in Dashboard Reporting and Presentation Layer functioning and performance and pro-actively fix issues as found
+Identify, design, and implement internal process improvements: automating manual processes, re-designing existing reports for greater scalability, etc.
+Mentor and train junior engineers on best practices
+Identify gaps in best practices in reporting and analysis: data integrity, test design, analysis, validation, and documentation
+Build and enforce common design patterns to increase report reusability, readability and standardization
+Build a reporting suite to tell the story of business trends, patterns, and outliers through rich visualizations
+Provide technical design, coding, testing, implementation, maintenance, system, and technical support for BI initiatives
+Work in partnership with Data Engineering to build data pipelines to support your data models and ensure data quality throughout processing, automation, and modeling
+YOU:
+7+ years of professional experience demonstrating career progression and increase complexity of work
+5+ years of experience working in business intelligence, data analytics, data engineering or a similar role
+5+ years of experience in building reporting and dashboarding solutions using tools such as Tableau, Sigma, Looker, Superset, PowerBI, etc.
+Expert in database fundamentals, SQL, and performance tuning
+Adept in solving business problems and curating data to drive executive decisions
+Expert in creating dashboards that invite data exploration and conform to data visualization best practices
+Accomplished in data modeling and building processes to support data accuracy and consistency
+Experience working with and expert with at least one of Snowflake, Redshift, PostgreSQL, and/or other DBMS platforms
+Excellent communication skills and experience working with technical and non-technical teams
+Ability to think strategically, analyze and interpret market and consumer information is a second nature to you
+Proven record of using data to solve for complex use cases, independently authoring models around predictive analyses or process optimization
+US:
+Alludo is an award-winning solution that has millions of users and decades of innovation under our belts.
+We offer a fully remote workspace, and we mean it. There is no pressure to work in an office whatsoever.
+Hours are flexible! You’ve worked hard to build your life, and we don’t want you to give it up for work.
+Our team is growing fast, and there’s a ton of energy and a lot of really smart, motivated, fun people ready to welcome you in.
+
+What are you waiting for? Apply now! We can’t wait to meet you.
+
+(FYI, we’re lucky to have a lot of interest and we so appreciate your application, though please note that we’ll only contact you if you’ve been selected for an interview.)
+
+About Alludo:
+Alludo, the company behind the award-winning, globally recognizable brands including Parallels®, CorelDRAW®, MindManager®, and WinZip®, is helping people work better and live better. Our professional-caliber graphics, virtualization, and productivity solutions are finely tuned for the digital remote workforce delivering the freedom to work when, where, and how you want. With a 35+ year legacy of innovation, Alludo empowers ALL YOU DO helping more than 2.5 million paying customers to enable, ideate, create, and share on any device, anywhere. To learn more, visit www.alludo.com.
+
+It is our policy and practice to offer equal employment opportunities to all qualified applicants and employees without regard to race, color, age, religion, national origin, sex, political affiliation, sexual orientation, marital status, disability, veteran status, genetics, or any other protected characteristic.
+
+Alludo is committed to an inclusive, barrier-free recruitment and selection process and work environment. If you are contacted for a job opportunity, please advise us of any accommodations that are required. Appropriate accommodations will be provided upon request as required by Federal and Provincial regulations and Company Policy. Any information received relating to accommodations will be treated as confidential.",$100 to $500 million (USD),Computer Hardware Development,Company - Private,Information Technology
+"Analytics Engineer, Paid Marketing",canada,"Scribd
+3.7",Remote,3.7,-1,-1,-1,-1,-1,-1,201 to 500 Employees,2007,"At Scribd (pronounced “scribbed”), we believe reading is more important than ever. Join our cast of characters as we work to change the way the world reads by building the world’s largest and most fascinating digital library: giving subscribers access to a growing collection of ebooks, audiobooks, magazines, documents, Scribd Originals, and more. In addition to works from major publishers and top authors, our community includes over 1.9 M subscribers in nearly every country worldwide.
+
+Have you heard about our future of work program, Scribd Flex? As a key principle, we embrace flexibility and allow employees, in partnership with their manager, to choose the work-style that best suits their individual needs and preferences. And, we create intentional in-person moments with each other that build culture and connection.
+
+About the Team
+The mission of the business strategy & analytics team is to ensure the entire company understands business performance and trends, and to empower all business teams to make good decisions with data. We partner with marketing on strategy and positioning, and we manage the announcement of product launches, updates, and major initiatives. It's our job to maximize Scribd's potential by delighting our readers and helping our company grow. Scribd is seeking an enthusiastic analytics engineer to help create and make informed decisions about the design and prioritization of our go-to-market strategy.
+
+About You
+We are looking for an analytics engineer who will help analysts, data scientists, and data-savvy stakeholders to more efficiently and effectively interact with our data.
+You are a curious person who is highly analytical, loves solving ambiguous business problems through exploratory analysis. You have a growth mentality and are excited by a fast paced environment. You have great business intuition that helps you create actionable insights, focusing on user experience, impact, and learning from data.
+
+You Will:
+Partner with business stakeholders to understand, prioritize, design and fulfill business and business issue analysis needs.
+Identify KPIs driving business growth and performance and work closely with the business teams to define them
+Build dashboards in Looker to provide insight into marketing performance and product engagement
+Design and implement data post-processing pipelines and create shared data assets generating visibility into critical business metrics
+Make the team more efficient: Research and implement new tooling/processes team-wide; seek out and automate existing costly manual processes
+Support the paid marketing team with channel execution, and optimization of the marketing program across multiple publisher categories like content, search, and comparison sites
+Frequent communication with stakeholders on how we’re progressing against our goals, learnings we have, risks we foresee and where we need support from the organization.
+
+You Have:
+2-4 years experience with quantitative data analysis or business intelligence.
+Highly analytical mindset with demonstrated ability to work through complex, ambiguous problems using data.
+Ability to work independently and with a team on multiple projects
+Expert level of SQL, familiarity with Python.
+Plus if you have experience with marketing platforms (eg. Google Ads, Appsflyer, Facebook)
+Plus if you have experience with Looker and LookML
+BA/BS degree in math, statistics, economics, physics or equivalent experience.
+At Scribd, your base pay is one part of your total compensation package and is determined within a range. Our pay ranges are based on the local cost of labor benchmarks for each specific role, level, and geographic location. San Francisco is our highest geographic market in the United States. In the state of California, the reasonably expected salary range is between $91,000 [minimum salary in our lowest geographic market within California] to $146,750 [maximum salary in our highest geographic market within California].
+
+Outside of California, the reasonably expected salary range is between $75,000 [minimum salary in our lowest US geographic market outside of California] to $139,750 [maximum salary in our highest US geographic market outside of California].
+
+We carefully consider a wide range of factors when determining compensation, including but not limited to experience; job-related skill sets; relevant education or training; and other business and organizational needs. The salary range listed is for the level at which this job has been scoped. In the event that you are considered for a different level, a higher or lower pay range would apply. This position is also eligible for a competitive equity ownership, and a comprehensive and generous benefits package.
+
+Benefits, Perks, and Wellbeing at Scribd
+Benefits/perks listed may vary depending on the nature of your employment with Scribd and the geographical location where you work.
+Healthcare Insurance Coverage (Medical/Dental/Vision): 100% paid for employees
+12 weeks paid parental leave
+Short-term/long-term disability plans
+401k/RSP matching
+Tuition Reimbursement
+Learning & Development programs
+Quarterly stipend for Wellness, Connectivity & Comfort
+Mental Health support & resources
+Free subscription to Scribd + gift memberships for friends & family
+Referral Bonuses
+Book Benefit
+Sabbaticals
+Company wide events
+Team engagement budgets
+Vacation & Personal Days
+Paid Holidays (+ winter break)
+Flexible Sick Time
+Volunteer Day
+Company-wide Diversity, Equity, & Inclusion programs
+
+Want to learn more about life at Scribd? www.linkedin.com/company/scribd/life
+
+-
+We want our interview process to be accessible to everyone. You can inform us of any reasonable adjustments we can make to better accommodate your needs by emailing accommodations@scribd.com about the need for adjustments at any point in the interview process.
+
+Scribd is committed to equal employment opportunity regardless of race, color, religion, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other characteristic protected by law. We encourage people of all backgrounds to apply, and believe that a diversity of perspectives and experiences create a foundation for the best ideas. Come join us in building something meaningful.
+-
+
+Remote employees must have their primary residence in: Arizona, California, Colorado, Connecticut, Delaware, DC, Florida, Hawaii, Iowa, Massachusetts, Maryland, Michigan, Missouri, Nevada, New Jersey, New York, Ohio, Oregon, Tennessee, Texas, Utah, Vermont, Washington, Ontario (Canada), British Columbia (Canada), or Mexico. *This list may not be complete or accurate, and candidates should speak with their recruiter about their specific location for remote work.
+
+#LI-Remote",$100 to $500 million (USD),Internet & Web Services,Company - Private,Information Technology
+Consultant - Sustainability and Energy Analytics,canada,"Brightly Software Inc.
+3.8",Toronto,3.8,-1,-1,-1,-1,-1,-1,501 to 1000 Employees,1999,"Who we are:
+Build a brighter future while learning and growing with a Siemens company at the intersection of technology, community and sustainability. Our global team of innovators is always looking to create meaningful solutions to some of the toughest challenges facing our world. Find out how far your passion can take you.
+About the job:
+We are hiring smart, passionate individuals to join our growing Sustainability and Energy Analytics (SEA) group which resides within our larger North American Professional Services group.
+Our Professional Services group is comprised of talented consultants and industry experts. They are passionate about delivering market leading services and fully invested in our clients’ enduring success. Our Sustainability and Energy Analytics (SEA) group is focused on leveraging data from assets – primarily Commercial Real Estate (CRE) properties and portfolios - and using advanced analytics systems to drive energy and cost savings.
+As a Consultant you will:
+Become a contributing member of projects teams, dedicated to performing intensive and continuous evaluations of asset performance (buildings & infrastructure).
+Deliver comprehensive client reports outlining energy, cost, and carbon reduction measures.
+Gain valuable exposure to building sub metering system design, real-time metering data analytics technologies and utility cost allocation and recovery practices.
+Be involved in highly technical and unique client projects dedicated to investigating and determining the performance gains, and cost benefit of making capital investments across a building complex or portfolio of properties.
+Gain knowledge of GRESB, LEED, BOMA BEST, Energy Star, and Zero Carbon Building programs to support our clients with their sustainability and certification initiatives.
+Partner with and consult to clients across several asset classes, including managers and operators of large Commercial Real Estate portfolios spanning Canada, United States, and an increasingly global presence.
+Travel and work at our client assets, periodically
+What you need to Have:
+2+ years of previous work experience in an energy consulting, sustainability, mechanical design, or another related field. Recent post-secondary graduates will be given consideration for the role if they can demonstrate highly valued co-op / internship / project experience
+Special consideration will be given to candidates with a degree in Engineering Physics, Math and Engineering, Electrical Engineering, and Mechanical Engineering
+Well organized with the ability to prioritize and manage several technical tasks under set timelines. You can maintain an emphasis on “doing really good work” during hectic and challenging times.
+Ability to communicate clearly and efficiently, both verbally and in your written communications.
+Strong problem-solving and communication skills with the capability to handle a wide variety of technical challenges. A positive, team-based approach is of great value; just as important is a determination to overcome obstacles. Above all, this person should look to establish and maintain a reputation for integrity over the long term.
+What makes you stand out:
+Bilingual Fluency in French and English
+The Brightly culture
+We’re guided by a vision of community that serves the ambitions and wellbeing of all people, and our professional communities are no exception. We model that ideal every day by being supportive, collaborative partners to one another, conscientiously making space for our colleagues to grow and thrive. Our passionate team is driven to create a future where smarter infrastructure protects the environments that shape and connect us all. That brighter future starts with us.
+Brightly is committed to maintaining an equitable, fair, and inclusive workplace. We welcome diversity and encourage applications from all qualified applicants. Accommodations are available upon request for candidates taking part in all aspects of the selection process. If you do require accommodations, please send an email to: HR-TA@brightlysoftware.com.
+While we thank all applicants, however only those under consideration will be contacted for an interview.
+Job Type: Full-time
+Pay: $60,000.00-$85,000.00 per year
+Benefits:
+Employee assistance program
+Extended health care
+Paid time off
+RRSP match
+Schedule:
+Monday to Friday
+Supplemental pay types:
+Bonus pay
+Work Location: Hybrid remote in Toronto, ON M8X 2X3",$25 to $100 million (USD),Computer Hardware Development,Company - Private,Information Technology
+Process Analyst Engineer - Steel Plant,canada,"Algoma Steel Inc.
+4.0",Sault Ste. Marie,4.0,-1,-1,-1,-1,-1,-1,1001 to 5000 Employees,1901,"Process Analyst Engineer – Steel Plant
+Algoma Steel Inc.
+Sault Ste. Marie, Ontario Canada
+The Company
+Based in Sault Ste. Marie, Ontario, Algoma has a proud history as a leading manufacturer of hot and cold rolled steel sheet and plate products. We are Canada’s only discrete plate producer and one of the lowest-cost producers of hot-rolled sheet steel in North America owing in part to our state-of-the-art Direct Strip Production Complex. Our steel is used in construction, mining, manufacturing, automotive, shipbuilding, and energy sectors including renewable energy and military applications. Today’s steel industry is rapidly evolving and so are we, transitioning to electric arc steelmaking technology that will position Algoma as one of North America’s leading producers of green steel, bringing low-carbon steel products to market, shrinking our environmental footprint, and securing a more sustainable future.
+We invite those with a talent and drive for superior performance, who desire to be part of a team of steel industry professionals to apply. Join us as we build on our rich, century-long tradition of delivering quality steel products to our customers, improving the quality of life for our community, and providing rich and rewarding careers for our employees.
+Key Deliverables:
+· Accountable for maintaining a quality system that complies with appropriate standards and is consistent across all operating areas.
+· Provide technical support to the daily operation of area.
+· Troubleshoot and solve repetitive process issues to improve operational efficiency; recommend action to eliminate the “root cause” in a timely manner.
+· Participates in daily production meetings.
+· Will monitor key process / product parameters to ensure a center lined operation and advise Supervision of opportunities for improvement.
+· Raise the awareness and drive the organization to apply disciplined statistical process control (SPC) systems and techniques.
+· Be fully aligned with all Health, Safety and Environmental practices and procedures in all work activities.
+· Review longer-term chronic problems and/or improvement objectives which enable the operating managers to focus on meeting their short term product, process and cost objectives.
+· Lead and/or participate in problem solving groups that focus on continually improvement: quality, costs, productivity and general process improvement.
+· Support the operating group in achieving their annual product and process improvement objectives as outlined in their continuous improvement program.
+· Maintain effective and constructive working relationships with operating Front Line Supervisors, as well as shop floor personnel.
+· Occasional periods of shift work or weekend work may be required to support the team in meeting their objectives.
+· Develops contacts both internally and externally, to support troubleshooting and problem resolution in a timely manner.
+· Develop a depth in steel making, processing and support technologies.
+· Identify process, product and technology improvements resulting in Algoma being recognized as a leader in the industry.
+Qualifications:
+· Must have a four (4) year Engineering degree.
+· Experience with and knowledge of thin casting within a Steel Plant is an asset.
+· Must have relevant technical experience in an analytical position (i.e. experience with data analysis tools)
+· Advanced computer skills and process control are important.
+· Possess keen analytical and problem solving skills.
+· Possess good organizational and communication skills.
+· Strong project management and technical leadership skills.
+· Be a self-starter and able to work with minimal supervision.
+· Possess good interpersonal skills and the ability to function effectively in a team environment.
+· Knowledge of OHSA and Health & Safety practices and procedures.
+· Good detailed knowledge of steel production and processes.
+Algoma offers a competitive salary, an extended health benefits package, a defined contribution pension plan and profit sharing.
+If you meet the qualifications for this position and are committed to a challenging career with a dynamic company, in a community that offers superior quality of life, we encourage you to apply today.
+To apply and learn more about our company, please visit www.algoma.com
+We are an equal opportunity employer and encourage diversity in our workplace. Accommodation is available for applicants with a disability.
+We thank all applicants for their interest however, only those candidates that are selected for an interview will be contacted.
+Job Type: Full-time
+Schedule:
+Monday to Friday
+Education:
+Bachelor's Degree (preferred)
+Work Location: In person",$1 to $5 billion (USD),Metal & Mineral Manufacturing,Company - Private,Manufacturing
+Analytics Implementation Engineer,canada,"War Room Holdings
+4.4",Vancouver,4.4,-1,-1,-1,-1,-1,-1,1 to 50 Employees,2010,"Vancouver, BC
+Full Time, Hybrid
+
+Who We Are.
+We are a highly specialized programmatic advertising agency. We focus 100% of our efforts on digital media buying.
+It’s how we exceed conversion goals in nearly every campaign we run and why our clients include some of the biggest companies in North America.
+We know that happy employees = exceptional work and client satisfaction. That’s why we’ve created an environment that is welcoming and inspiring for all team members. We value your aspirations, and we’ll regularly help you set goals to achieve those milestones.
+We’re open, honest, and firm believers of ideas coming first – not egos. We believe in clear lines of communication and a culture that champions creativity and growth, and we always celebrate accomplishments.
+Who We’re Looking For.
+War Room is looking for a Analytics Implementation Engineer to join our growing team to manage our expanding client base. If you have:
+A love of data, and you understand its true power and potential
+Extremely sharp attention to detail, and numbers are your comfort zone
+An interest in tackling complex challenges and being at the forefront of innovation
+You might be exactly who we’re looking for!
+What You’ll Be Doing.
+As the Analytics Implementation Engineer, you’ll be supporting our Technical Marketing team in designing, implementing, and maintaining Google Analytics solutions for our clients.
+Core responsibilities include:
+Design and implement Google Analytics tracking code on websites and mobile apps
+Configure and maintain Google Analytics4/UA accounts, properties, and views
+Troubleshoot and debug tracking issues
+Analyze and interpret data to provide insights and recommendations to clients
+Work with cross-functional teams to ensure accurate tracking and data collection
+UA – GA4 migration
+Server Side Implementation
+Skills + Experience.
+3+ years of experience with Google Analytics implementation and configuration
+Strong understanding of Google Analytics tracking code and data collection
+Experience with Google Tag Manager and other related tools
+Familiarity with web development technologies such as HTML, CSS, and JavaScript
+Strong problem-solving and analytical skills
+Excellent communication and project management skills
+Apply Today.
+We’re so excited to hear from you! We are always on the lookout for team-oriented people with a passion for problem-solving.",Unknown / Non-Applicable,Advertising & Public Relations,Company - Private,Media & Communication
+"Lead Engineer, Analytics Platform",canada,"Chubb INA Holdings Inc.
+3.7",Toronto,3.7,-1,-1,-1,-1,-1,-1,10000+ Employees,1792,"Job Requirements
+
+Chubb is the world’s largest publicly traded property and casualty insurer. With operations in 54 countries, Chubb provides commercial and personal property and casualty insurance, personal accident and supplemental health insurance, reinsurance and life insurance to a diverse group of clients. The company is distinguished by its extensive product and service offerings, broad distribution capabilities, exceptional financial strength, underwriting excellence, superior claims handling expertise and local operations globally.
+
+Key Responsibilities:
+Chubb is looking for a Lead Engineer to build our newest cutting-edge analytics platform. The platform contains over eight data science empowered assets focused on solving core insurance operational problems. Our team is redefining the way that we price, underwrite, and grow portfolios. The platform touches every major product Chubb sells (i.e. Cyber, Property, Casualty, D&O, etc). This role will work closely with analytics leadership, corporate IT, and our engineering center of excellence to develop production ready APIs deployment strategies. Analytics empowered technology platforms are changing the way we operationalize model outputs at Chubb. This is a great opportunity to create develop and deploy analytics solutions for multiple lines of business, deepening your insurance product knowledge and technical expertise.
+
+Responsibilities include:
+Develop end to end data workflows for machine learning models (i.e. architecture and flow diagrams).
+Work with engineering, analytics, and IT to develop common deployment strategies for all projects in the platform.
+Lead development efforts across multiple projects at once, ensuring engineers adhere to desired state.
+Mentor and coach engineers and data scientists on best practices, upskilling and leading the engineering best efforts.
+Create and maintain CICD pipelines, improving deployment strategy for assets.
+Create data models, enabling monitoring capabilities of API products.
+Help source and automate data extraction scripts from various information systems (internal and external), with an end goal of productionalization.
+Collaborate with global and regional IT teams to develop governance best practices for the platform.
+
+Work Experience
+
+Master’s degree in a computational science or engineering field preferred.
+6+ years data engineering background with expert level python and SQL programming experience.
+Proven track record of deploying solutions from idea to implementation.
+Experience with managing engineering efforts for a containerized API product.
+Understanding of data models/relational data bases.
+Experience with Github and MLOps required.
+Excellent communication skills.
+Experience with Azure, Databricks, and cloud development preferred.
+Experience hosting machine learning models as APIs preferred (i.e. experience with Docker, MLFlow, or Flask).
+Experience with Kubernetes and bash/PowerShell preferred.
+Experience with Nodejs or Unkork a plus.
+Ability to work autonomously in a fast passed, team-oriented environment.",$10+ billion (USD),Insurance Carriers,Company - Public,Insurance
+Business Analyst & Process Engineer,canada,"York University
+4.0",Toronto,4.0,-1,-1,-1,-1,-1,-1,5001 to 10000 Employees,College / University,"Purpose:
+Accountable to the Manager, Operational Excellence, the Business Analyst and Process Engineer (BAPE) is responsible for supporting the PMO in servicing the customers, clients and stakeholders of York University. The BAPE provides subject matter and execution expertise in Lean, Six Sigma (or Lean Six Sigma) and business analysis disciplines. The BAPE provides counsel to University leadership on various topics ranging from business plans, policy and processes to staff levels and their roles. The BAPE is an agent of change leveraging best practices to affect them.Exposure to, and use of, sensitive and confidential financial and HR data for process development and re-engineering activities requires that the BAPE exercise strong judgement and discretion when disclosing information to a wider audience.
+
+Education:
+University degree preferably in business, engineering or computing. Green Belt Certification or higher in Lean Six Sigma or Six Sigma.Business Analyst Training/Certification. CCBA or CBAP certification an asset.Proficient in the use MS Project, MS Visio, MS Office (Word, Excel, Power Point, Access).Change Management certification (e.g. ProSci/ADKAR methodology) an assetKnowledge of collaborative systems such as Confluence and Basecamp an asset.
+
+Experience:
+4+ years of progressive experience in Business Analysis and/or Process (Re-)Engineering roles with project responsibilities, and a good understanding of project management methodologies, work-flow/process design and re-engineering. cost/benefit analysis for medium, large or complex systems.Thorough knowledge of system and process analysis with demonstrated experience and expertise in requirements management, process development/re-engineering and testing skills including information gathering, problem solving, and test plan creation and execution.Proven experience in process and system analysis, documentation/validation of business requirements from business users and functional specification requirements using interviews, documented analysis, tasks and workflow analysis.Experience in the development and execution of project plans, detailed task lists (project Gantt) and time estimating.Demonstrated analytical and decision making ability.Strong written, verbal and presentation skills.Proven accuracy and attention to detail.Strong interpersonal skills and the ability to work effectively in a team environment.Good knowledge of system development lifecycle, methodologies, standards, tools and techniques. Ability to identify opportunities to use technology to add value and recognize and present opportunities for adoption of process efficiencies through automation to replace existing manual work (i.e. process re-engineering). Experience in project management and system implementation processes. Experience in a Higher Education is an asset.
+
+Skills:
+Research and Analytical skills: Superior data gathering, elicitation, analytical and problem solving skills. highly skilled in evaluation of information gathered from multiple sources (including internal and external leading practices). Ability to reconcile conflicts, decompose high-level information into details, abstract up from low-level information to a general understanding, and distinguish user requests from the underlying true needs.Problem Solving: Demonstrated ability to identify optimal solutions based on the analysis of causes.Process Re-engineering: Thorough knowledge of process development and re-engineering best practices in a business to business environment to lead, cross-functional teams to analyze, develop, re-engineer and implement business workflow processes to support business products and services.Process Mapping and Design: Ability to gather input from diverse user groups and develop current/future state process maps.Conceptual Thinking: Ability to make the complex simple or link together things not obviously related.Written communication: Strong writing skills to support business recommendations and proposals. Communicating details such as the business requirements, requested changes, issues with impact assessment and recommendations.Strong oral presentation skills: Excellent verbal communication skills and the ability to interact professionally with a diverse group, executives, managers, and subject matter experts. Ability to clearly convey complex concepts and constructs in a straightforward manner.Results oriented: Demonstrated initiative. delivers results. continuously improves. displays a dynamic approach, energy and enthusiasm. Flexible: Adaptable to different circumstances. receptive to change. willing to learn. takes on additional responsibility as required. able to change priorities. Effective planning and organizational skills with the ability to adapt to change and perform effectively under pressure.Judgment: Considers context. weighs options. understands priorities, consequences. makes appropriate decisions. Conscious of audience and disclosing of confidential information when discussing process re-engineering and introduction of technological change and automation that will impact staff and work assignments.Creativity: Ability to present new ideas. looks at things in a new way and shares ideas. novel approach to existing processes or problems. Initiative: Self-starter: perceives a need and fulfills it in a relevant way. Set high personal performance standards with a demonstrated ability to plan, organize and implement activity with little to no direct supervision.Manages change: Plans for and is proactive about change. encourages new approaches. Ability to work effectively in an environment of conflicting priorities, shifting management structures, scope changes and to adjust priorities as required. Tact and diplomacy: Ability to work within a complex organizational framework. comfortable tabling difficult conversations to further positive outcomes, including recommending changes in business methods and processes that will impact staffing levels and resource allocation.
+
+Additional Notes:
+This position requires the candidate to produce a verification of degree(s), credentials(s), or equivalencies from accredited institutions and/or international equivalents at the time of interview.
+Compensation:
+York implemented a revised CPM Compensation Framework in 2019. The Framework is a salary grid consisting of 6 or 8 steps (depending on job grade) which is reviewed annually with possible adjustments, and a lump sum Performance Based Recognition Award. Employees will receive the grid adjustment and depending on performance, eligible permanent employees may move to the next step of the grid and may receive a lump sum Performance Based Recognition Award.Visit the CPM Compensation page on the HR Website to find out more about York's CPM Compensation Program.
+
+The University welcomes applications from all qualified individuals, including, but not limited to women, persons with disabilities, visible minorities (racialized), Indigenous Peoples and persons of any gender identity and sexual orientation. York University is committed to a positive, supportive and inclusive environment.
+
+York University offers accommodation for applicants with disabilities in its recruitment processes. If you are contacted by York University regarding a job opportunity or testing, please advise if you require accommodation.
+
+We are committed to enhancing our environmentally and socially responsible practices for the benefit of all members of the York community. Our long term perspective recognizes our responsibility to be innovators and to continually work as a community to reduce our ecological impact.
+
+York University employees must apply to jobs through the Employee Career Portal - YU Hire. If you are a current York University employee and/or are using your rights under a collective agreement to view and/or apply to jobs, you MUST log into YU Hire to access the York University Employee Career Portal.
+
+PLEASE NOTE: Applications must be received by 11:55 pm EST on the posted deadline date, if applicable.",-1,Education,Colleges & Universities,$1 to $5 billion (USD)
+Capital & Maintenance Program Analyst,canada,"Toronto Hydro
+3.8",Toronto,3.8,-1,-1,-1,-1,-1,-1,1001 to 5000 Employees,1911,"WORK ILLUSTRATION:
+The Capital and Maintenance Program Analyst is responsible for the effective business operations associated with Toronto Hydro-Electric Systems Limited (THESL) Capital and Maintenance programs. The Incumbent will support the end-to-end delivery of an outsourced portfolio of the organization’s capital work program. This includes supporting technical and administrative tasks to manage selected vendors during the design, pre-construction and construction stages of the projects. This also includes monitoring the on-time, on cost completion of the assigned work program to ensure the work meets the distribution system needs, and is constructible with a high degree of safety and reliability built into the design.
+
+The incumbent is expected to behave ethically and follow the established code of business conduct, policies and internal control procedures, laws and regulations governing Toronto Hydro.
+
+Toronto Hydro has implemented a mandatory vaccination requirement for all its employees. Proof of full vaccination will be required upon receiving a conditional offer of employment. Toronto Hydro will provide reasonable accommodation to individuals who cannot be vaccinated due to disability or any other ground protected by the Ontario Human Rights Code.
+
+KEY RESPONSIBILITIES:
+Support management of contractor performance.
+Liaise with internal and external stakeholders to assist in the successful coordination and delivery of project/program.
+Assist in reviewing system level electrical and civil design drawings for conformance to technical Standards and constructability.
+Perform monthly/ad hoc billings for external vendors.
+Participate in field reviews of design drawings and construction activities including safety audits.
+Analyze gap and trend for various projects/programs. Determine and address root cause/gaps.
+Facilitate external/internal meetings.
+Prepare reports pertaining to project/program status and outcomes.
+Lead and participate in process improvement initiatives as well as process mapping.
+Participate in corporate wide initiatives to support overall business strategy.
+
+REQUIREMENTS:
+Bachelor degree in Engineering (Electrical Engineering preferred).
+Five (5) - Seven (7) years' of experience in data analysis, gap analysis and reporting results.
+Five (5) - Seven (7) years' of experience in business process redesign, analysis for business projects, identification areas for improvement and development of new initiatives.
+Two (2) or more years of experience in construction project environment is preferred.
+Excellent verbal and written communication skills.
+Results driven and have excellent attention to detail.
+
+Toronto Hydro has introduced a Hybrid Work Arrangement. This position allows for remote work up to three days per week, based on business needs. Employees will be required to come onsite on those days when they are involved in activities that they or their leader feel are better conducted in person. You are expected to live in Ontario and within reasonable commuting distance of the office.
+
+
+Job Segment: Electrical Engineering, Electrical, Business Process, Programmer, Engineer, Engineering, Management, Technology",$1 to $5 billion (USD),Energy & Utilities,Government,"Energy, Mining & Utilities"
+Engineering - Business Analyst,canada,"BMO Financial Group
+3.9",Toronto,3.9,-1,-1,-1,-1,-1,-1,10000+ Employees,1817,"4100 Gordon Baker Road Toronto Ontario,M1W 3E8
+#BPTNTechTalk
+Liaises with stakeholders to understand problems and opportunities and, recommends solutions to enable the achievement of organizational goals. Builds exceptional relationships with business partners and internal stakeholders. Analyzes data and creates documents and plans in service of informing, advising, or updating stakeholders. Ensures the requirements map to a real business need, are approved by all relevant stakeholders, and meet essential quality standards. Participates in reviews or inspections, in collaboration with the project team, to ensure the quality of work products.
+Manages complexity across business value, technology, and interaction models.
+Possesses a deep understanding and problem solving ability of various complexities.
+Develops innovative approaches to create solutions to resolve problems and significant issues.
+Recommends and implements solutions based on analysis of issues and implications for the business.
+Identifies emerging issues and trends to inform decision-making.
+Contributes to the development of the seed funding request by ensuring project scope and benefits are clearly articulated and risks are identified.
+Enables groups to successfully accept changes by informing stakeholders of their implications; recommends actions as appropriate.
+Prepares and delivers presentations for senior leaders.
+Acts in a larger project planning capacity.
+Audits the quality of reports submitted by analysts and provides related coaching and support.
+Supports the Request for Information (RFI) or Request for Proposal (RFP) with vendors if required.
+Leads the preparation of end user reference materials and prepares end-user training materials.
+Works with project stakeholders to validate their requirements and analysis models via techniques such as reviews and walkthroughs.
+Ensures system specifications meet expectations/requirements, and negotiates solutions.
+Creates documentation to ensure the supportability of analyses.
+Maintains existing requirements to ensure that current-state needs are known.
+Develops and implements data collection systems and other strategies that optimize statistical efficiency and data quality.
+Identifies, analyzes, and interprets trends or patterns in complex data sets.
+Filters and “cleans” data, and reviews computer reports, printouts and performance indicators to locate and correct code problems.
+Remains alert to new techniques for insights, analytics, and data visualization, and devises new ways of applying them.
+Interprets data, analyzes results using statistical techniques and provide ongoing reports.
+Recommends approaches to streamline and integrate technological processes in the organization to improve overall efficiency.
+Facilitates discussions and follows a structured approach to plan, elicit, analyze, document, communicate and manage requirements with stakeholders.
+Provides analytical support and insights.
+Identifies opportunities to strengthen business analysis capability, such as: sharing expertise to promote technical development, mentoring employees, building communities of practice and networks across BMO.
+Stays abreast of industry technical and business trends through participation in professional associations, practice communities & individual learning.
+Focus is primarily on business/group within BMO; may have broader, enterprise-wide focus.
+Provides specialized consulting, analytical and technical support.
+Exercises judgment to identify, diagnose, and solve problems within given rules.
+Works independently and regularly handles non-routine situations.
+Broader work or accountabilities may be assigned as needed.
+Qualifications:
+Typically between 5 - 7 years of relevant experience and post-secondary degree in related field of study or an equivalent combination of education and experience.
+Possesses analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy.
+Demonstrates applied knowledge of one or more analysis and problem decomposition technique.
+Understands complete Software Development Life Cycle and can apply the applicable portions of the ‘Feasibility,’ ‘Requirements,” and ‘Analysis’ phases.
+Demonstrates writing and documentation skills.
+Understands and can explain to others the core processes involved in their area of support.
+Deep knowledge and technical proficiency gained through extensive education and business experience.
+Verbal & written communication skills - In-depth.
+Collaboration & team skills - In-depth.
+Analytical and problem solving skills - In-depth.
+Influence skills - In-depth.
+Data driven decision making - In-depth.
+We’re here to help
+At BMO we are driven by a shared Purpose: Boldly Grow the Good in business and life. It calls on us to create lasting, positive change for our customers, our communities and our people. By working together, innovating and pushing boundaries, we transform lives and businesses, and power economic growth around the world.
+As a member of the BMO team you are valued, respected and heard, and you have more ways to grow and make an impact. We strive to help you make an impact from day one – for yourself and our customers. We’ll support you with the tools and resources you need to reach new milestones, as you help our customers reach theirs. From in-depth training and coaching, to manager support and network-building opportunities, we’ll help you gain valuable experience, and broaden your skillset.
+To find out more visit us at https://jobs.bmo.com/ca/en
+BMO is committed to an inclusive, equitable and accessible workplace. By learning from each other’s differences, we gain strength through our people and our perspectives. Accommodations are available on request for candidates taking part in all aspects of the selection process. To request accommodation, please contact your recruiter.
+Note to Recruiters: BMO does not accept unsolicited resumes from any source other than directly from a candidate. Any unsolicited resumes sent to BMO, directly or indirectly, will be considered BMO property. BMO will not pay a fee for any placement resulting from the receipt of an unsolicited resume. A recruiting agency must first have a valid, written and fully executed agency agreement contract for service to submit resumes.",$10+ billion (USD),Investment & Asset Management,Company - Public,Financial Services
+"Analyst, Process Engineering",canada,"Canada Post - Postes Canada
+3.7",Saint-Laurent,3.7,-1,-1,-1,-1,-1,-1,10000+ Employees,Government,"Job Requisition Id: 151457
+Business Function: Engineering
+Primary City: Saint-Laurent
+Other Location(s):
+Province: Quebec
+Employment Type: Full-Time
+Employment Status: Term (2 years contract with possibility of extension and/or permanency)
+Language Requirement: Bilingual Imperative (BBBB)
+Employee Class and Level: UPCET01
+Number of Vacancies: 1
+Job Closing Date (MM/DD/YYYY): 06/08/2023
+
+This position may require to work occasionally on different shift, depending on the ongoing project.
+Job Description
+The Analyst, Process Engineering, applies Industrial Engineering methods and techniques in the area of mail sortation, transportation and delivery, taking into consideration equipment, facilities and human resources, to improve the measures associated with cost, quality, service, safety and people at Canada Post.
+Job Responsibilities
+Below are the job requirements and responsibilities for the Analyst, Process Engineering.
+
+Provides technical, business and problem analysis to support Engineering optimization projects and participates in the creation and implementation of process improvement solutions.
+
+Analyzes proposals to determine viability, operational impact and return on investment. Performs method improvement studies by analyzing existing layouts for workflow and suitability of all methods. Recommends improvements to work methods, process layouts, standardized work procedures and visual information systems.
+
+Participates in various project teams within the Region. Coordinates activities within own projects or portions of other projects within the department. Participates in the productivity standards development effort and recommends changes to standards.
+
+Applies the principles of Lean, Six Sigma and Change Management to all work and Project Management methods and tools to give structure to assignments, to promote time urgency and productivity. Applies basic lean thinking concepts in the mail operations environment to identify and remove waste, to reduce lead time and cost.
+
+Evaluates and updates existing Standard Operating Procedures (SOP) to keep practices current. Analyzes procedures to identify areas for improvement and make recommendations for changes.
+Job Responsibilities (continued)
+Undertakes Level 1 and Level 2 audits to drive the development of an improvement plan for the engineering or Operations owner of work centres and processes.
+
+Develops and maintains reporting systems that capture appropriate system measures of quality, cost, timeliness and delivery.
+
+Analyzes performance data in order to provide a clear understanding of problems, issues or opportunities that require immediate correction action and improvement.
+
+Guides or coordinates the work of others within the work unit or functional team.
+
+Develops processing strategies for the future using knowledge of upcoming technological processing and product innovations. Participates in technical reviews, evaluations, feasibility analysis, process flow analysis of processes to develop, and recommends and implements viable solutions
+Qualifications
+Education
+A University or college degree/diploma in a related field.
+
+Experience
+1-3 years of related work experience is required.
+
+Other Candidate Requirements
+Working knowledge of Microsoft Office applications including Excel, Word and PowerPoint, or similar software, and database development using MS Access, or similar software.
+Understands Lean principles, data analysis methods, process mapping and engineering economics.
+Skilled at identifying customer needs and designing business processes and solutions to meet customer requirements.
+Adept at customer engagement.
+Other Information
+
+Essential Requirements
+
+Knowledge:
+Quality methods and basic statistics including variation thorough knowledge of Lean, Six Sigma and process management
+Process and value stream mapping
+Measurement system design (outcome and process metrics)
+Systems/process design
+Data analysis methods and model building
+Database development
+Business engineering economics and evaluation of returns on investment
+Testing and sampling methodologies
+Basic ergonomics of work and work design
+Working knowledge of query languages such as MS Access and SQL Server (asset)
+
+Skills and Abilities:
+Proven ability to apply Lean thinking to both operational and management value streams
+Above average skills with Microsoft suite of tools such as Excel, Word, and PowerPoint
+Skilled at process design for capability
+Skilled at analyzing data
+Skilled with work methods measurement
+Skilled at preparing cost/ benefit analysis
+Skilled at developing databases, queries, macros and analysis tools
+Proven ability to test developed designs
+Skilled at identifying technology solutions to meet customer needs
+Proven ability to write technical and business documents
+Skilled at identifying customer needs and designing business processes and solutions to meet customer requirements (asset)
+
+Personal Suitability:
+Proficient in professional presentations and verbal communication
+Effective communicator with technical and non-technical personnel
+Demonstrates innovative thinking and initiative in the analysis and development of projects (asset)
+Familiar with working in a union environment (asset)
+
+Context
+
+Canada Post is in a transformational phase to meet new customer needs, including e-commerce, sorting and home delivery. Process and logistics engineering is responsible for innovating in order
+to develop new processes, automate manual processes, optimize existing processes, accelerate processing and delivery, and increase the reliability of its services.
+
+Specific advantages :
+Flexible work schedules
+Job stability and opportunities for advancement
+Full range of group benefits including medical, dental, vision and more (after 6 months for term positions for some of these)
+Retirement Savings Program (after 6 months for term positions)
+The chance to work in a team of more than 20 industrial/operations and logistics engineers
+Work in a department exclusively dedicated to process engineering
+See the direct impact of its changes
+Work in a dynamic and evoluting team
+
+Safety Sensitive Positions
+This position may be considered a Safety Sensitive position.
+
+Employment Equity
+Canada Post will represent Canada’s diversity and provide a safe and welcoming workplace that embraces and celebrates our differences.
+We are committed to employment equity and encourage applications from women, Indigenous Peoples, persons with disabilities and visible minorities.
+
+Conflict of Interest
+The Conflict of Interest Policy prohibits employees from hiring, supervising or reporting to, directly or indirectly via the reporting hierarchy, their immediate family or close personal relations. Should you feel that you may be in an actual or potential Conflict of Interest in regard to this job opportunity, you must communicate with the designated Human Resources representative.
+
+Accommodation
+Canada Post is committed to providing an inclusive and barrier-free work environment, starting with the hiring process. If you are contacted by Canada Post regarding a job opportunity, please advise if you have any restrictions that need to be accommodated. All information received in relation to accommodation will be kept confidential.
+
+Important Message
+Your application must clearly demonstrate how you meet the requirements as Canada Post cannot make assumptions about your education and experience. We thank all those who apply. Only those selected for further consideration will be contacted.
+
+Leadership Behaviours
+Decision Making – A champion of the organization who takes calculated risks and makes prudent, common sense decisions about current issues, future opportunities and resource requirements in a timely, well thought out manner, that aligns with the corporation's best interests.
+Accountability – An individual who strives for performance excellence and who holds him/herself and direct reports accountable for decisions and actions and for learning from mistakes when intended results are not achieved.
+Business Orientation – A proactive individual who understands the competitive nature of the business, and is committed to sustaining the business through excellent customer service and new business opportunities.
+Execution – A focused and self-motivated individual who acts with a sense of urgency and delivers on time and within budget, by dealing effectively with challenges and ambiguous situations.
+Leading People – A compelling communicator and leader who engages, motivates and inspires others to achieve results and who encourages personal growth and finding better ways of doing things.
+
+Our Values
+We value diversity as an essential part of who we are as a company, how we operate and how we see our future. We believe that attracting, developing, and retaining people who reflect the diversity of Canada is essential to our success because this matters to all communities and customers we serve.
+Canada Post’s corporate values reflect the principles, beliefs and aspirations that guide our behaviour and shape our culture.
+Safety – We are committed to a safe and healthy environment for all our stakeholders.
+Customer – We serve Canadians with pride and passion.
+Respect – We treat each other with fairness and respect.
+Integrity – We act responsibly and with integrity.
+Transformation – We will innovate and transform to win in the marketplace.",-1,Government & Public Administration,National Agencies,$5 to $10 billion (USD)
+Analytics Implementation Engineer,canada,"Best Buy
+3.8",Vancouver,3.8,-1,-1,-1,-1,-1,-1,10000+ Employees,1966,"Analytics Implementation Engineer
+Do you have a passion for data and analytics?
+As an Analytics Implementation Engineer on the Data & Analytics team, you will play a critical role enabling data collection for key business objectives and improving our implementation, you will be involved in the entire implementation process and play an active role in helping to define and execute on our data & analytics roadmap.
+We practice a remote first working model, leveraging in person interactions at our head office, in beautiful Vancouver, BC, for strategic, collaborative, and social purposes.
+Apply now and grow your career with our Data & Analytics team as an Analytics Implementation Engineer.
+What you’ll do:
+Work cross-functionally with analysts, agile development teams and business stakeholders to ensure tracking is in place for key business objectives
+Implement tagging for multiple platforms including Adobe, Google and other third-party tools
+Develop, document, and implement best practices for data collection with a focus on continuously improving and automating our implementation
+Help define and execute on a roadmap of analytics and testing improvements
+Lead the development and oversee execution of tag and data governance strategy
+Support our A/B testing and personalization program including setting up tests, building audiences and optimizing our platforms and processes
+Work with legal and data engineering teams to ensure that data collection is compliant with legislation such as GDPR and Bill C64
+What we’re looking for:
+2+ years’ experience designing and implementing analytics solutions across web and app
+Expertise in Adobe Analytics and Adobe Launch, familiarity with Google Analytics a bonus
+Experience with testing platforms such as Adobe Target and Optimizely
+Experience designing and implementing enterprise data layers and data governance strategies
+Experience with debuggers and audit tools such as Charles, ObservePoint and developer console
+Proven experience across the implementation lifecycle, including requirements gathering, creating, and testing tagging, troubleshooting/debugging, and implementing fixes
+Front-end development skills including JavaScript, HTML, CSS and JSON
+Why you’ll love it here:
+Remote-first work environment
+Employee discounts on awesome tech from day one
+Flexible health benefits and wellness program
+TFSA and RRSP programs
+100% matched company pension plan
+Training programs to build new and transferable skills",$10+ billion (USD),Consumer Electronics & Appliances Stores,Company - Public,Retail & Wholesale
+"Contract, Capital & Maintenance Program Analyst",canada,"Toronto Hydro
+3.8",Toronto,3.8,-1,-1,-1,-1,-1,-1,1001 to 5000 Employees,1911,"WORK ILLUSTRATION:
+The Capital and Maintenance Program Analyst is responsible for the effective business operations associated with Toronto Hydro-Electric Systems Limited (THESL) Capital and Maintenance programs. The Incumbent will support the end-to-end delivery of an outsourced portfolio of the organization’s capital work program. This includes supporting technical and administrative tasks to manage selected vendors during the design, pre-construction and construction stages of the projects. This also includes monitoring the on-time, on cost completion of the assigned work program to ensure the work meets the distribution system needs, and is constructible with a high degree of safety and reliability built into the design.
+
+The incumbent is expected to behave ethically and follow the established code of business conduct, policies and internal control procedures, laws and regulations governing Toronto Hydro.
+
+Toronto Hydro has implemented a mandatory vaccination requirement for all its employees. Proof of full vaccination will be required upon receiving a conditional offer of employment. Toronto Hydro will provide reasonable accommodation to individuals who cannot be vaccinated due to disability or any other ground protected by the Ontario Human Rights Code.
+
+KEY RESPONSIBILITIES:
+Support management of contractor performance.
+Liaise with internal and external stakeholders to assist in the successful coordination and delivery of project/program.
+Assist in reviewing system level electrical and civil design drawings for conformance to technical Standards and constructability.
+Perform monthly/ad hoc billings for external vendors.
+Participate in field reviews of design drawings and construction activities including safety audits.
+Analyze gap and trend for various projects/programs. Determine and address root cause/gaps.
+Facilitate external/internal meetings.
+Prepare reports pertaining to project/program status and outcomes.
+Lead and participate in process improvement initiatives as well as process mapping.
+Participate in corporate wide initiatives to support overall business strategy.
+
+REQUIREMENTS:
+Bachelor degree in Engineering (Electrical Engineering preferred).
+Five (5) - Seven (7) years' of experience in data analysis, gap analysis and reporting results.
+Five (5) - Seven (7) years' of experience in business process redesign, analysis for business projects, identification areas for improvement and development of new initiatives.
+Two (2) or more years of experience in construction project environment is preferred.
+Excellent verbal and written communication skills.
+Results driven and have excellent attention to detail.
+Able to prioritize and manage multiple projects/tasks to meet deadlines.
+Able to proactively flag At-Risk areas of business based on analysis of data and Key Performance Indicators (KPIs).
+Project/program management experience preferred.
+Project Management Professional (PMP) designation is an asset.
+Excellent analytical and business solution development skills, including the proven ability to function effectively in a dynamic environment.
+Class G license is preferred.
+Familiarity with SAP enterprise modules is an asset.
+Fully proficient in the use of Microsoft Office applications including advanced working knowledge in MS Excel, MS Word.
+Experience with process mapping and procedure writing.
+Ability to develop dependable feedback systems and tracking.
+Business and strategic thinking acumen.
+
+Toronto Hydro has introduced a Hybrid Work Arrangement. This position allows for remote work up to three days per week, based on business needs. Employees will be required to come onsite on those days when they are involved in activities that they or their leader feel are better conducted in person. You are expected to live in Ontario and within reasonable commuting distance of the office.
+
+
+Job Segment: Data Analyst, Programmer, Project Manager, SAP, ERP, Data, Technology",$1 to $5 billion (USD),Energy & Utilities,Government,"Energy, Mining & Utilities"
+"Analyst/Senior Associate, AML - Financial Engineering & Modeling (FEM)",canada,"Deloitte
+4.0",Toronto,4.0,-1,-1,-1,-1,-1,-1,10000+ Employees,1850,"Job Type: Permanent
+Reference code: 122995
+Primary Location: Toronto, ON
+All Available Locations: Toronto, ON
+
+Our Purpose
+
+At Deloitte, we are driven to inspire and help our people, organization, communities, and country to thrive. Our Purpose is to build a better future by accelerating and expanding access to knowledge. Purpose defines who we are and gives us reason to exist as an organization.
+By living our Purpose, we will make an impact that matters.
+Learn from deep subject matter experts through mentoring and on the job coaching
+Be encouraged to deepen your technical skills…whatever those may be.
+Have many careers in one Firm.
+
+Would you like to further develop your career with our exponentially expanding Financial Advisory Service, Modelling and Value Advisory group? Are you up for the challenge to help the most sophisticated Canadian and International clients to solve their quantitative and modelling issues?
+What will your typical day look like?
+In this role you will help financial services industry (FSI) clients face quantitative issues with informed confidence. Using your deep technical skills and leveraging our global network of experts, you’ll provide professional advice to our FSI clients in a wide range of situations. The result? Our clients will be better placed to take control and receive the best solutions to their complex challenges.
+
+Develop/validate/review AML/ATF models (e.g. Transaction Monitoring, Client Risk Rating, and Sanction Screening models) based on regulatory guidelines and industry best practices.
+
+You will also be able to learn and work in other quantitative and analytical areas including customer behavior modeling, scenario modelling, capital optimization problems, and new innovations such as cloud computing, machine learning and artificial intelligence
+About the team
+Deloitte’s Financial Advisory practice delivers highly specialized advisory solutions for companies facing critical business events where significant value is at stake, in every phase of the economic cycle.
+
+Our work is often high profile, high impact, and highly rewarding. If you’re looking for a challenge and an opportunity to grow your career alongside the best and brightest in the industry, you’ll find it in Financial Advisory at Deloitte. Broaden your skills. Broaden your reach. Broaden your career. It’s all possible at Deloitte.
+Enough about us, let’s talk about you
+
+Ideally, you are someone with:
+
+Minimum 1/2 years of relevant experience spent within a model development or model validation team at a major financial institution; AML/ATF model related development and validation experience are a plus
+Solid academic background with a master’s degree in Statistics, Financial Engineering, Quantitative/Mathematical Finance, Financial Economics, Financial Risk Management, or other relevant post graduate degree
+Solid knowledge and hands-on experience in classification model development/validation using both traditional techniques as well as AI/machine learning techniques
+Solid knowledge and hands-on experience in developing/validating predictive models, risk rating methodology; Knowledge in developing/validating text parsing and matching algorithms is a plus
+Strong programming skills in Python, R, SQL, SAS, VBA, etc. with hands-on experience working with large and complex data are critical to success; Automation experience with any of these programming languages is a plus
+Self-starter, fast-learner, and highly motivated individual who can excel under fast-paced environment and meet stringent deadlines; Strong communication skills are critical
+Knowledge/experience of supervisory/regulatory requirements and guidelines including OSFI E-23, FINTRAC guidelines on AML/ATF, and PCMLTFA. Knowledge of industry best practices for AML/ATF such as Wolfsberg Principles is a plus
+Canadian travel required and occasional international travel. Candidates must be able to enter the USA to work on client assignments
+
+Our promise to our people: Deloitte is where potential comes to life.
+
+Be yourself, and more.
+We are a group of talented people who want to learn, gain experience, and develop skills. Wherever you are in your career, we want you to advance.
+You shape how we make impact.
+Diverse perspectives and life experiences make us better. Whoever you are and wherever you’re from, we want you to feel like you belong here. We provide flexible working options to support you and how you can contribute. Be the leader you want to be.
+Be the leader you want to be
+Some guide teams, some change culture, some build essential expertise. We offer opportunities and experiences that support your continuing growth as a leader.
+Have as many careers as you want.
+We are uniquely able to offer you new challenges and roles – and prepare you for them. We bring together people with unique experiences and talents, and we are the place to develop a lasting network of friends, peers, and mentors. Our TVP is about relationships – between leaders and their people, the firm and its people, peers, and within in our communities.
+
+The next step is yours
+
+At Deloitte, we are all about doing business inclusively – that starts with having diverse colleagues of all abilities. Deloitte encourages applications from all qualified candidates who represent the full diversity of communities across Canada. This includes, but is not limited to, people with disabilities, candidates from Indigenous communities, and candidates from the Black community in support of living our values, creating a culture of Diversity Equity and Inclusion and our commitment to our AccessAbility Action Plan, Reconciliation Action Plan and the BlackNorth Initiative.
+We encourage you to connect with us at accessiblecareers@deloitte.ca if you require an accommodation for the recruitment process (including alternate formats of materials, accessible meeting rooms or other accommodations). We’d love to hear from you!
+By applying to this job you will be assessed against the Deloitte Global Talent Standards. We’ve designed these standards to provide our clients with a consistent and exceptional Deloitte experience globally.
+Deloitte Canada has 30 offices with representation across most of the country. We acknowledge our offices reside on traditional, treaty and unceded territories as part of Turtle Island and is still home to many First Nations, Métis, and Inuit peoples. We are all Treaty people.",$10+ billion (USD),Accounting & Tax,Company - Private,Financial Services

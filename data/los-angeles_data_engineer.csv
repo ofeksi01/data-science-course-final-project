@@ -1,0 +1,1045 @@
+Job Title,Glassdoor Location,Employer Name,Location,Rating,Salary,Carrier Opportunities,Culure And Values,Senior Management,Comp And Benefits,Life Balance,Company Size,Found year,Description,Company Revenue,Industry,Company Type,Company Sector
+Data Analytics Engineer,los-angeles,"The Bouqs Company
+3.1","Marina del Rey, CA",3.1,Employer Provided Salary:$120K - $180K,2.8,3.2,2.9,3.2,3.6,51 to 200 Employees,2012,"The role contributes to The Bouq’s mission of revolutionizing the way we commemorate life’s moments by connecting people to beautifully designed floral experiences and the responsible partners who create them by being a key member of the data team. As an Analytics Engineer, you will work closely with the Product, Engineering, and Data teams to build and maintain the data infrastructure needed to support our data and business needs. You will also be responsible for developing, optimizing, and maintaining the best-in-class data pipelines, data models, and ETL processes to ensure that data is accurate, reliable, and available to stakeholders in a timely manner. The Analytics Engineer will also serve as the liaison between Engineering and Analytics and will serve as an active member in both teams.
+Responsibilities:
+Lead the transfer of data modeling from legacy systems to DBT
+Contribute to building the data modeling layer, which exposes clean, transformed data to the whole company for analytics
+Build datasets in DBT (cloud) for data analysts to improve speed and accuracy for the team
+Improve current processes, whether that includes modularizing and standardizing a piece of commonly used code
+Design and develop new data pipelines and streaming processes that are highly available, scalable, and reliable
+Develop review processes for new data models and take charge on implementing SQL standards for the team
+Actively strive towards writing performant SQL rather than just SQL that works, while also ensuring the same SQL is easy to understand when new eyes look at it
+Optimize data processing and flow within our Snowflake Data Warehouse
+Document new datasets and pipelines and the reasoning/story behind their structure
+Work closely with engineering to keep track of schema changes in the production database and adjust pipelines, as needed
+Support existing data pipelines and systems in production
+Apply software engineering best practices to analytics code such as version control and testing
+Develop and communicate strong opinions about best practices in analytics
+Help explore and evaluate new technologies
+Qualifications:
+4+ years of experience working within a data team, preferably as an Analyst/Data Engineer
+Bachelor's degree in a quantitative field such as statistics, mathematics, economics, or computer science preferred
+Strong SQL fluency in both DDL/DML and analytics (Snowflake experience is a plus)
+Experience working with JSON, DBT or other data transformation tools
+Experience working with an ETL tool such as Fivetran or Stitch
+Knowledge of data structures and how to write performant SQL
+Experience with ensuring data quality through testing, deltas, lineage, etc
+Strong communication and critical thinking skills to deliver solutions that not only solve problems but also serve as tools we didn’t know we needed
+Ability to transform raw data into intuitive datasets that serve as building blocks for analytics
+Comfortable leading the growth of a data warehouse and maintaining it
+Capable of working through uninformative assumptions and built-biases in datasets and are not stalled when data is not perfect/sparse
+Compensation & Perks:
+Competitive Base Salary Range of $120,000.00 - $180,000.00 USD + Equity Package
+Health, Dental & Vision with 100% employee coverage
+401k Matching
+Three Weeks Paid Vacation
+Discounts on The World’s Best Flowers (obviously!)
+Work on cutting edge new technologies
+About The Bouqs:
+Our mission here at The Bouqs is to revolutionize the way we commemorate life’s moments by connecting people to beautifully designed flowers and the responsible partners who create them. Grounded in transparency, responsibility, and simplicity, we create genuine moments of emotional connection for our customers, build meaningful relationships with like-minded farmers and florists while empowering them to thrive, and eliminate unnecessary waste along the way.
+
+Founded in 2012, The Bouqs is a venture-backed online floral retailer that delivers flowers fresh from eco-friendly, sustainable farms to doorsteps nationwide. Headquartered in Marina Del Rey, CA, The Bouqs connects farms and a curated network of artisan florists directly to consumers and disrupts the traditional supply chain by eliminating overhead costs like warehouses, importers, distributors, auctioneers and more. In turn, this model enables a superior product and redefines the experience and economics for both consumers and producers alike.
+
+For more information, visit www.bouqs.com and follow the #BouqLove on Facebook, Instagram and Twitter.
+The Bouqs is an Equal Opportunity Employer!",$25 to $100 million (USD),Other Retail Stores,Company - Private,Retail & Wholesale
+"Software Engineer, Data Platforms",los-angeles,"Whatnot
+4.4","Los Angeles, CA",4.4,$109K - $163K (Glassdoor est.),4.3,4.3,4.2,4.4,4.0,201 to 500 Employees,2019,"Whatnot
+Whatnot is a livestream shopping platform and marketplace backed by Andreessen Horowitz, Y Combinator, and CapitalG. We're building the future of ecommerce, bringing together community, shopping and entertainment. We are committed to our values, whether working remotely or from one of our offices. We are building a team that has experience from top tech, retail and payments platforms in the world.
+We're innovating in the fast-paced world of live auctions in categories including sports, fashion, video games, and streetwear. The platform couples rigorous seller vetting with a focus on community to create a welcoming space for buyers and sellers to share their passions with others.
+And, we're growing. Whatnot has been the fastest growing marketplace in the US over the past two years and we're hiring forward-thinking problem solvers across all functional areas.
+Opportunity Size
+Retail disruption is one of the largest opportunities in the startup space today. Livestream shopping is taking off around the world – a $300B GMV market in China that's grown 100% YoY. Whatnot is bringing it to the world through a community-first approach, starting in the U.S. where retail is a $5T market opportunity!
+Role
+We are looking for intellectually curious, highly motivated software engineers to be foundational members of our Machine Learning and Data Platform team. You will build partnerships across the company and design scalable solutions to pressing business goals.This role will drive end-to-end initiatives leveraging software, data & machine learning.
+What you'll do:
+Identify and make key decisions about how we build data systems at Whatnot – and then make it happen.
+Contribute to the design and implementation of our data platform architecture. We're an entirely cloud-based company and team, and our environment grows more sophisticated as we scale. You will help craft best practices and roll outs to steer the direction of the team.
+Work with key stakeholders to design data applications for both internal and external audiences and a variety of use cases, such as machine learning, experimentation, and real-time analytics.
+Support efforts to optimize the entire data platform, including our real-time logging solutions, analytics databases, data warehouse, metrics store, and more.
+You
+Curious about who thrives at Whatnot? We've found that low ego, a growth mindset, and leaning into action and high impact goes a long way here.
+As our next software engineer, you should have 3+ years of experience, plus:
+Proficiency in at least one server-side programming language (preferably Python or C#), common algorithms and data structures, and software design principles.
+Ability to write well-tested, API-driven applications and services that run at scale in production.
+Significant experience in one or more of our core data platform capabilities:
+Batch and streaming design patterns and tools (Kinesis, Kafka) and developing event-driven applications.
+Management of cloud data warehouses (Snowflake, BigQuery, Redshift, etc.) for processing and serving data products.
+Machine learning operations and tools (Orchestration, distributed model training, feature stores) for scaling out model development and supporting developers.
+Understanding of the cloud, and experience with at least one of the major cloud providers (AWS, GCP, Azure) and their associated standard methodologies (basic networking, authentication/authorization patterns, patterns for high-availability and fault-tolerance, etc.).
+Comfort with infrastructure-as-code approaches (Terraform, CloudFormation, Pulumi, etc.).
+Professionalism around collaborating in a remote working environment. Above average documentation and communication skills.
+Benefits
+Competitive base salary and stock options
+Unlimited Vacation Policy and Company-wide Holidays (including a spring and winter break)
+Health Insurance options including Medical, Dental, Vision, Life, Short term disability & Long term Disability
+Whatnot covers 99% of employee premium costs, and 75% of dependent care premiums for Medical
+Dental and Vision sponsored 100% by Whatnot for employees and dependents
+Work From Home Support
+Laptop provided by Whatnot and home office setup allowance
+$450 work-from-anywhere quarterly allowance for cell phone and internet
+Care benefits
+$1,350 quarterly allowance on food
+$1,500 quarterly allowance for wellness
+16 weeks Paid Parental Leave and gradual return to work
+$5,000 annual allowance towards Childcare
+$20,000 lifetime benefit for family planning, such as adoption or fertility expenses
+Professional Development
+$2,000 annual benefit to invest in your professional development
+401k offering for Traditional and Roth accounts provided by Betterment
+Employer matching contributions of 100% of up to 4% of contributions on base salary
+EOE
+Whatnot is proud to be an Equal Opportunity Employer. We value diversity, and we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, parental status, disability status, or any other status protected by local law. We believe that our work is better and our company culture is improved when we encourage, support, and respect the different skills and experiences represented within our workforce.",Unknown / Non-Applicable,Internet & Web Services,Company - Private,Information Technology
+Data Engineer,los-angeles,OP3N WORLD,"Los Angeles, CA",-1,-1,-1,-1,-1,-1,-1,-1,-1,"OP3N was founded in 2021 as a subsidiary of EST Media Holdings, OP3N imagines a world where every human can create, own, and connect their ideas to community. Our mission is to be a launchpad for ideas and communities to create meaningful experiences together by consolidating the tools needed to mint, share and engage with NFTs and digital tokens into one vertical stack.
+OP3N leverages its cross-industry expertise from the entertainment, gaming and tech ecosystems to lay the foundations for a new era of community-driven, inclusive entertainment while bringing everyone together on a journey into Web3.
+We're looking for an experienced Senior Data Engineer to own and scale our data infrastructure as we continue to build a first-of-its-kind web3 super app. This is a unique opportunity to join a small team of engineering and product leaders at the ground level, building scalable data solutions for what could be hundreds of millions of active users globally.
+
+Key Responsibilities
+Immediate:
+Audit current data infrastructure and availability in Cloud Firestore
+Spec and implement a new data warehouse (I.e. Snowflake)
+Partner with Product to develop a scalable data infrastructure and analytics framework with ever increasing user data
+Partner with engineering to ensure data flows into an easily queryable solution
+Ongoing
+Create and audit data infrastructure as the company, users, and product grows
+Build well-designed scalable systems to extract, transform, and load data into warehouses from a variety of sources
+Own data for new products/features: define data sources and architecture, set up data pipeline, design warehouse & reporting, etc.
+Explore available technologies and design solutions to continuously improve our data quality, workflow reliability, and scalability while reporting performance and capabilities
+Ideal Background & Skillset
+5+ years of professional experience in data engineering
+3-4 years of deep data pipeline experience including data warehouse setup
+Proven builder - has created & maintained warehouses
+Excellent written and verbal communication skills - able to clearly communicate needs and directions asynchronously across key stakeholders
+Experience partnering with Product and Engineering teams on large scale data projects
+Technical expertise:
+Fluency in Python
+Knowledge of Kafka & streaming technologies
+Machine learning + data modeling expertise a plus",-1,-1,-1,-1
+Senior Engineer - Data,los-angeles,"VideoAmp Careers Website
+3.6","Los Angeles, CA",3.6,$113K - $156K (Glassdoor est.),3.9,3.4,3.2,4.3,3.4,201 to 500 Employees,2014,"As a Senior Data Engineer, you'll be involved in the development, testing, and deployment of data models and pipelines that power our measurement platform. This platform provides our clients with disruptive insights into how their television and digital advertising is valued, transacted and measured.
+Our engineers are passionate about creating quality, trusted solutions as part of a collaborative and dynamic organization. The successful candidate will be a detailed-oriented self-starter with a passion for growth and a high standard for their work.
+Technologies We Use: AWS, Google Cloud, Kubernetes, Databricks, Airflow, Spark, Postgres, Snowflake, Go, Python, gRPC, Bazel
+Responsibilities and Qualifications:
+7+ years of experience in Data Engineering
+Fluency in working with SQL and analyzing and modeling complex data
+Experience working with Python or similar programming languages like Scala or Java
+Experience building ETL/ELT stream/batch pipelines on big data platforms such as Snowflake, Spark or others
+Collaborate with peers across the entire range of development activities that includes distilling engineering designs from product requirements and data science, development of work plans, implementation, testing, productization, monitoring, and maintenance
+Strong problem-solving skills in optimizing solutions for improved performance, scalability and reduced infrastructure costs
+Understanding of ad-tech terms and methodologies a plus
+Experience with data privacy and secure architectures. Experience with data cleanrooms a plus
+B.S. or equivalent in Computer Science, Math, or similarly technical field preferred. Advanced degree is a plus
+Support the team and data environment by periodically being on call
+PERKS:
+Unlimited paid time off each year
+Company sponsored health, dental and vision benefits for you and your dependents
+Access to state-of-the-art fitness classes and personal trainers to promote your well-being
+Partnership with DoorDash for meal deliveries
+Employee Advisory Groups / Proactive Social Groups
+401k Plan
+Referral Bonus
+Progressive approach to paid parental leave
+Epic personal and professional growth opportunities
+Minimum base salary for an Senior Data Engineer of $150,000 + Bonus + Equity + Benefits. The actual compensation offer will be determined by a number of factors, including, but not limited to, applicant's qualifications, skills, and experience.
+ABOUT
+VideoAmp is an advertising measurement and optimization platform increasing the value of advertising by redefining how media is valued, bought and sold. Our platform automates advertising workflows, deduplicates audiences across traditional TV, streaming video, digital media and walled gardens and connects media exposures to an advertiser's sales. By unlocking new value for the entire ecosystem, our platform allows the world's largest advertisers, agencies and publishers to align on VideoAmp's independent measurement as a new media currency to transact against.We are transforming a 100-year-old industry by powering a more effective three-way value exchange that results in increasing the return on media investment for advertisers, increasing revenue for publishers and providing a better viewing experience for consumers. Come and join us!
+#LI-Remote",Unknown / Non-Applicable,Advertising & Public Relations,Company - Private,Media & Communication
+"Software Engineer (L4), Data Platform APIs",los-angeles,"Netflix
+4.3","Los Angeles, CA",4.3,$109K - $182K (Glassdoor est.),3.9,4.2,3.8,4.6,3.9,5001 to 10000 Employees,1997,"Los Gatos, California
+Los Angeles, California
+Data Platform
+At Netflix, we want to entertain the world and are constantly innovating on how entertainment is imagined, created and delivered to a global audience. We currently stream content in more than 30 languages in 190 countries, topping over 220 million paid subscribers and are expanding into new forms of entertainment such as gaming.
+
+The Data Platform teams at Netflix enable us to leverage data to bring joy to our members in many different ways. We provide centralized data platforms and tools for various business functions at Netflix, so they can utilize our data to make critical data-driven decisions. We do all the heavy lifting to make it easy for our business partners to work with data efficiently, securely, and responsibly. We aspire to lead the industry standard in building a world-class data infrastructure, as Netflix leads the way to be the most popular and pervasive destination for global internet entertainment.
+
+The mission of the Data Platform Notebooks and APIs team is to boost the productivity of the data science and engineering community at Netflix. This means enabling users to spend more time solving business problems and less time engineering lower-level systems. We provide our internal users with a customized version of Jupyter Notebooks, as well as Python APIs that allow them to programmatically access the data platform. The Python API provides programmatic access to the Data Platform, enabling users to query data, interact with tables, move data, and manage batch jobs and workflows. On the front end, we use a combination of JavaScript technologies and increasingly rely on the React framework and JupyterLab extensions. On the backend, we have built services and protocols using Scala, GraphQL, Node.js, and Python. As a member of the Notebooks and APIs team, your work will directly impact the productivity of our data engineers, data scientists, and machine learning engineers.
+
+We are seeking an engineer to contribute to the evolution and innovation of our data analytics tools. We are committed to building a diverse and inclusive team to bring new perspectives as we solve the next set of challenges.
+This would be your dream job if you enjoy:
+Solving real business needs at large scale by applying your software engineering and analytical problem-solving skills.
+Strongly interested in data analytics and passionate about building tools for data scientists and machine learning engineers
+Leading cross-functional initiatives and collaborating with engineers, product managers, and TPM across teams.
+
+About you:
+You are an expert in python, and have extensive experience with with Python package management tooling
+You have 3+ years of experience building APIs / SDKs and large-scale distributed systems features or applications.
+Experience with GraphQL integration and development
+Experience in building and operating scalable, fault-tolerant, distributed systems
+Experience with any of these domains: Data science (e.g., Jupyter Notebooks, pandas, numpy), Machine Learning (e.g., TensorFlow, PyTorch, scikit-learn) a huge plus
+Experience in big data technologies and orchestration tools (e.g Spark, Presto/Trino, Druid, Snowflake) a huge plus
+Experience with visualization tools such as Tableau and Looker a plus
+Experience building front end applications (React, Node, etc.) a plus
+At Netflix, we carefully consider a wide range of compensation factors to determine your personal top of market. We rely on market indicators to determine compensation and consider your specific job family, background, skills, and experience to get it right. These considerations can cause your compensation to vary and will also be dependent on your location.
+
+The overall market range for roles in this area of Netflix is typically $100,000 - $700,000
+
+This market range is based on total compensation (vs. only base salary), which is in line with our compensation philosophy. Our culture is unique, and we tend to live by our values, so it’s worth learning more about Netflix here.",$5 to $10 billion (USD),Internet & Web Services,Company - Public,Information Technology
+"Data Engineer, Product Analytics",los-angeles,"Meta
+3.9","Los Angeles, CA",3.9,Employer Provided Salary:$109K - $166K,4.0,3.7,3.3,4.6,3.6,10000+ Employees,2004,"As a highly collaborative organization, our data engineers work cross-functionally with software engineering, data science, and product management to optimize growth, strategy, and experience for our 3 billion plus users, as well as our internal employee community. In this role, you will see a direct correlation between your work, company growth, and user satisfaction. Beyond this, you will work with some of the brightest minds in the industry, and you'll have a unique opportunity to solve some of the most interesting data challenges with efficiency and integrity, at a scale few companies can match.
+
+
+Data Engineer, Product Analytics Responsibilities:
+Manage and execute data warehouse plans for a product or a group of products to solve well-scoped problems
+Identify the data needed for a business problem and implement logging required to ensure availability of data, while working with data infrastructure to triage issues and resolve
+Collaborate with engineers, product managers and data scientists to understand data needs, representing key data insights in a meaningful way
+Build data expertise and leverage data controls to ensure privacy, security, compliance, data quality, and operations for allocated areas of ownership
+Design, build and launch new data models and visualizations in production, leveraging common development toolkits
+Independently design, build and launch new data extraction, transformation and loading processes in production, mentoring others around efficient queries
+Support existing processes running in production and implement optimized solutions with limited guidance
+Define and manage SLA for data sets in allocated areas of ownership
+
+
+
+Minimum Qualifications:
+Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+2+ years of work experience in data engineering
+Experience with SQL, ETL, data modeling, and at least one programming language (e.g., Python, C++, C#, Scala, etc.)
+
+
+
+Preferred Qualifications:
+Experience with one or more of the following: data processing automation, data quality, data warehousing, data governance, business intelligence, data visualization, data privacy
+Experience working with terabyte to petabyte scale data
+
+
+
+
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice here. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. We may use your information to maintain the safety and security of Meta, its employees, and others as required or permitted by law. You may view Meta's Pay Transparency Policy, Equal Employment Opportunity is the Law notice, and Notice to Applicants for Employment and Employees by clicking on their corresponding links. Additionally, Meta participates in the E-Verify program in certain locations, as required by law",$10+ billion (USD),Internet & Web Services,Company - Public,Information Technology
+Senior Data Engineer,los-angeles,"Bespoke Financial
+4.0","Los Angeles, CA",4.0,$111K - $163K (Glassdoor est.),4.0,4.0,4.0,3.0,4.0,1 to 50 Employees,Company - Private,"Bespoke Financial is the first FinTech lender focused on providing debt financing to companies in the legal cannabis industry in the US. The cannabis industry is growing quickly and projected to be a $40+ Billion dollar market by 2024 and a $100+ Billion market by 2030. Bespoke Financial provides operators with flexible financing (ex. working capital) to grow and scale their companies.
+In the past year, Bespoke Financial's revenue increased +100% YoY (as of Q3 2022) and continues to scale rapidly as more states legalize cannabis. Our significant growth demonstrates our product market fit as we address the most pressing need for the legal cannabis operators, access to non-dilutive financing to grow their own businesses.
+You'll make data and data products accessible to Bespoke Financial:
+For customer and internal Operations use cases
+For internal data scientists, which will also include data tooling for them
+Responsibilities:
+Be the ""go-to person"" for all things related to data engineering.
+Design and build user-friendly data platforms upon which data scientists can easily test and deploy models to production.
+Build and maintain robust, observable data pipelines.
+Guarantee timeliness, reliability, and correctness of large amounts of data.
+Scope, design, and build tools for internal users to increase their efficiency ten-fold.
+Design and implement customer facing data services and products from end to end.
+Collaborate closely with analysts and data scientists to deeply understand business problems and data needs and then be a guiding voice in architecting solutions.
+Maintain a strong data-driven culture within the company by interacting with diverse internal functions.
+Requirements:
+3+ years experience in software engineering, 1+ years specifically with data engineering.
+Strong communication skills and previous experience working with cross-functional business groups.
+Experience with data pipelines and data warehousing, such as Google BigQuery,
+Amazon Redshift, or Snowflake.
+Proficiency in capture and maintenance of data in SQL and NoSQL databases.
+Proficiency in fast-paced software engineering on an engineer team, following software engineering development cycles.
+Experience working with Python.
+Strong sense of agency and self-initiative / intrinsic motivation to push projects forward.
+Innate sense of curiosity to discover business opportunities powered by data.
+Process-oriented, detail-oriented, and analytically-oriented mindset.
+Natural enjoyment from solving complex problems with a methodical approach.
+Bespoke Financial is an equal opportunity employer. We strive to be a welcoming place for everyone, and we do our best to make sure everyone feels supported and connected at work!",-1,-1,Unknown / Non-Applicable,-1
+Sr. Data Engineer,los-angeles,DataPattern,"Los Angeles, CA",-1,Employer Provided Salary:$65.00 - $75.00 Per Hour,-1,-1,-1,-1,-1,1 to 50 Employees,Company - Public,"Responsibilities
+● Contribute to the design and growth of our Data Products and Data Warehouses around Engagement and Retention Analytics and Data Science
+● Design and develop scalable data warehousing solutions, building ETL pipelines in Big Data environments (cloud, on-prem, hybrid)
+● Our tech stack includes Hadoop, AWS, Snowflake, Spark and Airflow and languages include Python, Scala
+● Help architect data solutions/frameworks and define data models for the underlying data warehouse and data marts
+● Collaborate with Data Product Managers, Data Architects and Data Engineers to design, implement, and deliver successful data solutions
+● Maintain detailed documentation of your work and changes to support data quality and data governance
+● Ensure high operational efficiency and quality of your solutions to meet SLAs and support commitment to our customers (Data Science, Data Analytics teams)
+● Be an active participant and advocate of agile/scrum practice to ensure health and process improvements for your team
+Basic Qualifications
+● 6+ years of data engineering experience developing large data pipelines
+● String Python programming skills
+● Strong SQL skills and ability to create queries to extract data and build performant datasets
+● Hands-on experience with distributed systems such as Spark, Hadoop (HDFS, Hive, Presto, PySpark) to query and process data
+Preferred Qualifications
+● Experience with at least one major MPP or cloud database technology (Snowflake, Redshift, Big Query)
+● Nice to have experience with Cloud technologies like AWS (S3, EMR, EC2)
+● Solid experience with data integration toolsets (i.e Airflow) and writing and maintaining Data Pipelines
+● Familiarity with Data Modeling techniques and Data Warehousing standard methodologies and practices
+● Good Scripting skills, including Bash scripting and Python
+● Familiar with Scrum and Agile methodologies
+● You are a problem solver with strong attention to detail and excellent analytical and communication skills
+Job Type: Full-time
+Salary: $65.00 - $75.00 per hour
+Experience level:
+6 years
+Schedule:
+Monday to Friday
+Experience:
+SQL (Preferred)
+Informatica (Preferred)
+Data warehouse (Preferred)
+Work Location: On the road
+Speak with the employer
++91 9256270467",-1,-1,Unknown / Non-Applicable,-1
+"Enterprise Customer Engineer, Data Analytics, Google Cloud",los-angeles,"Google
+4.4","Los Angeles, CA",4.4,-1,-1,-1,-1,-1,-1,10000+ Employees,1998,"This role may also be located in our Playa Vista, CA campus.
+
+Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Irvine, CA, USA; Los Angeles, CA, USA.
+Minimum qualifications:
+Bachelor's degree in Computer Science or equivalent practical experience.
+6 years of experience in virtualization or cloud native architectures in a customer-facing or support role.
+Experience with traditional Big Data technologies, Analytic Warehousing technologies, data processing technologies, performance and scalability optimizations.
+Experience delivering technical presentations and live demonstrations in an enterprise business environment.
+
+Preferred qualifications:
+Experience with technical sales or professional consulting in the fields of cloud computing, data, information lifecycle management, and Big Data.
+Experience with architecture design, implementing, tuning, schema design, and query optimization of scalable and distributed systems.
+Experience with developing data warehousing, data lakes, batch/real-time event processing, streaming, data processing (e.g., Extract, transform, and load /Extract, Load, and Transform), data migrations, data visualization tools, and data governance on cloud native architectures.
+Knowledge of cloud computing (e.g., infrastructure, storage, platforms, and data), cloud market, engaged dynamics, and customer buying behavior.
+About the job
+When leading companies choose Google Cloud it's a huge win for spreading the power of cloud computing globally. Once educational institutions, government agencies, and other businesses sign on to use Google Cloud products, you come in to facilitate making their work more productive, mobile, and collaborative. You listen and deliver what is most helpful for the customer. You assist fellow sales Googlers by problem-solving key technical issues for our customers. You liaise with the product marketing management and engineering teams to stay on top of industry trends and devise enhancements to Google Cloud products.
+In this role, you will work with Sales teams as an enterprise data analytics subject matter expert. You will help prospective customers and partners understand Google Cloud, explaining technical features, helping customers design architectures, engage in proof-of-concepts, and provide technical closure for roadblocks related to our analytics and business intelligence portfolio.
+Google Cloud accelerates organizations’ ability to digitally transform their business with the best infrastructure, platform, industry solutions and expertise. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology – all on the cleanest cloud in the industry. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+Additional Information:
+The US base salary range for this full-time position is $139,000-$213,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.
+
+Responsibilities
+Support local Sales teams in pursuit of key business opportunities, engaging customers to address aspects of the data lifecycle.
+Identify business and technical requirements, conduct full technical discovery, and design client solutions to meet gathered requirements.
+Lead technical projects, including activities such as technology advocacy, supporting bid responses, product and solution briefings, proof-of-concept work, and the coordination of supporting technical resources.
+Prepare and deliver product messaging to highlight the Google Cloud Platform value proposition, using techniques that include whiteboard and slide presentations, product demonstrations, white papers, and Request for Information (RFI) response documents.
+Work with Google Cloud Platform products to demonstrate and prototype integrations in customer/partner environments. Travel for meetings, technical reviews, and onsite delivery activities as needed.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",$10+ billion (USD),Internet & Web Services,Company - Public,Information Technology
+Senior Data Engineer,los-angeles,"Talent Systems
+4.8","Los Angeles, CA",4.8,Employer Provided Salary:$140K - $150K,4.8,4.1,3.7,4.2,3.5,51 to 200 Employees,Company - Private,"*This is a remote position*
+
+Company and Team Overview:
+
+Talent Systems, LLC is the leading technology solution provider for casting and auditioning to the entertainment industry. Casting directors and agents worldwide use Talent Systems’ portfolio of products to source and manage talent across film, television, commercials, theater and digital projects, powering an unparalleled, global casting software ecosystem. We are headquartered in Los Angeles and operate in the US, Canada, UK, Australia and India. Our portfolio brands include Casting Networks, Spotlight, Cast It Systems, Cast It Talent, Casting Frontier, Staff Me Up, and Cast It Reach.
+
+The Talent Systems Data Engineering Team is based in Los Angeles and extends to New York, UK, Australia and Asia. The team delivers data solutions for Talent Systems, as well as maintains databases & data sets for strategic decision-making purposes.
+
+Job Purpose:
+
+The Lead/Sr Data Engineer is responsible for architecting, building and supporting the data and analytic technologies that support Talent Systems portfolio of applications and services. The Lead/Sr. Data Engineer’s primary focus is expanding and optimizing data and data pipeline architecture, as well as optimizing data flow and data collection, and visualizations for Talent System’s cross functional teams.
+
+Duties and Responsibilities:
+
+Working with complex data sets coming from multiple data sources
+Identifying key business requirements related to data models from business and technical perspectives
+Identifying data quality issues and apply data cleansing strategies when applicable
+Designing and implementing data pipelines, e2e data transformations, managing data models and organize data structure changes
+Providing recommendations based on emerging technologies, and seeking areas for continuous improvement
+Leading migration from a legacy data platform into the new business warehouse stack
+Providing support during SDLC cycles, resolving escalated design and implementation issues whenever applicable
+Building visualizations to provide actionable insights that can empower better decision-making processes
+
+Qualifications & Attributes:
+
+Strong understanding of ETL tools, processes and techniques
+Hands-on experience with SQL databases & data warehouse engines
+Ability to design and implement models and solutions to manage data within the enterprise (structured and unstructured)
+Working knowledge of Python (core and data related libraries)
+Strong hands-on experience with one more following technologies: Airflow, AWS (S3, Glue, Lambda, EMR, RDS), GCP (BigQuery), python, and others.
+Excellent communication and problem-solving skills
+Multi-tasking abilities
+
+Benefits:
+
+Competitive base
+Performance-based bonus
+Comprehensive medical/dental/vision/mental health
+benefits program
+401(k)
+Unlimited Leave
+Virtual + In-Person events",-1,-1,Unknown / Non-Applicable,-1
+Senior Data Engineer,los-angeles,"System1
+4.4","Los Angeles, CA",4.4,$120K - $180K (Glassdoor est.),3.9,4.1,3.6,4.5,4.6,201 to 500 Employees,2013,"System1 is one of the largest customer acquisition companies in the world whose growth depends heavily on a very talented data engineering team.
+
+The Data Engineering team at System1 is focused on building processes, procedures and automation to ensure smooth running data infrastructure. We process billions of records per day, providing a core component of many organizational functions. The data that flows through these systems supports business intelligence, data science and machine learning, traffic quality and analytics.
+
+You would be working in a fast-paced environment where enhancements to system scalability, reliability, usability, efficiency and performance are the goal. Come join us!
+The Role You Will Have:
+Designing and developing data processing infrastructure.
+Developing new and improving existing data pipelines, extracting from external API sources or internal events.
+Consult with engineering teams to productionize data pipelines.
+Continuously improving monitoring and alerting coverage.
+Identifying scaling bottlenecks and how to prevent them.
+Contribute to technical specification documents for data architecture projects
+Performing maintenance of existing infrastructure, investigating issues and failures.
+Conducting SQL data investigations.
+Proof of concept for new technologies, new patterns, new APIs.Participate in peer code reviews and produce high quality documentation
+What You Will Bring:
+SQL expertise, and preferably SQL query optimization experience.
+Programming proficiency, Python preferred.
+Datastores, both relational and non-relational. Snowflake, Redshift, BigQuery preferred.
+Cloud ecosystems such as AWS, Azure or GCP.
+Modern orchestration platforms such as Airflow.
+Strong data engineering fundamentals and skills.
+Knowledge of data engineering mechanics, flow, distribution, organization, optimization, latency, observability
+Nuances of distributed data processing and storage systems.
+Containerization strategies, Linux/UNIX.
+Experience with Kafka is preferred, but not required
+What We Have to Offer:
+Competitive salary + bonus + equity
+Generous PTO + 11 company holidays
+Open sick time
+100% covered Medical, Dental, Vision for employees
+401k with match
+Health & Dependent Care Flex Spending Account
+Paid professional development
+Leadership & growth opportunities
+Virtual company and team building events
+#LI-Remote
+#Li-Hybrid
+#BI-Hybrid
+#BI-Remote
+#LI-AW1
+The U.S. base salary range for this full-time position is $138,400 - $221,800 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in U.S. role postings reflect the base salary only, and do not include bonus, equity, or benefits.
+
+System1 offers flexible work arrangements for most employees (unless they hold positions which are identified as having to be 100% onsite in Marina del Rey, CA, Bellevue, WA or Guelph, ON Canada). Most System1 full-time employees choose to work in a hybrid environment, splitting their time between working in our offices and working remotely. System1 allows fully-remote work in the following approved locations: Arizona, Colorado, Georgia, Hawaii, Minnesota, Missouri, New Jersey, New York, North Carolina, Oklahoma, Oregon, Pennsylvania, Tennessee, Texas and Virginia. Prospective U.S. employees who live outside of any of these states will need to establish residency in one of the approved states prior to employment.",Unknown / Non-Applicable,Internet & Web Services,Company - Public,Information Technology
+Senior Data Engineer,los-angeles,"Fanatics
+3.6","Los Angeles, CA",3.6,Employer Provided Salary:$175K - $200K,3.3,3.4,3.3,3.4,3.5,5001 to 10000 Employees,1996,"Company Overview
+Fanatics is building a leading global digital sports platform. The company ignites the passions of global sports fans and maximizes the presence and reach for hundreds of sports partners globally by offering innovative products and services across Fanatics Commerce, Fanatics Collectibles, and Fanatics Betting & Gaming, allowing sports fans to Buy, Collect and Bet. Through the Fanatics platform, sports fans can buy licensed fan gear, jerseys, lifestyle and streetwear products, headwear, and hardgoods; collect physical and digital trading cards, sports memorabilia, and other digital assets; and bet as the company builds its Sportsbook and iGaming platform. Fanatics has an established database of over 100 million global sports fans, a global partner network with over 900 sports properties, including major national and international professional sports leagues, teams, players associations, athletes, celebrities, colleges, and college conferences, and over 2,000 retail locations, including its Lids retail business stores.
+As a market leader with more than 18,000 employees, and hundreds of partners, suppliers, and vendors worldwide, we take responsibility for driving toward more ethical and sustainable practices. We are committed to building an inclusive Fanatics community, reflecting and representing society at every level of the business, including our employees, vendors, partners and fans. Fanatics is also dedicated to making a positive impact in the communities where we all live, work, and play through strategic philanthropic initiatives.
+
+We are a startup building products to transform the trading card industry. However, we aren’t a startup in the traditional sense, though. While we are a small team building new products from the ground up, we also have the backing of Fanatics – the world’s largest sports merchandiser with over 900 sports relationships and more than 90+ million reachable fans. We have exclusive licensing deals with the MLB, NFL and NBA and the products we build will be used by millions of trading cards fans from day 1. We are out to reinvent the trading card industry, which is a bold and ambitious mission.
+Fanatics Collectible’s Data Engineering, Science, and Analytics Team is hiring experienced data engineers. You will be among the founding members of our team. You will help build a world-class data engineering organization with a strong data and software engineering culture. You will also establish, advocate, and execute data strategy and technical capabilities that support the business and enable data-driven decisions. Ideally, you are passionate about the trading card industry, sports, and importantly, data and technology. Our data engineers are required to partner very closely with other engineering and business teams and understand our business needs. You will own high impact technical decisions and lead hiring efforts to help build out a world class data engineering team.
+What does this mean as a member of the data engineering team?
+We are fans-and-collectors-obsessed and product-focused. We work backward from the focus of fans and collectors to drive our technical work and the development of products (physical and digital) that will reach tens of million.
+We are agile and move at warp speed. We work hard and are not afraid to try, experiment, and pivot (as needed). We have a lot to do and are looking for folks who will drive projects to completion with a sense of urgency, but not at the expense of quality, scalability, and performance.
+We think about scale. The trading card market is massive, and we will be the de facto entry point into the hobby.
+We’re pragmatic. We embrace new technologies if they add business value.
+We are passionate about trading cards, sports, and data. We take data seriously and work tirelessly to ensure their highest possible quality. We build data infrastructure to enable the seamless flow data from source to impactful actions.
+Qualifications
+A computer science or equivalent experience required.
+5+ years of experience as a data engineer or software engineer focusing on building data infrastructure, solving complex technical challenges at a large scale, and delivering data products that drive business impact
+Experience in architect, develop, deploy, and monitor a new, end-to-end data infrastructure leveraging cloud technologies that ingests data from a wide range of internal and external sources and enables user-friendly consumption of data for data-driven decisions
+Experience in designing data architecture for multiple database models such as RDBMS, document, columnar, graph, and key-value data stores
+Expertise in both SQL and Python
+Proficiency in Java and JavaScript
+Proficiency and both SQL and NoSQL database technologies
+Well-verse in modern cloud native data tech stacks
+Familiar with container tech such as Docker and Kubernetes
+Familiar with data and ML orchestration tools
+Experience in designing and implementing modern CI/CD pipelines with cloud native tools
+Strong computer science fundamentals and data/software engineering hygiene
+Excellent communication skills to be an effective bridge among our team, other engineering teams, and business partners/stakeholders
+Key Responsibilities include, but not limited to,
+Research, architect, develop, deploy, monitor, and maintain an efficient, reliable, and secure cloud data infrastructure to enable data-driven decisions
+Collaborate with internal and external tech teams and stakeholders/business partners
+Research and integrate 3rd-party vendor data solutions
+Help develop, implement, and evolve our data strategy, which will include data governance, data security, and tech roadmap
+Establish and participate in on-call technical support
+Contribute to data engineering and science team recruitment process
+Actively mentor and coach team members on advanced technical methods, advocate best practices, and help others to grow their skill set
+Set a high standard for data/software engineering excellence through example
+Develop a strong understanding of Fanatics Collectibles and the trading cards industry
+Some things you may want to know about us:
+We’re a small team (growing fast!) and everyone wears lots of hats.
+We’re have offices in Los Angeles and New York and many of us are remote
+We work hard, but not all the time. We have families that we like to spend time with.
+The salary range for this position is $175,000- $200,000 which represents base pay only and does not include short-term or long-term incentive compensation. When determining base pay, as part of a final compensation package, we consider several factors such as location, experience, qualifications, and training.
+
+Ensure your Fanatics job offer is legitimate and don’t fall victim to fraud. Fanatics never seeks payment from job applicants. Feel free to ask your recruiter for a phone call or other type of communication for interview, and ensure your communication is coming from a Fanatics or Fanatics Brand email address. For added security, where possible, apply through our company website at www.fanaticsinc.com/careers
+
+Tryouts are open at Fanatics! Our team is passionate, talented, unified, and charged with creating the fan experience of tomorrow. The ball is in your court now.
+
+Fanatics is committed to responsible planning and purchasing (RPP) practices, working with its business partners across its global and multi-layered supply chain, to ensure that planning, sourcing, and purchasing decisions, along with other supporting processes, do not impede or conflict with the fulfillment of Fanatics’ fair labor practices.
+
+NOTICE TO CALIFORNIA RESIDENTS/APPLICANTS: In connection with your application, we collect information that identifies, reasonably relates to or describes you (“Personal Information”). The categories of Personal Information that we collect include your name, government issued identification number(s), email address, mailing address, other contact information, emergency contact information, employment history, educational history, criminal record, and demographic information. We collect and use those categories of Personal Information about you for human resources and other business management purposes, including identifying and evaluating you as a candidate for potential or future employment or other types of positions, recordkeeping in relation to recruiting and hiring, conducting criminal background checks as permitted by law, conducting analytics, and ensuring compliance with applicable legal requirements and Company policies. For additional information on how we collect and use personal information in connection with your job application, review our Candidate Privacy Policy-CA",$1 to $5 billion (USD),Internet & Web Services,Company - Private,Information Technology
+Data Engineer,los-angeles,"N2 Services, Inc
+3.2","Anaheim, CA",3.2,Employer Provided Salary:$70.00 - $80.00 Per Hour,3.3,3.4,3.3,3.0,3.7,51 to 200 Employees,2004,"Position: Data Migration Engineer/ Data Engineer
+Location: Anaheim, CA
+Job Type: W2/ Fulltime (No C2C)
+Requirements
+Required Skills:
+Must have a bachelor’s degree in Computer Science or related discipline or equivalent levels of work experience
+5+ years of experience working in a Software Engineer or Data Engineer role preferred.
+Strong experience installing, configuring, and maintaining Linux servers.
+Strong scripting experience using languages such as Python, Node.js, and Linux Shell.
+Experience working with RDMS (Oracle, PostgreSQL, MySQL, SQL Server) and executing complex SQL statements.
+Excellent Linux troubleshooting skills.
+Familiarity with networking protocols such as TCP/IP, DNS, SMTP.
+Must have strong communication and writing skills with ability to explain technical content to non-technical audience.
+Must have strong organizational skills and be able to multi-task easily from one project to another.
+Experience working in an Agile development environment.
+Experience working with one of the major cloud providers (AWS, Azure, GCP)
+Required Education
+Bachelor's Degree
+Required Years of Experience
+5-7 Years
+Job Type: Full-time
+Pay: $70.00 - $80.00 per hour
+Schedule:
+8 hour shift
+Experience:
+Data Migration: 7 years (Preferred)
+Python: 5 years (Preferred)
+Linux servers: 5 years (Preferred)
+Work Location: On the road",$5 to $25 million (USD),Computer Hardware Development,Company - Private,Information Technology
+Data Engineer,los-angeles,"Capgemini
+3.8","Burbank, CA",3.8,$87K - $124K (Glassdoor est.),3.8,3.9,3.4,3.5,3.8,10000+ Employees,1967,"Duration: 6+ months
+
+Job Description:
+
+Overall experience 8 to 10 years
+Experience dealing with Media and Retail data, with multiple external sources
+Technical expertise with AWS based Data Pipelines
+(proven experience with AWS modules Glue, Airflow, Lambda Functions, Athena, S3, IAM, API Gateway, SES, Secret Manager, Cloud Shell etc.)
+Strong Python development skills involving ETL Pipeline Frameworks
+Understanding of Selenium Automation Scripts
+Snowflake expertise
+(features such as Time Travel, Zero Copy Cloning, Snow pipe, Streams and Tasks, Query History, Stages, Integration Objects, File Formats, Semi Structured data/JSON Variant tables, Clustering and Optimization, Credit Usage monitoring etc.)
+Strong and Proven data modeling, data analysis and data architecture skills : 7 on 10
+Heavy experience with SQL in building complex data pipelines and frameworks : 8 on 10
+Strong experience with GitHub, CI/CD, DevOps, Code Review, Unit/System : 7 on 10
+
+Process/Project Management
+
+Experienced onshore/offshore coordination of moderate size team : 8 on 10
+Strong experience with Client facing project discussions, transitioning business needs to technical requirements 7 on 10
+Strong experience with agile methodology, code review, project tasks, estimations etc. 7 on 10
+
+The Capgemini Freelancer Gateway is enabled by a cutting-edge software platform that leads the contingent labor world for technology innovation. The software platform leverages Machine Learning and Artificial Intelligence to make sure the right people end up in the right job.
+
+A global leader in consulting, technology services and digital transformation, Capgemini is at the forefront of innovation to address the entire breadth of clients’ opportunities in the evolving world of cloud, digital and platforms. Building on its strong 50 year heritage and deep industry-specific expertise, Capgemini enables organizations to realize their business ambitions through an array of services from strategy to operations. Capgemini is driven by the conviction that the business value of technology comes from and through people. It is a multicultural company of over 200,000 team members in more than 40 countries. The Group reported 2018 global revenues of EUR 13.2 billion.",$10+ billion (USD),Enterprise Software & Network Solutions,Company - Public,Information Technology
+Data Engineer II,los-angeles,"Rocket Lab USA
+3.2","Long Beach, CA",3.2,$111K - $160K (Glassdoor est.),3.4,2.9,2.8,2.9,2.4,501 to 1000 Employees,2006,"Rocket Lab
+Rocket Lab is a vertically integrated provider of small launch services, satellites, and spacecraft components. Our mission is to open access to space to improve life on Earth. Our team is over 1,500 people strong and we're adding to it every week. Collaboration is at our core – every idea is heard, and everyone makes a difference. Teams are nimble, decisions are made quickly, and we are action oriented.
+Data Engineer II
+Based on site at one of Rocket Lab's facilities in Long Beach, CA, Albuquerque, NM or Denver, CO. The Data Engineer II, as part of the Business Intelligence team is responsible for solutioning and delivering robust data pipelines, ultimately streamline analytics and advanced data science. You will support the Business Intelligence Manager and Business Intelligence/IT organization, with deliverables required for internal business departments and analytics.
+WHAT YOU'LL GET TO DO:
+You will work alongside an awesome team of Data Analysts, Software Engineers, Team Leads, Principal Data Engineers and other business functions to curate and shape datasets, develop data pipelines, in support Rocket and Satellite manufacturing.
+Contributing to the development of Business Intelligence standards and our technology platform is an important part of the Business Intelligence Data Engineer's responsibilities as is delivering streamlined data pipelines and assets.
+Look after the data platforms to ensure analytics and pipelines are delivered on time.
+Design and solution of re-usable data pipelines (batch and stream) using SQL and Python and other data programming languages.
+Add value by technical knowledge in data and data science to propel the business intelligence team to the next level.
+
+YOU'LL BRING THESE QUALIFICATIONS:
+Hands-on and experienced in data engineering for at least 3 years.
+You will have at least a bachelor's degree in computer science/Data and Analytics/Statistics or related field.
+3 years of MS SQL and ETL experience.
+Experience in querying and ingesting data from APIs and building APIs.
+Knowledge in building and deploying pipelines alongside any other cloud ETL tools.
+
+THESE QUALIFICATIONS WOULD BE NICE TO HAVE:
+Excellent communication skills, both verbal and written
+Cloud computing experience and deployment
+Built Data Science and Machine Learning models.
+Agile experience
+The expected salary range for the position is displayed in accordance with the California Equal Pay for Equal Work Act. Final agreed upon compensation is based upon individual qualifications and experience.
+
+In addition to base salary, Rocket Lab offers a comprehensive total compensation offer package based on individual qualifications and experience, including company stock. Employees will also be eligible for medical, dental, vision coverage, 401(k) retirement plan options, and to purchase discounted stock through Rocket Lab's Employee Stock Purchase Program.
+Base Pay Range (CA Only)
+$80,000—$110,000 USD
+Important information:
+FOR CANDIDATES SEEKING TO WORK IN US OFFICES ONLY:
+To conform to U.S. Government space technology export regulations, applicant must be a U.S. citizen as defined by ITAR (22 CFR §120.15) or eligible to obtain the required authorizations fromthe U.S Department of State.
+Rocket Lab provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment at Rocket Lab, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+Applicants requiring a reasonable accommodation for the application/interview process for a job in the United States should contact Giulia Biow at g.biow@rocketlabusa.com.This dedicated resource is intended solely to assist job seekers with disabilities whose disability prevents them from being able to apply/interview. Only messages left for this purpose will be considered. A response to your request may take up to two business days.
+
+FOR CANDIDATES SEEKING TO WORK IN NEW ZEALAND OFFICES ONLY:
+For security reasons background checks will be undertaken prior to any employment offers being made to an applicant. These checks will include nationality checks as it is a requirement of this position that you be eligible to access equipment and data regulated by the United States' International Traffic in Arms Regulations.
+Under these Regulations, you may be ineligible for this role if you do not hold citizenship of Australia, Japan, New Zealand, Switzerland, the European Union or a country that is part of NATO, or if you hold ineligible dual citizenship or nationality. For more information on these Regulations, click here ITAR Regulations.",Unknown / Non-Applicable,Aerospace & Defense,Company - Private,Aerospace & Defense
+Software Engineer - Data (Remote),los-angeles,"Kinect
+4.1","Pasadena, CA",4.1,$78K - $119K (Glassdoor est.),3.8,4.1,4.1,5.0,5.0,1 to 50 Employees,2015,"We are seeking a highly skilled Senior Software Engineer to join our client's growing team. As a Senior Software Engineer, you will play a key role in designing and developing advanced data modeling solutions to help build cutting-edge AI technologies that improve patient outcomes.
+
+Responsibilities:
+Develop, test, and deploy high-quality software solutions using a mix of programming languages, including Java, Scala, Kotlin, Clojure, and Python • Design and optimize distributed data processing systems for scalability, streaming, fault tolerance, and ACID compliance • Work with a wide range of database storage technologies, including relational, columnar, key-value, and document-oriented databases • Optimize performance metrics such as latency, throughput, cost, and memory usage • Collaborate with cross-functional teams, including data scientists and product managers, to identify and deliver innovative solutions to complex problems • Stay up-to-date with the latest industry trends and technologies, and identify opportunities to apply them to our work • Provide technical guidance and mentorship to junior team members
+Qualifications:
+Bachelor's or Master's degree in Computer Science or a related field • 5+ years of experience in software engineering, with a focus on distributed systems and data modeling • Expertise in at least one major JVM language (Java, Scala, Kotlin, Clojure) and Python • Strong understanding of distributed data processing concepts, including scalability, streaming, fault tolerance, ACID, and CAP • Experience working with cloud provider ecosystems, particularly AWS • Familiarity with serialization technologies such as Avro, Protobuf, and Thrift • Experience with AWS DynamoDB, Lambda, and Kinesis is a plus • Strong problem-solving skills and a passion for building innovative solutions
+If you are a talented Senior Software Engineer who is passionate about building cutting-edge AI solutions for the medical field, we would love to hear from you.",-1,$1 to $5 million (USD),Company - Public,-1
+Data Engineer,los-angeles,"Fisker Inc
+3.5","Manhattan Beach, CA",3.5,$80K - $123K (Glassdoor est.),3.6,3.4,3.4,3.3,3.4,501 to 1000 Employees,2016,"About Fisker Inc.
+California-based Fisker Inc. is revolutionizing the automotive industry by developing the most emotionally desirable and eco-friendly electric vehicles on Earth. Passionately driven by a vision of a clean future for all, the company is on a mission to become the No. 1 e-mobility service provider with the world’s most sustainable vehicles. To learn more, visit
+www.FiskerInc.com
+– and enjoy exclusive content across Fisker’s social media channels:
+Facebook
+,
+Instagram
+,
+Twitter
+,
+YouTube
+and
+LinkedIn
+. Download the revolutionary new Fisker mobile app from the
+App Store
+or
+Google Play
+store.
+Job responsibilities:
+Work with large, complex datasets to solve complex analysis problems, applying advanced analytical methods (e.g., statistical and machine learning models) as needed. Conduct analysis that includes problem formulation, data gathering and requirements specification, processing, analysis, ongoing deliverables, and presentations.
+A deep understanding of Enterprise SAAS business models and metrics like Pipeline, MQLs and Market Mix Modelling.
+Build and prototype analysis pipelines iteratively to provide insights at scale. Develop comprehensive knowledge of Google data structures and metrics, advocating for changes where needed.
+Interact cross-functionally, making business recommendations (e.g., cost-benefit, forecasting, experiment analysis) with effective presentations of findings at multiple levels of stakeholders through visual displays of quantitative information.
+Develop and automate reports, iteratively build and prototype dashboards to provide insights at scale, solving for business priorities.
+Skills and Experience
+5+ years of professional consulting experience in Data Science or technology consulting or similar roles.
+5+ years of experience in quantitative marketing data science, product data science, risk modeling, or similar field.
+3+ years of experience SQL/Teradata as well as modern analytical systems in Azure ecosystem, Spark SQL, PySpark
+Strong proficiency in running statistical analyses in Python or R
+Knowledge with data visualization tools such as Power BI preferred
+Experience with Web Services and REST APIs is preferred
+Experience leveraging a variety of services to act as data sources such as Azure Data Lake, Azure Synapse Analytics, Azure SQL, Azure EventHub/IoT Hub, etc.
+Hands-on experience with analytics and big data technologies within Microsoft Azure, with experiences in tools such as Azure Data Factory, Azure Machine Learning, Azure Cognitive Services, Azure Databricks and Azure Synapse Analytics.
+Knowledge and experience with leveraging distributed techniques for training and scoring machine learning models, ideally using Azure Databricks
+Knowledge and experience with one or more cloud available Machine Learning frameworks and tools such as Tensor Flow, PyTorch, ONNX, NumPy, etc.
+Knowledge and experience with Model Management, ideally using Azure ML service and/or MLFlow as well as deployment of models using Azure Kubernetes Service
+Qualifications
+Advanced degree in Computer Science, Mechanical engineering, Statistics or related STEM field.
+4+ years of Data or Machine learning Science experience working on highly complex problems in a dynamic setting
+Fisker Inc. is an Equal Opportunity Employer; employment at Fisker Inc. is governed based on merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.
+#LI-Remote",Unknown / Non-Applicable,Transportation Equipment Manufacturing,Company - Public,Manufacturing
+Software Engineer - Data,los-angeles,"Deep 6 AI
+4.0","Pasadena, CA",4.0,Employer Provided Salary:$130K - $140K,3.6,3.6,3.4,3.6,4.1,51 to 200 Employees,2015,"Deep 6 AI is a fast-growing tech startup headquartered in Los Angeles, California looking for talented, dynamic team members who want to help shape our groundbreaking artificial intelligence platform. This is a remote opportunity, and we have a significant number of team members in Chicago, Seattle, SF Bay Area, NYC and Nashville.
+We are transforming and accelerating clinical trials, to help get life-saving treatments to patients faster and accelerate innovation in healthcare. To that end, we build a cutting-edge software suite that connects all clinical research stakeholders, from research teams to treating physicians, patients, and study sponsors on a real-time, real-world data SaaS platform, powered by AI.
+
+We are currently seeking a Software Engineer - Data to join our team. This engineer will have significant impact at Deep 6 AI by ensuring our data pipelines are robust, fault-tolerate, and capable of handling kilobytes to petabytes of complex medical data. They'll also work cross-functionally to support a variety of data needs ranging from analytics and machine learning through product development.
+
+What You'll Do
+
+Software Development
+Strong object-oriented and functional language familiarity including fluency in at least one major JVM language including Java, Scala, Kotlin, Clojure; Python is a plus.
+Experience with advanced data modeling as it relates to:
+o Database storage technologies including relational, columnar, key-value, document-oriented, etc.
+o Serialization technologies and relevant applications beyond JSON/XML such as Avro, Protobuf, and Thrift
+Experience with AWS DynamoDB, Lambda, and Kinesis is a plus
+Experience with the Linux ecosystem ranging from provisioning VMs and containers to authoring and executing command line tools
+Experience working with cloud provider ecosystems including but not limited to AWS
+
+Data Engineering
+Strong understanding of distributed data processing concepts:
+o Scalability
+o Streaming
+o Fault tolerance
+o ACID
+o CAP
+Experience optimizing performance metrics, such as
+o Latency
+o Throughput
+o Cost
+o Memory Usage
+
+About You
+2-3 years of technical experience developing data-intensive software
+Experience working with internal stakeholders to build technical roadmaps consistent with organizational goals
+Experience designing software for self-directed use by both technical and non-technical internal consumers
+Experience working with personally identifiable information (PII), ideally in a HIPAA-compliant context
+A major plus if the applicant has experience working with healthcare data, specifically HL7 or FHIR standards
+Bachelor’s degree in a Computer Science-related field or equivalent combination of training and experience
+Cloud services (AWS, GCP, Azure) certifications or equivalent combination of training and experience
+Nice To Haves
+Experience with HIPAA compliance
+Experience working with AWS
+Experience with stream processing (e.g. Flink, Spark Streaming)
+Knowledge of natural language processing and/or machine learning
+HBase or similar non-relational experience. Strong understanding of issues in distributed, eventually-consistent environments
+Experience working with Electronic Health Records
+Knowledge of medicine, genomics, etc.
+$130,000 - $140,000 a year
+
+Our Culture
+We are a very collaborative group that is inclusive, fun, and hard-working. We appreciate the value in diverse backgrounds and experiences so that we can create the best product through different perspectives and ideas. Deep 6 AI welcomes remote work and has fully-remote teams throughout the country; we strive to create an environment where you can do your best work in the environment and location that is best suited for each individual. As a member of our team, you can expect to work with intelligent, curious, and motivated peers who value and respect your perspectives. - Deep 6 AI is headquartered in Los Angeles and has a significant number of employees Chicago, Seattle, SF Bay Area, NYC and Nashville.
+Benefits
+In addition to competitive salary and a unique opportunity to thrive at a growing company, Deep 6 AI offers various formal benefits as well as a generous PTO plan which includes sick and vacation days, and as well as employer-paid medical (including a Health Savings Account with an employer contribution), Dental, Vision, and Life insurance. In addition, we're proud to offer Voluntary Life & AD&D, Short Term Disability, and Long-Term Disability coverage. A 401k plan is available, too.
+
+The above statements describe the general nature and level of work being performed in this job function. They're not intended to be an exhaustive list of all duties, and indeed additional responsibilities may be assigned by Deep 6.
+
+At Deep 6, we appreciate the opportunity to benefit from the diverse backgrounds and experiences of others. Because of our deep commitment to respect every individual, Deep 6 is an equal opportunity employer.",Unknown / Non-Applicable,Enterprise Software & Network Solutions,Company - Private,Information Technology
+Data Center and Cloud Solutions Engineer,los-angeles,"Quadranet Enterprises Llc
+3.1","Los Angeles, CA",3.1,Employer Provided Salary:$105K - $120K,3.2,3.2,3.0,3.0,3.4,1 to 50 Employees,2001,"Challenges You Will SolveWe are looking for a skilled Data Center and Cloud Sales Engineer to join our team and help drive our cloud solutions business. As a Cloud Sales Engineer, you will be responsible for providing technical expertise to sales teams, helping to identify and qualify opportunities, and delivering technical presentations and demos to prospective clients. You will also work closely with our product and engineering teams to ensure that our cloud solutions meet customer requirements and stay competitive in the market. What You’ll Do· Collaborate with the sales team to understand client needs and identify opportunities to sell our cloud solutions· Deliver technical presentations and demonstrations to clients, showcasing the benefits and features of our cloud solutions· Develop and maintain strong relationships with clients, serving as a trusted technical advisor· Conduct product demonstrations and proof-of-concept (POC) projects to showcase our cloud solutions· Work with product and engineering teams to understand the technical details of our cloud solutions and how they fit into the market· Participate in trade shows, conferences, and other industry events to promote our cloud solutions and generate leads· Provide feedback from clients to product and engineering teams to improve our cloud solutions· Continuously stay up to date on industry trends and emerging technologies to stay competitive in the market What You’ll Bring· Bachelor’s degree in computer science, Electrical Engineering, or a related field.· 3-5 years of experience in technical sales, preferably in the data center or cloud solutions industry.· Strong technical knowledge of data center and cloud solutions, including virtualization, storage, networking, and security.· Excellent communication and interpersonal skills, with the ability to explain technical concepts to non-technical audiences.· Strong analytical and problem-solving skills.· Ability to work independently and as part of a team.· Willingness to travel as needed to meet with customers and attend industry events.· Experience with CRM systems, such as Salesforce, is a plus.
+Flexible work from home options available.",Unknown / Non-Applicable,Internet & Web Services,Company - Private,Information Technology
+Senior Data Engineer,los-angeles,"First Resonance
+4.9","Los Angeles, CA",4.9,$114K - $171K (Glassdoor est.),4.6,4.9,4.7,4.3,4.1,1 to 50 Employees,2018,"We're seeking a spirited Data Engineer to join our mission of revolutionizing the ion Factory OS for next-gen hardware creators. As a full-time addition at our lively Los Angeles, CA HQ (Downtown), you'll play a crucial role in our dynamic data team.
+Fired up to support eVTOLs, rockets, robots, and autonomous vehicles makers? Our data team is all about backing companies tackling humanity's boldest challenges. Join our diverse squad, renowned for quick learning, sharp thinking, and agile execution.
+While spontaneous ping pong duels might occur, our primary focus is on empowering ion customers with cutting-edge data infrastructure. Ready to make an impact on hardware and Industry 4.0? Let's dive in!
+Responsibilities & Duties
+Design, develop, and maintain scalable ETL processes and data pipelines
+Optimize data storage and retrieval using distributed systems and cloud technologies
+Collaborate with cross-functional teams to define data requirements and ensure data quality
+Monitor, troubleshoot, and resolve data processing issues
+Continuously refine and optimize data engineering practices and tools
+Minimum Qualifications & Skills
+Proficiency in Python or other relevant programming languages for data processing
+Strong proficiency in SQL (Postgres and Snowflake)
+Experience in ETL development and tooling (DBT preferred)
+Familiarity with distributed systems and cloud technologies (AWS)
+Solid understanding of data warehousing concepts and best practices
+Knowledge of system orchestration tooling (Airflow, Luigi, etc.)
+Preferred Qualifications & Skills
+Experience with distributed data storage systems (Snowflake, Apache Druid, AWS Redshift)
+Knowledge of modern data stores and file formats (Delta, Iceberg, etc.)
+Knowledge of data modeling, schema design, and data normalization techniques
+Experience with stream processing tools & frameworks (Apache Kafka, Debezium, Spark Streaming)
+Experience with distributed Big Data tools (Trino, Apache Spark)
+Experience with ELK stack for system monitoring and alerts
+Exposure to machine learning frameworks and tools (TensorFlow, PyTorch)
+Background in building enterprise applications or working in a manufacturing environment
+Benefits & Perks
+Health Insurance; medical, vision, dental, & life insurance
+Paid Parental Leave
+Employee Stock Option Plan
+Team outings, group lunches, an open office, happy hours
+Paid holidays, sick days
+Flexible Fridays and PTO
+401K
+
+First Resonance is an equal opportunity employer dedicated to building an inclusive and diverse workforce.
+JOIN THE TEAM AND INSPIRE THE WORK
+First Resonance accelerates the speed and reliability of hardware development for companies manufacturing the next generation of hardware products. This includes electric airplanes, autonomous vehicles, robotics, and more. We are a group of software, hardware, and manufacturing engineers that are bringing the best of modern UX and data science to an industry that has been overly rigid in its innovation. We are removing the barriers preventing radical advancement by providing tools to manufacturing engineers and operators to move information more freely, collaborate with their teams more easily, and use the power of data to predict problems and provide insights that result in better hardware quality and delivery.",Unknown / Non-Applicable,Computer Hardware Development,Company - Private,Information Technology
+Data Recovery Engineers/Technicians/Specialists,los-angeles,SecureSoftware.com,"Los Angeles, CA",-1,-1,-1,-1,-1,-1,-1,-1,-1,"We are looking for experienced data recovery engineers and specialists. Applicants should have an in-depth understanding of hard disk drive repair techniques.
+Additionally, data recovery engineers should have experience with:
+Various Operating Systems and File Systems
+Extracting, Inspecting and Repairing Raw Data
+Flash Drives, Solid-State Drives and Other Media
+UNIX/ZENIX, Novell, Windows, Linux and Mac OS X
+Experience with hard drive repair tools is also a plus, but not necessarily required. We always appreciate applications from data recovery specialists who regularly work with RAID systems, virtual servers, data tapes or other types of storage devices. We provide on-the-job training for qualified candidates.
+We prefer candidates with computer and technology-related degrees. Security is a major aspect of our services, and you must be willing to follow strict protocols to maintain client confidentiality while working in our facilities.
+Full-time, part-time and contract work is available. However, position availability depends on your physical location and qualifications.
+
+HOW TO APPLY:
+If you want to work in a challenging, rewarding environment and you enjoy finding creative solutions to technical issues, we would like to hear from you.",-1,-1,-1,-1
+Senior Data Engineer,los-angeles,TrueRank,"Los Angeles, CA",-1,Employer Provided Salary:$65K - $85K,-1,-1,-1,-1,-1,-1,-1,"TrueRank is building a career platform for employees and recruiter built on the principles of data openness, quantitative evaluation, and self-improvement. The core of the platform is a data augmentation and analytics layer that helps users visualize an individual’s “human capital” with a single, intelligible score. A user’s TrueRank score quantifies their work experience and education, and is further enriched by proprietary data signals from TrueRank to provide a holistic ranking of professionals in the same functional role.
+
+Our goal is to help all users understand how everyone “stacks up” without having to parse individual resumes or LinkedIn profiles and ask for referrals or recommendations.
+
+Our company has raised $26M to date–although we are still pre-product. We have a remote global engineering team of 7 at the moment. Company leadership is based in Los Angeles.
+
+We are a fast moving startup that takes pride in a fast iteration style and transparency. We want to work with high-energy do-ers with heavy bias for action.
+Requirements
+4+ years as a data engineer including time in a smaller organization (<50 ppl)
+Experience with data pipelines and data warehousing using AWS
+Experience using PostgreSQL, Python, Pandas
+Top decile written and verbal communication skills
+Enthusiastic about solving difficult problems as we find product market fit
+Ability to work autonomously
+Bias towards action and desire to work in a fast paced environment
+Compensation
+$65k-85k Annual Salary + Equity
+
+Benefits
+Insurance: medical, dental, & vision (100% employer-covered)
+Unlimited PTO
+Monthly health & wellness stipend",-1,-1,-1,-1
+Sr. Software Engineer - Data (Remote),los-angeles,"Manufacturers Bank
+3.2","Los Angeles, CA",3.2,-1,-1,-1,-1,-1,-1,201 to 500 Employees,Company - Private,"NEW DIGITAL BANK MISSION STATEMENT:
+Join us on our mission to create a completely new, 100% digital bank that truly serves customers' best interests. We are a close-knit and fun-loving team of seasoned financial services professionals who came together for the challenge of building a bank from scratch - and we are committed to doing it all the right way (from technology infrastructure to modern marketing to customer experience).
+
+
+We work with the flexibility and speed of a start-up. But we also have significant stability and capital from being part of the SMBC Group (Sumitomo Mitsui Banking Corporation). SMBC is the 2nd largest bank in Japan and the 12th largest bank in the world with operations in over 40 countries. And SMBC is committed to disrupting the US marketplace with ground-breaking products. It's the best of both worlds, and we are seeking proven marketing leaders to propel us towards a national launch. We have both the ambitious growth plans and the 'patient capital' necessary to execute a multi-year plan. Join us on the journey to deliver an exciting concept of evolved banking.
+
+SUMMARY, PRINCIPAL DUTIES & RESPONSIBILITIES:
+Develop reports, dashboards and KPIs to help the organization make data driven decisions
+Implement standard methodologies and best practices to ensure data model and dashboard design consistency across all reporting projects
+Work with business and cross-functional teams to gather and document reporting requirements to meet business needs
+Provide support as required to ensure the availability and performance of developed reports and dashboards
+Provide technical assistance and cross training to business and internal team members
+Collaborate with business partners for continuous improvement opportunities",-1,Financial Services,Investment & Asset Management,$25 to $100 million (USD)
+Data Engineer,los-angeles,"USC
+4.3","Los Angeles, CA",4.3,Employer Provided Salary:$97K - $110K,3.9,4.0,3.9,3.8,4.1,10000+ Employees,1880,"The University of Southern California, founded in 1880, is located in the heart of downtown and is the largest private employer in the City of Los Angeles. As an employee of USC, you will be a part of a world-class research university and a member of the “Trojan Family.”
+USC University Advancement is seeking a collaborative Data Engineer to design, build, and launch new data models to provide intuitive analytics to customers. Reporting to the Executive Director of Business Intelligence, the Data Engineer will move data from our Data Warehouse Systems into downstream databases and data marts for analysis. This is a hybrid position based in our downtown Los Angeles office (USC Tower).
+USC values diversity and is committed to equal opportunity in employment. USC University Advancement is committed to fostering a diverse, equitable, and inclusive culture in which all advancement staff and our stakeholders have the opportunity to connect, belong, and grow while supporting the USC’s mission, values, and goals.
+Job Accountabilities
+Architect, build, and launch new data models that provide intuitive analytics to your customers
+Design, build and launch extremely efficient & reliable data pipelines to move data (both large and small amounts) from our Data Warehouse Systems into downstream databases and data marts for analysis
+Develop strategies to extract, resolve, and unify information of various types from numerous disparate data sources and integrate cohesively with external business applications
+Collaborate with a cross-functional team of client leads, application developers, operations engineers, and architects to translate complex product requirements into technical specs and design requirements
+Optimize performance and cost efficiency of cloud-based processes across multiple cloud environments (AWS, Azure, GCP)
+Design, build and deploy ETL and data management processes with reliable error/exception handling and rollback framework
+Provide production support for data load jobs and develop customized query to generate automatic periodic reports
+Build applications writing SQL/Python scripts to manipulate data and/or writing specific instructions for off-shore programmers to write the scripts
+Provide daily monitoring, management, troubleshooting, and issue resolution to existing and new data solutions and systems’ interfaces affected by them.
+Develop high quality, reliable, and fault-tolerant data solutions based on internal and external customers/users’ requirements, applying best practices and new trends/technologies all along the solution lifecycle.
+Qualifications
+2+ years of overall experience developing cloud-native data solutions on Azure/AWS (Must have a solid understanding of cloud concepts: Storage, Compute, Network and Managed Services)
+Broad knowledge of different database technologies beyond RDBMS, vendor/solution capabilities in data management and reporting/analytics – data federation, big data, data quality, Business Intelligence, etc., and writing complex SQL queries in a data warehouse environment
+3+ years of experience programming in PowerShell and C#
+3+ years of experience in SQL, data transformations, statistical analysis, and troubleshooting across more than one Database Platform (Cassandra, MySQL, Snowflake, PostgreSQL, Redshift, Azure SQL Warehouse, etc.).
+3+ years of experience designing and building solutions utilizing various Cloud services such as EC2, S3, EMR, Kinesis, RDS, Redshift/Spectrum, Lambda, Glue, Athena, API gateway, etc.
+Experience with one or more relevant tools (Sqoop, Flume, Kafka, Oozie, Hue, Zookeeper, HCatalog, Solr, Avro, SSIS)
+Experience with one or more SQL-on-Hadoop technology (Hive, Impala, Spark SQL, Presto)
+Experience with AWS ecosystem (Data Lake Formation, Glue, Data Pipelines, EC2, Redshift, S3, Glacier, DynamoDB, Lambda, etc.)
+Documentation and Additional Information
+
+To apply, please include a resume and cover letter.
+The annual base salary range for this position is $96,739.35 - $110,000. When extending an offer of employment, the University of Southern California considers factors such as (but not limited to) the scope and responsibilities of the position, the candidate’s work experience, education/training, key skills, internal peer equity, federal, state, and local laws, contractual stipulations, grant funding, as well as external market and organizational considerations.
+USC has excellent benefits, including health benefits for staff & their family with access to the renowned university medical network; retirement plans with employer contributions once you meet Program’s eligibility; tuition benefits for staff & their family; central Los Angeles location with easy access to commuter trains, buses & free tram pick up services.
+The University of Southern California values diversity and is committed to equal opportunity in employment.
+
+Minimum Education: Bachelor's degree Minimum Experience: 3 years Minimum Field of Expertise: Direct knowledge and experience in data modeling, data warehousing and reporting. Project management experience for complex projects. Demonstrated organizational, critical thinking, interpersonal, planning, problem solving, and business analytical skills. Able to work at a high functional and technical level.",$1 to $5 billion (USD),Colleges & Universities,College / University,Education
+DATA & SYSTEMS ENGINEER,los-angeles,"Iris.TV
+5.0","Los Angeles, CA",5.0,$100K - $145K (Glassdoor est.),4.7,5.0,5.0,4.7,4.7,1 to 50 Employees,Company - Private,"IRIS.TV is the world's leading video data platform. Founded in 2013, our mission is to connect and activate video data from any source to power better consumer experiences and business outcomes.
+At IRIS.TV, we help our customers and partners maximize the value of their investment in video. Our privacy-first, neutral video data platform provides the leading media, data, advertising, and marketing companies with seamless ingestion, enrichment, and activation of video data.
+We're in the business of creating more valuable and enjoyable streaming video experiences for everyone. Because when great storytelling and journalism thrives, so too does our culture and communities.
+We're growing our world-class team and we'd like to meet you.
+
+Our values
+We see a world where consumers, brands, and publishers are aligned - with more engaged audiences, fewer wasted impressions, greater respect for privacy, and better results for all stakeholders.
+Innovation
+We're building the future of video and transforming the way video data is shared with the entire marketplace. From our products to our people, innovation is a core tenet of our business.
+Trust
+We've engineered an open ecosystem that enables anyone investing in video to unlock the power of their data. And it's all built on a foundation of trust and transparency with our partners and customers.
+Impact-Oriented
+The bottom line is our top priority. We've built our entire platform to deliver measurable business outcomes with frictionless, flexible technology solutions.
+Privacy & Security
+We put privacy and data security first. Our solutions are built to solve problems in a post-cookie world, elevating video-level data while being fully compliant with global privacy laws.
+
+The role
+Data & Systems Engineer
+
+Location
+Los Angeles HQ or NYC is preferred but open to Remote.
+
+Responsibilities
+IRIS.TV is seeking a Data & Systems Engineer specializing in Clojure to work closely with our engineering team which is headquartered in Los Angeles and geographically distributed around the world. This is an exciting opportunity to work with big data, analytics, and real-time distributed systems in a fast-paced startup environment.
+
+Qualifications
+Strong creative problem-solver.
+Excellent written English communication.
+Self-directed, capable of making progress with little oversight.
+Experience with distributed systems.
+Experience with Clojure.
+
+Bonus points if you have experience with:
+Cassandra.
+Kafka.
+Redis.
+DevOps (can deploy your own code in containers).
+Kubernetes and/or Docker.
+Optimizing systems for performance.
+Some Data Science.
+Experience in video, analytics, data connectivity, martech, adtech, and/or building APIs.
+
+Compensation, Benefits, and Perks (US)
+Competitive compensation & equity options.
+Open vacation & sick time.
+Flexible work hours.
+World-class medical, dental, and vision benefits.
+
+Diversity, Equity, and Inclusion
+IRIS.TV is committed to building a diverse, equitable and inclusive workforce. IRIS.TV is an equal opportunity employer; we welcome and consider qualified applicants regardless of gender identity or expression, sexual orientation, race, religion, age, national origin, citizenship, pregnancy status, veteran status, or any other differences. Members of communities historically underrepresented in tech are encouraged to apply.
+
+Principals only. No recruiters or agencies please.",-1,-1,Unknown / Non-Applicable,-1
+Sr. Data Engineer,los-angeles,"Dr. Squatch
+4.0","Marina del Rey, CA",4.0,Employer Provided Salary:$120K - $160K,4.1,4.4,3.6,3.9,3.9,201 to 500 Employees,2013,"Why We Exist and What We Do:
+At Dr. Squatch (www.drsquatch.com) we're raising the bar on men's personal care with our line of natural, high-performance products. We're on a high-growth, fast-moving ride, continually introducing new product categories, launching into retailers nationwide, and growing internationally. We recently earned a Great Place to Work® Certification™ and are looking for passionate, talented people who want to join us in our mission to inspire and educate men to be happier and healthier!
+About the Role:
+Dr. Squatch is looking for a talented Sr. Data Engineer to join our Data team. The Sr. Data Engineer will be responsible for ensuring high-quality, accurate data modeling (we use dbt), working with our data engineering team to ensure that our raw data is complete and accurate, and helping data analysts and others on the Data team transform raw data into clean, modeled data that is ready for analysis by end users. This role will have a high level of autonomy and will play a key part in selecting and optimizing the tools we use and the way we transform data at Dr. Squatch.
+Our Data team operates a modern data stack built on Snowflake (data warehouse), Fivetran (ETL), Prefect (orchestration), dbt (transformation/modeling), and Monte Carlo (data observability / data quality).
+This role will report to the Associate Director, Analytics & Strategy.
+This is a full-time, hybrid role with company benefits based in Marina del Rey, California.
+The anticipated base compensation range for this role will be $120,000 to $160,000. Compensation will be commensurate with the candidate's experience and local market rates.
+What You'll Do:
+Take ownership over our data architecture, managing, selecting, and improving the tools we use to store, load, transform, and visualize data
+Help us improve our ETL processes (improving reliability and data quality) for difficult data sources, especially those that can't be run through Fivetran; this could include finding new ETL tools or building data pipelines yourself
+Design, build and optimize data models in our data modeling layer (dbt), reducing runtime and decreasing unnecessary complexity
+Be a champion for efficient, effective data modeling, reviewing pull requests, suggesting improvements, and helping/coaching others on the team to write better code
+Implement testing, validation, and documentation to flag and resolve issues with poor-quality data
+Proactively seek out and explore new technologies to advance our data capabilities
+Architect and maintain pipelines for moving data into third-party tools, furthering our personalization capabilities
+About You:
+3+ years of experience in a data/analytics engineering role
+Expert SQL skills
+Experience working with cloud data warehouses
+Experience working with business intelligence solutions
+Proficiency with a scripting language like Python
+Experience owning / maintaining / improving ETL processes, either using tools like Fivetran or by building data pipelines / connecting to APIs directly
+Enthusiasm for writing clean code
+Excellent at creating a peer-reviewed, version-controlled, and well-documented environment
+Experience using dbt (strongly preferred)
+Experience using Snowflake
+Experience in Looker preferred
+Familiar with Git preferred
+Experience in eCommerce/direct to consumer businesses preferred
+Excellent communication skills
+Interest in health and wellness, personal care, and/or eCommerce industries
+Someone who gets things done without perfect resources is innovative and works with a sense of urgency
+Someone who has high standards takes ownership and is invested in the outcome
+Someone who enjoys working with data and applying the insights you find in it
+Someone who proactively helps others stays positive and has a good sense of humor
+#LI-BD1
+Who We Are:
+Our core values come naturally and make us a better, more whole, and unique team. We are Scrappy - we get things done, we find a way, we act with urgency and we maintain a start-up mentality. We Play to Win - we have high standards, we encourage ownership of work, we are ""hungry"" and we invest in the outcome of our work. We have a Team First Mentality - we are humble, help others outside our own wheelhouse, stay positive and have fun.
+We offer a competitive salary in a growth-focused & collaborative team environment. Benefits include medical, dental, vision, 401k with Squatch match, and PTO. We also have great perks like healthy snacks, frequent company events, and of course, free products!
+Diversity, Equity & Inclusion @ Squatch:
+We firmly believe that Team Squatch is a place for everyone and we're proud to be an equal opportunity employer who is committed to inclusion and diversity. We do not discriminate based on any characteristic protected by federal or state law. We embrace differences and are building a company and culture that is represented by a variety of backgrounds, perspectives, life experiences, and skills.
+For Applicants with Disabilities. Reasonable accommodation will be made so that qualified applicants with disabilities may participate in the application process. If you need any accommodations during the hiring process, please let us know when you submit your application and we'll do our very best to adjust as needed.
+For Information regarding Data Privacy, please review https://www.drsquatch.com/pages/privacy-policy.
+Unsolicited Resume Policy. Dr. Squatch (""DRSQ"") employs an internal Talent Acquisition department. Exceptionally, DRSQ may choose to supplement that internal team with support from temporary staffing agencies, placement services, and/or recruiting agencies (""Agency""). Agencies are hereby specifically directed NOT to contact DRSQ employees directly in an attempt to present candidates. DRSQ's Talent Acquisition team is responsible for all candidate presentations to our hiring managers.
+To protect the interests of all parties, Dr. Squatch will not accept unsolicited resumes from any source other than directly from a candidate. Any unsolicited resumes sent to DRSQ, including unsolicited resumes sent to a DRSQ email address or mailing address, directly to DRSQ employees, or to DRSQ's resume database will be considered property of Dr. Squatch.
+DRSQ will not pay a placement, service or other fee for any placement resulting from the receipt of an unsolicited resume. This also includes partial resumes, LinkedIn profiles, general candidate profiles, and/or candidate details or information. DRSQ will consider any candidate for whom an Agency has submitted an unsolicited resume to have been referred by the Agency free of any charges or fees.
+DRSQ's Talent Acquisition team must provide advance written approval to an Agency to submit resumes and/or profiles for a specific job-opening, and the approval must be in conjunction with a valid fully executed staffing, placement or other service agreement. DRSQ will not pay a fee to any Agency that does not have a fully executed agreement in place prior to submission, receipt and placement of candidates.",Unknown / Non-Applicable,Consumer Product Manufacturing,Company - Private,Manufacturing
+Jr. Data Center Engineer,los-angeles,"CDNetworks Inc.
+2.9","Monrovia, CA",2.9,Employer Provided Salary:$20.00 - $25.00 Per Hour,2.9,3.0,2.6,2.7,3.5,201 to 500 Employees,2000,"CDNetworks is one of the top leading CDN & Edge Service Providers with global offices in Korea, Japan, Singapore, Malaysia, China, Russia, London, and Canada. We focus on delivering integrated cloud and edge computing solutions with unparalleled speed, ultra-low latency, rigorous security, and reliability so that our clients can focus on what’s most important – growing their business.
+The Jr. Data Center Engineer is a Full-Time position based in Monrovia, CA. Job is performed indoors in a Data Center or Warehouse environment. 75% Travel required for this position.
+Job Responsibilities
+Ensure all incidents are logged and resolved, gather all relevant data, and ensure all incidents and tasks follow the appropriate procedures.
+Support data center activities and work closely with our system and network team to complete tasks/projects.
+First responder to all alerts and problem reports while managing communications between departments and handling crisis documentation and dissemination after the fact.
+Utilize internal systems such as JIRA/Wiki to manage project plans and progress.
+Performing general system administration duties including OS patching and upgrades, batch job monitoring, system and hardware diagnostics, and other activities to ensure optimal health and performance of all systems as required.
+Resolve complex problems related to Server and H/W areas.
+Assisting/working closely with Network, System Engineers to configure customer requirements.
+Physical deployment of network devices, servers, cables, etc.
+Assembling/dissembling server hardware for deployment and OS installation and network equipment testing.
+Maintain existing department and system documentation (update workflow, process, training documentation).
+Other duties as assigned.
+Abilities Required
+Good verbal and written communication skills, and ability to work independently with minimum instruction.
+Basic degree of mentorship, training, and direction team members skills.
+Knowledge of IDC industry.
+Intermediate degree of analytical and project management skills.
+Other Features of Job
+Job is performed indoors in a Data Center or Warehouse environment.
+Language Skills
+Excellent communication skills (English) – written and verbal. Bilingual Chinese or Korean is a plus!!
+Job Type: Full-time
+Salary: $20.00 - $25.00 per hour
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Employee assistance program
+Health insurance
+Life insurance
+Paid time off
+Professional development assistance
+Referral program
+Vision insurance
+Schedule:
+10 hour shift
+8 hour shift
+Evening shift
+Monday to Friday
+Night shift
+On call
+Overtime
+Supplemental pay types:
+Bonus pay
+Ability to commute/relocate:
+Monrovia, CA: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Computer networking: 1 year (Preferred)
+Shift availability:
+Overnight Shift (Required)
+Night Shift (Required)
+Day Shift (Required)
+Willingness to travel:
+75% (Preferred)
+Work Location: In person",$10+ billion (USD),Information Technology Support Services,Company - Private,Information Technology
+Data Infrastructure Engineer,los-angeles,"United Talent Agency (UTA)
+3.6","Los Angeles, CA",3.6,Employer Provided Salary:$170K - $200K,3.7,3.4,2.9,3.6,3.0,501 to 1000 Employees,1991,"United Talent Agency is committed to building high performance data and application platforms by utilizing the most effective cutting-edge technology we can. UTA's Engineering Team's mission is to use Continuous Integration and Continuous Delivery methods to create a sustainable and secure pipeline in delivering solutions to its business stakeholders. We do this by continuously analyzing areas of improvement and identifying areas of opportunity to automate, secure and codify our environment.
+
+At UTA, you’ll play an essential role in ensuring the effective and seamless integration for workload optimization, query optimization and high performing distributed query execution. While dealing with the fast-paced development and operational process, we strive for world-class tooling, automation and infrastructure to further advance our SaaS platform.
+
+We’re hiring a Data Infrastructure Engineer to join our Engineering team, reporting to the VP, Engineering, you will provide automation and fundamental frameworks that allow us to efficiently perform data warehousing, data lakes, data engineering, data science, data application development, and secure sharing and consumption of real-time / shared data.
+
+The salary range for this role is $170,000 to $200,000 commensurate with experience and skills.
+What You’ll Do
+Create a framework that enables the development team to understand the full impact of their features for stakeholders, including testing before it is enabled in production Providing insights into performance and reliability on actual production, guaranteeing no customer impact
+Design a visualization framework that provides the ability to visualize all queries in all environments, including production, while also designing improvements for better insights into potential issues and query plan manipulation
+Develop a service that automatically finds and resolves data corruption in the system, at all stages of development, including in production
+Responsible for creating a testing platform, meant to find correctness and reliability issues in pre-production environments
+Creation of automated system to safely orchestrate the enablement of features in production that will automatically detect and mitigate production issues, for rapid end-to-end feature rollout process at scale
+Identify infrastructure gaps, for which you can design and implement automated solutions
+Contribute to the design, development, and maintenance of some of our existing projects
+What You’ll Need
+5+ years hands-on software engineering experience, including experience using Snowflake
+Advanced CS fundamentals including data structures, algorithms, and distributed systems
+Good understanding of database fundamentals
+Background in database tooling, database internals, schema design, or building components for large scale data processing systems
+Systems programming skills with fluency in Java, JavaScript or Python
+Track record of identifying and implementing creative solutions with data from multiple sources
+What You'll Get
+The unique and exciting opportunity to work at one of the leading global entertainment companies
+Access to the tools, leadership, and resources you will need to create and drive a center of excellence
+The opportunity to do the best work of your career
+Work in an inclusive and diverse company culture
+Competitive benefits and programs to support your well-being
+Collaborative colleagues who are focused on making an impact
+About UTA
+UTA unites ideas, opportunities and talent. The company represents some of the world's most iconic, barrier-breaking artists, creators and changemakers—from actors, athletes and musicians to writers, gamers and digital influencers. One of the most influential companies in global entertainment, UTA's business spans talent representation, content production, as well as strategic advisory and marketing work with some of the world's biggest brands. Affiliated companies include Digital Brand Architects, KLUTCH Sports Group, Curtis Brown Group, and MediaLink. UTA is headquartered in Los Angeles with offices in Atlanta, Chicago, Nashville, New York and London.
+For more information:
+https://www.unitedtalent.com/about/
+UTA and its Affiliated Companies are Equal Employment Opportunity employers and welcome all job seekers including individuals with disabilities and veterans with disabilities.
+#LI-CB1",$5 to $25 million (USD),Culture & Entertainment,Company - Private,"Arts, Entertainment & Recreation"
+Senior Data Engineer,los-angeles,Spotter,"Los Angeles, CA",-1,Employer Provided Salary:$100K - $500K,-1,-1,-1,-1,-1,51 to 200 Employees,Company - Private,"Overview:
+Spotter empowers top YouTube creators to accelerate their business and unleash their full creative potential by giving them access to the capital, knowledge, and community they need to succeed at scale. As the top provider of creator-friendly growth capital, Spotter tailors our investments to meet the unique needs of each creator we partner with, giving them the freedom to create without compromise.
+Creators are free to reinvest their funds however they choose, from hiring a team, to building their own production studios, and everything in between, all while maintaining total control over their catalogs, their channels, and their future earnings. In addition to funding, Spotter provides creators with in-depth data insights into the performance of their existing content, enabling them to leverage the full value of their library, as well as the value of future uploads and how they can improve performance in the future.
+Featured in Forbes, Fast Company, Variety, Axios, and more, Spotter has already deployed over $740 million to YouTube creators to reinvest in themselves and accelerate their growth. Spotter has licensed content that consists of over 600,000 videos, which generate 88 billion monthly watch-time minutes. With our curated premium video catalog, we deliver a unique scaled media solution to Advertisers and Ad Agencies that is transparent, efficient, and 100% brand safe.
+*Position based in Los Angeles*
+What You'll Do/Responsibilities:
+Develop and maintain scalable data pipelines, including:
+ETL pipelines, both single and multi-node solutions
+Build data quality assurance steps for new and existing pipelines
+Create derived datasets with augmented properties
+Work on analytics ready datasets to power internal and creator facing tools
+Troubleshoot issues when they arise, working directly with internal data consumers
+Automate pipeline runs with scheduling and orchestration tools
+Work with large scale datasets
+Work with/use various external APIs to enhance data
+Setup database tables for analytics users to consume the data collected by the Data Engineering team
+Work with big data technologies to improve data availability and data quality in the cloud (AWS)
+Mentor more junior members of the team
+Who You Are/Required Qualifications:
+Bachelor's degree, preferably in Computer Science or Computer Information Systems
+5+ years of software engineering experience
+3+ years of data engineering experience with Apache Spark or Apache Flink
+3+ years of experience running software and services in the cloud
+Proficiency in working with DataFrame APIs (Pandas and Spark) for parallel and single node processing
+Proficiency using advanced languages and techniques with Python, Scala, etc. with modern data optimized file formats such as Parquet and Avro
+Proficiency with SQL on RDBMS and data warehouse solutions like Redshift
+Additional Valued Skills:
+Experience with YouTube APIs
+Experience with data acquisition from external APIs at large scale / in parallel processing
+Experience with Data-Lake technologies
+Experience with AWS Glue metastore
+Experience with Data-Mesh approaches
+Experience with data cataloging, data lineage and data governance tools and approaches
+Why Spotter
+Medical insurance covered up to 100%
+Dental & vision insurance
+401(k) matching
+Stock options
+Autonomy and upward mobility
+Diverse, equitable, and inclusive culture, where your voice matters.
+In compliance with local law, we are disclosing the compensation, or a range thereof, for roles that will be performed in Los Angeles. Actual salaries will vary and may be above or below the range based on various factors including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The overall market range for roles in this area of Spotter are typically: $100-$500K salary per year. The range listed is just one component of Spotter's total compensation package for employees. Other rewards may include annual discretionary bonus and equity.
+COVID-19 Vaccination Policy
+Spotter requires proof of being fully vaccinated for COVID-19 as a condition of commencing employment.
+Spotter is an equal opportunity employer. Spotter does not discriminate in employment on the basis of race, religion, creed, color, national origin, ancestry, citizenship, physical or mental disability, medical condition, genetic characteristics or information, marital status, sex (including pregnancy, childbirth, breastfeeding, and related medical conditions), gender, gender identity, gender expression, age, sexual orientation, military status, veteran status, use of or request for family or medical leave, political affiliation, or any other status protected under applicable federal, state or local laws.
+Equal access to programs, services and employment is available to all persons. Those applicants requiring reasonable accommodations as part of the application and/or interview process should notify a representative of the Human Resources Department.",-1,-1,Unknown / Non-Applicable,-1
+Data Engineer - Contractor,los-angeles,"Fabletics
+4.3","El Segundo, CA",4.3,$82K - $122K (Glassdoor est.),4.0,4.4,4.1,4.2,4.0,Unknown,2013,"Job Description
+As a Data Engineer - Contractor on Central Data Platforms team, you will be supporting Data Integrations & Data Analytics Engineer teams, and other shared services. This role requires not only highly technical and analytical skills, but also strong collaboration and communication across internal & external technical teams, and business stakeholders.
+The primary responsibility of this role will be delivering a large database migration project by providing technical and analytics solutions in collaboration with multiple technical and non-technical teams. This is an on-site role where you are required to work out of TechStyle on-site location in El Segundo, CA. The duration of the contract is six months and reports to Data Engineering Manager(s)
+
+Day to Day Responsibilities
+Gain an understanding of the scope and timeline of the migration project
+Execution of all migrations assigned by your manager on a daily and weekly basis
+Collaborate with product/business stakeholders, architects, engineering teams and analytics teams to build accurate, timely and actionable information products
+Design, develop, test, and maintain ELT (Extract, Load, Transform) processes to bring data from multiple sources into a single warehouse environment
+Ensure smooth ongoing operations of data warehouse and data pipeline platform with high availability and performance while making continuous improvements and leverage best practice and features of the technical stack offers.
+Provide production support on a rotating basis
+
+Qualifications
+BS or MS degree in Computer Science, Mathematics, Statistics, or related discipline
+5+ years of experience with SQL
+2+ years of experience with Python
+Strong understanding of BI best practices, relational structures, data warehousing methodologies, ELT processing and dimensional data modeling
+Excellent data analytics skills – the candidate should be able to test and document the accuracy of the data efficiently.
+Experience with source code management and version control (Git/GitHub/GitLab)
+Excellent collaboration and commutation skills, both written and verbal
+Must be self-directed and be able to thrive in a quick turn-around working environment
+Expert SQL skills, particularly in an analytics / reporting capacity. Extensive experience creating and maintaining DW and reporting processes
+Advanced Data modeling skills (hands-on experience + theoretical understanding)
+Implementing star-schemas/snowflake-schemas
+Incremental and Full Load
+Slowly changing dimensions
+Advanced SQL skills required
+Primary/foreign keys, indexes (when to use them)
+Joins and Set Operations
+Tables and Views (How are they different? Pros and cons of using)
+Window functions
+Scalar and aggregate functions
+
+Nice to Have
+Experience with Snowflake
+Experience working in an Agile environment
+Prior experience performing a data warehouse migration
+#LI-TechStyleOS
+About TechStyleOS
+TechStyleOS is the globally integrated Operations and Services provider behind some of the fastest growing online fashion brands in history, including Fabletics, Savage X Fenty, JustFab, ShoeDazzle, and FabKids. With capabilities spanning technology, data science, supply chain management, fulfillment, customer service, and more, we help brands launch, scale and grow—across product categories and geographically. From predictive analytics to data-driven marketing and attribution, our unique approach is powered by our proprietary, end-to-end tech platform that enables the brands we serve to deliver a level of personalization, value, and satisfaction that are unrivaled in the fashion industry.
+Fabletics, Inc. is an equal opportunity employer. We recruit, employ, compensate, develop, and promote regardless of race, national origin, religion, sex, sexual orientation, gender identity, age, disability, genetic information, veteran status, and other protected status as required by applicable. At Fabletics, Inc., we champion a vibrant workplace culture that thrives on diversity law and do not tolerate discrimination or harassment. We are one team from many backgrounds, innovating through diversity of individuals, who are driven by passion for creating an inclusive space for all. Fabletics, Inc. will continue to champion a workplace culture that prizes diversity and inclusivity.
+We encourage you to apply regardless of meeting all qualifications and/or requirements.
+Please be aware that the Company requires you to be fully vaccinated against COVID-19, and we will require all non-remote new hires working in our Los Angeles office to submit official COVID-19 vaccine documentation. Currently, the Company considers you fully vaccinated 14 days after your second dose in a two-dose vaccine series (e.g., Pfizer or Moderna) or 14 days after a single-dose COVID-19 vaccine (e.g., Johnson & Johnson). The vaccine must have been FDA approved, have emergency use authorization from the FDA, or, for persons fully vaccinated outside of the U.S., be listed for emergency use by the World Health Organization. Anyone unable to be vaccinated, either because of a disability, medical condition or sincerely-held religious belief may request a reasonable accommodation upon active employment. In addition, due to how highly transmittable the Omicron variants is, we are currently requiring all non-remote employees to get a vaccine booster when eligible.",Unknown / Non-Applicable,Internet & Web Services,Company - Private,Information Technology

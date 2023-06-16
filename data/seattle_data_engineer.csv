@@ -1,0 +1,1139 @@
+Job Title,Glassdoor Location,Employer Name,Location,Rating,Salary,Carrier Opportunities,Culure And Values,Senior Management,Comp And Benefits,Life Balance,Company Size,Found year,Description,Company Revenue,Industry,Company Type,Company Sector
+Data Engineer,seattle,"Wallero
+4.4","Seattle, WA",4.4,Employer Provided Salary:$70.00 - $80.00 Per Hour,4.5,4.4,4.4,4.1,4.3,51 to 200 Employees,2015,"Hi,
+Pretty much interested in your resume, we have an urgent opening for Data Engineer role with one of our clients based in Seattle WA.
+Position: Data Engineer
+Location: Seattle WA - Remote (100%)
+Description:
+Good Experience in reporting space including PowerBI, ADF, and possibly standing up a data warehouse/data mart.
+The main scope centering is around reporting.
+Experience with SQL, and agile framework including requirement gathering and story/feature writing skills.
+Need someone strong who is comfortable leading and guiding teams in that capacity.
+Migrating data from third party to Azure Cloud
+Job Types: Full-time, Contract
+Pay: $70.00 - $80.00 per hour
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Seattle, WA 98101: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Informatica: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: In person",$1 to $5 million (USD),Information Technology Support Services,Company - Private,Information Technology
+Data Engineer II,seattle,"Deako
+4.9","Seattle, WA",4.9,Employer Provided Salary:$100K - $130K,4.9,5.0,4.9,4.3,4.8,1 to 50 Employees,2015,"About Deako
+Deako is delivering a revolutionary plug-n-play smart home platform with a laser focus on the untapped new home construction market. We make smart lighting so easy to upgrade that even those who would have never considered smart lighting are making it happen. We've built a company based on trust; where forming personal relationships is key to our success.
+Software at Deako
+The software team is a tight-knit team of smart, dedicated people. We are customer focused, we ship often, and are constantly asking “why.” We are passionate about the software we write. We work closely with other Deako teams. Developers at Deako are always looking for a better way and understand that no code is perfect.
+Data at Deako
+We believe that Data and Software go hand in hand. That's why the Data and Software teams work closely together to ensure we're collecting the right data, and getting it to the right people. Data is new at Deako, and we are working to make it a cornerstone of our company. We want every team at Deako to have a data-driven mindset.
+Day to Day Expectations:
+Participate in the code review process in our DBT repository
+Build maintainable, testable SQL queries for various dashboards
+Help maintain, contribute to and improve our data infrastructure and existing pipelines
+Help maintain and improve our CI/CD pipelines
+Responsible for obtaining, cleaning, and munging data and getting it into a form that our data analysts can access and analyze
+Participate in meetings with stakeholders around data collection and cleaning
+
+Must Have:
+Demonstrable knowledge in SQL + Some Programming Language (Typescript, Python, Ect)
+Demonstrates a high level autonomy and willingness to learn
+1+ years of experience working as a Data Analyst/Engineer or Comparable field.
+Experience with git, dbt
+Nice to Have:
+Experience in Snowflake, Fivetran, Hightouch
+Experience with Gitlab CI
+Experience with geospatial data
+Stock Options
+Hybrid work environment (Office + Remote)
+Medical/Dental/Vision/Life/401K
+Unlimited PTO
+Free Snacks/Coffee/Drinks (Non-Alcoholic and Alcoholic)
+Quarterly Company Parties",$5 to $25 million (USD),Computer Hardware Development,Company - Private,Information Technology
+DATA ENGINEER,seattle,"infinity quest
+3.9","Seattle, WA",3.9,Employer Provided Salary:$65.00 Per Hour,3.9,3.8,3.7,3.6,3.6,201 to 500 Employees,2006,"At least 3 years of Data Engineer experience is required preferably in a cloud Environment.
+You should have at least 4 years of coding experience in python/java/ Scala and open source packages with at least 2 years of experience with Databases(SQL/NOSQL etc).
+Experience with large scale Distributed databases like redshift/Snowflake is a big Plus.
+You should have Experience with different aspects of data systems including database design, data modeling, performance optimization, SQL etc.
+Some Experience with building data pipelines and Orchestration(Airflow ,ADF,glue etc) is required.
+Strong communication skills (able to explain concepts to non-technical audiences as well as peers)
+Self-starter who is highly organized, communicative, quick learner, and team-oriented
+Technology Requirements:
+Python/Java or Scala , SQL and Airflow. Cloud experience AWS/Azure
+Daily tasks:
+Developing, executing, monitoring and troubleshooting Data pipelines and workflows in our cloud environment.
+Work on Data Lake/DW/DQ and other framework related items
+Team and cross functional collaboration as needed.
+Preferred background/prior work experience:
+3 years of DE expertise building data pipelines and working in a DW/Data lake Cloud based environment
+Job Type: Contract
+Salary: $65.00 per hour
+Compensation package:
+Hourly pay
+Experience level:
+8 years
+Schedule:
+Day shift
+Experience:
+Informatica: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: On the road",Unknown / Non-Applicable,Information Technology Support Services,Company - Private,Information Technology
+Senior Big Data Engineer,seattle,"ASA
+3.6","Seattle, WA",3.6,Employer Provided Salary:$85.00 - $87.00 Per Hour,3.6,3.5,3.6,3.4,3.5,51 to 200 Employees,1999,"Identify necessary improvements in the AWS architecture to align with the AWS Well-Architected Framework and Best Practices
+Research, present and accurately articulate benefits and goals of technologies such as Teradata, Big Data, Hadoop, NoSQL, Data Virtualization, and Data Services.
+Monitor Performance for effective use of AWS resources
+Oversee Provisioning of AWS architecture components
+Ensure Architectural standards are followed
+Three or more years of experience in architecting, designing, developing, and implementing cloud solutions on AWS platforms
+Providing support to maintain, optimize, troubleshoot, and configure the AWS/spark/Hadoop environment as needed
+Experience with CI/CD pipelines, unit tests, integration, and regression testing
+Good experience with AWS VPC setup, Security Groups, IAM roles and policies. (Mandatory)
+Linux System administration is preferred
+Skills
+AWS Automation (DevOps knowledge) is must.
+Strong scripting skills in bash and python is a must.
+Strong understanding and working knowledge of Linux, Github and automation Tools like Ansible and (Chef or Puppet) is must
+Strong knowledge of Infrastructure as a code using tools like CloudFormation or Terraform is must.
+Experience with Hive, rundeck, Airflow, jenkins and Kafka is must
+At least 3 year experience with AWS DevOps tools, technologies and APIs associated with IAM, CloudFormation, AMIs, SNS, SQS, EC2, EBS, S3, RDS, VPC, ELB, Route 53, Security Groups and lambda
+Good experience with LMA (Logging, Monitoring, and Alerting) using monitoring tools EX.AWS CloudWatch, Splunk/ELK, Datadog etc
+Good experience with Networking Technologies like Load balancer, Firewall and DNS
+Provide L2, L3 support for Incident management and provide a focal point for AWS
+3+ years AWS experience required.
+Job Type: Contract
+Salary: $85.00 - $87.00 per hour
+Benefits:
+Parental leave
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Seattle, WA 98119: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+devops tools: 3 years (Preferred)
+aws: 3 years (Preferred)
+Work Location: One location",$25 to $100 million (USD),Enterprise Software & Network Solutions,Company - Private,Information Technology
+Data Engineer,seattle,"OneSource Regulatory
+5.0","Seattle, WA",5.0,$92K - $129K (Glassdoor est.),4.4,5.0,5.0,5.0,5.0,1 to 50 Employees,Company - Private,"Company Introduction
+OneSource Regulatory Technology hosts a number of innovative solutions to enhance job performance in the Pharmaceutical space. OSR Technology is looking for an experienced and dedicated data engineer to join our product solutions team!
+
+Job Description
+OneSource Regulatory is trying to identify a full-time contractor with at least 4+ years of experience to assist us with ongoing R&D projects.
+We are looking for a data engineer to pull data from various sources and do all the necessary steps to clean, normalize, possibly annotate, and finally load the data into databases. The candidate should be able to develop and implement a strategy for testing the data integrity of the collected data. This role requires extreme attention to detail to ensure data quality is top priority.
+
+Responsibilities
+Well versed in parsing and synthesizing of XML and/or JSON documents.
+Curating of data that can involve some intermediate to advanced web scraping. (data may need to be fetched via SFTP, FTP, Wget, Curl, REST APIs, GraphQL queries from spots on the Internet)
+Proficiency with Linux command line and various simple tools, such as grep, wc, sed, awk, find, ls, cat, piped commands and possibly some very light Bash shell scripting, setting up crontab schedules and programs
+Must have basic knowledge of SQL with the following databases: PostGres, MySQL, Google BigQuery
+Must have basic knowledge of No-SQL database knowledge such as MongoDB or similar
+Familiarity with basic Cloud technology such as storage buckets, cloud serverless functions
+Must have experience extracting text and images from PDF files
+Knowledge of Puppeteer or other automatable web client technologies
+Understanding JavaScript, HTML/CSS and HTTP methods (for understanding page structure for web scraping)
+
+Skills
+Solid experience with Python and Python Libraries such as Pandas, requests, etc
+Skill set should match up with required responsibilities listed above
+Strong English skills (e.g. grammatical analysis and rhetorical structure)
+Team Player
+Great communication skills
+
+Bonus Skills
+Experience within the Pharmaceutical Space
+Ability to expose data via C# NETCore and/or GraphQL
+Google Cloud Platform (Cloud Buckets, Google Cloud Functions (.NET, Python, Node.JS))
+Ability to parallelize data manipulation and scraping via Python multi-threading, etc.
+Python BeautifulSoup
+Scrapy
+Docker (setting up Kubernetes style processing if warranted for data scraping/data ingestion/normalization)
+Multithreading concepts",-1,-1,Unknown / Non-Applicable,-1
+Data Engineer,seattle,"Calligo
+2.9","Seattle, WA",2.9,$99K - $143K (Glassdoor est.),2.9,2.6,2.6,3.0,2.9,201 to 500 Employees,2012,"Calligo transforms data into our clients lust lucrative asset by working directly with them and their stakeholders to ensure clear direction and solution implementation.
+
+We combine great minds in data science, privacy, security and engineering with leading machine learning, data analytics and cloud platforms to support the operational, customer-centric and revenue-generation aspirations of some of the world's most ambitious and progressive organizations.
+
+Key Responsibilities
+
+The ideal candidate is an individual with proven experience working closely with clients, stakeholders, and architects to construct, test and deliver data engineering solutions that align with client needs.
+
+A background in developing robust data engineering solutions with minimal guidance, using novel, new and tried-and-true data acquisition tools and methodologies will put you ahead of the curve.
+Work directly with clients, stakeholders, architects to ensure clear direction on solution implementation
+Work with sales and architects to provide accurate scoping of efforts for SOW development
+Collaborate with teams, internal and external, to implement proposed solutions effectively and efficiently
+Implement solutions individually, or in teams of developers and engineers, as necessary
+Represent our company and build great relationships with clients in various industries
+
+Skills, Knowledge and Expertise
+
+2 to 5 years of previous Data Engineer or Data Platform experience, or experience in another similar engineering/development role with a focus on data migration, persistence, and preparation
+Proficient at writing well optimized code with consistent readability when writing scripts, programs, and queries (SQL, T-SQL, JavaScript/Typescript, Python, C#, etc.)
+Proficient at working with ETL/ELT technologies (SSIS, Alteryx, Matillion, Fivetran, etc.)
+Proficient at interacting with APIs
+Proficient at working with on-prem/cloud based persistence (Snowflake, SQL Server, SQL Azure, PostgreSQL, etc.)
+Proficient at working with serverless compute, database, and data warehouse technologies (Azure functions, AWS lambda, SQL Azure, Power Apps, etc.)
+Proficient at using git version-control systems
+Experienced in interpreting and contributing to the design of architecture diagrams
+Understands the problem at hand, study possible solutions, and find creative answers
+Composes clear, concise and well formatted communications and documentation
+Communicates issues and questions as soon as they become apparent
+Excellent problem solving, analytical, communication and customer-facing skills
+Team player and excellent collaborator
+Willingness to dive into new technologies
+Self-motivated, able to work independently
+Beneficial Background and Skills:
+Experienced with NoSQL databases
+Experienced with containerization
+Experienced in agile methodologies
+Experienced in project/engagement leadership
+Experienced in broader application development lanes (web/application)
+Experienced working in a business intelligence consulting firm
+Certifications in relevant technologies
+BS degree in Computer Science or an applicable quantitative discipline
+
+Benefits
+
+Training and development for career growth
+25 Days Holiday, increasing with length of service
+401(k) employer matching
+Healthcare
+Life, disability and accidental death & dismemberment insurance
+Flexible working
+
+About Calligo
+Calligo transforms data into businesses’ most lucrative asset. We combine great minds in data science, privacy, security and engineering with leading machine learning, data analytics and cloud platforms to support the operational, customer-centric and revenue-generation aspirations of some of the world's most ambitious and progressive organizations.",Unknown / Non-Applicable,Business Consulting,Company - Private,Management & Consulting
+Data Engineer,seattle,PMI,"Seattle, WA",-1,$80K - $126K (Glassdoor est.),-1,-1,-1,-1,-1,1 to 50 Employees,Company - Private,"Data Engineer
+
+About Us
+Stanley, a HAVI company, is defined by Creativity, Building and Invention. We are makers of the legendary bottle and box. Driven by purpose, passion and performance. Obsessed with making a difference. And keeping our promises. Proud of our yesterday. And focused on building the team of tomorrow.
+
+Position Overview
+Stanley, a HAVI company, is looking for a Data Engineer to support our current and future data platform. This role will be responsible for ensuring data is available and consumable by business analysts and other key business users. This includes responsibility for the ingestion of source data through CI/CD pipelines. As a member of the Enterprise Data Platform team, you will contribute to projects and initiatives across the enterprise.
+
+Key Responsibilities
+Develop end-to-end solutions for ingestion, storage, prepping, and modeling of data
+Test, audit, maintain and tune existing solutions
+Implement data structures using data modeling, ELT/ETL processes, and SQL technologies
+Monitor daily data loads and remedy issues within SLA
+Update and extend system documentation
+Regularly interact across functional areas to ensure objectives are met
+Exercise independent judgment in methods, techniques, and evaluation criteria for obtaining results
+
+Who You Are
+Daily interaction with cloud-based data platforms and services
+Solid understanding of data architecture principles and practices
+Working knowledge of data warehousing concepts supporting performant access to critical business data
+Familiarity with tabular modeling to define data relationships and navigation taxonomies
+Experience with coding languages like SQL, Python and R
+
+Education and Experience
+Bachelor’s degree in Computer Engineering, Computer Science, Mathematics or equivalent related IT-specific experience
+At least 5 years of Data Engineer experience is required, preferably in a Cloud environment
+Experience with database query and analysis languages (e.g. T-SQL, PL-SQL, R, SAS, Python) and data visualization tools (e.g. PowerBI, Tableau, D3)
+Experience working with various data sources (e.g. SQL, Oracle database, flat files, Web API, XML)
+Experience with cloud warehouse and analytics required; Azure Data Storage and Analytics (e.g. Data Lake, Data Factory, Synapse and Analysis Services)
+Experience with Oracle EBS preferred
+Experience with Synapse ML preferred
+Experience with multi-tenant infrastructure preferred
+Understanding of manufacturing, supply chain, inventory management and sales operations data and systems preferred
+Demonstrable ability to communicate, partner and deliver solutions to business customers
+Puget Sound based only. This is a hybrid role in our Seattle office.
+
+About HAVI:
+HAVI is a global, privately owned company that connects people with ideas, data with insights, supply with demand, restaurants with deliveries and ultimately, people with the products they love. Whether we are sourcing, storing or delivering products, we bring unmatched category expertise and unrivaled operational excellence, combined with powerful digital analytics and insights. Founded in 1974, HAVI employs more than 10,000 people and serves customers in more than 100 countries. HAVI’s business units include Supply Chain, tms and Stanley. Our portfolio of businesses offers best-in-class sourcing and supply chain capabilities, brand-defining marketing and promotion services and innovative consumer products. For more information, please visit HAVI.com, tmsw.com and stanley1913.com.",-1,Healthcare,Health Care Services & Hospitals,Unknown / Non-Applicable
+"Data Engineer, Product Analytics",seattle,"Meta
+3.9","Seattle, WA",3.9,Employer Provided Salary:$109K - $166K,4.0,3.7,3.3,4.6,3.6,10000+ Employees,2004,"As a highly collaborative organization, our data engineers work cross-functionally with software engineering, data science, and product management to optimize growth, strategy, and experience for our 3 billion plus users, as well as our internal employee community. In this role, you will see a direct correlation between your work, company growth, and user satisfaction. Beyond this, you will work with some of the brightest minds in the industry, and you'll have a unique opportunity to solve some of the most interesting data challenges with efficiency and integrity, at a scale few companies can match.
+
+
+Data Engineer, Product Analytics Responsibilities:
+Manage and execute data warehouse plans for a product or a group of products to solve well-scoped problems
+Identify the data needed for a business problem and implement logging required to ensure availability of data, while working with data infrastructure to triage issues and resolve
+Collaborate with engineers, product managers and data scientists to understand data needs, representing key data insights in a meaningful way
+Build data expertise and leverage data controls to ensure privacy, security, compliance, data quality, and operations for allocated areas of ownership
+Design, build and launch new data models and visualizations in production, leveraging common development toolkits
+Independently design, build and launch new data extraction, transformation and loading processes in production, mentoring others around efficient queries
+Support existing processes running in production and implement optimized solutions with limited guidance
+Define and manage SLA for data sets in allocated areas of ownership
+
+
+
+Minimum Qualifications:
+Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+2+ years of work experience in data engineering
+Experience with SQL, ETL, data modeling, and at least one programming language (e.g., Python, C++, C#, Scala, etc.)
+
+
+
+Preferred Qualifications:
+Experience with one or more of the following: data processing automation, data quality, data warehousing, data governance, business intelligence, data visualization, data privacy
+Experience working with terabyte to petabyte scale data
+
+
+
+
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice here. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. We may use your information to maintain the safety and security of Meta, its employees, and others as required or permitted by law. You may view Meta's Pay Transparency Policy, Equal Employment Opportunity is the Law notice, and Notice to Applicants for Employment and Employees by clicking on their corresponding links. Additionally, Meta participates in the E-Verify program in certain locations, as required by law",$10+ billion (USD),Internet & Web Services,Company - Public,Information Technology
+Databricks Data Engineer,seattle,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,Employer Provided Salary:$70.00 - $80.00 Per Hour,4.8,4.8,4.9,4.6,4.8,1 to 50 Employees,Company - Private,"BigLynx, Inc is an American multinational technology corporation headquartered in Seattle, Washington, with operations in the United States, Canada, and India. The company began in 2016, as a product development company specializing in AI/ML Data Engineering in the Retail vertical space with its products warehouse & fast. Post Pandemic in 2022, BigLynx added a business division of boutique technology consulting, specializing inData Engineering, Full Stack , and Microsoft Dynamics helping clients build the next generation data platform and big data pipelines.
+Data pipeline development: Design, develop, and maintain scalable and efficient data pipelines using Databricks to ingest, transform, and load data from various sources. This includes data extraction, data cleansing, data transformation, and data loading processes.
+Data modeling and schema design: Design and implement data models, database schemas, and data structures on Databricks. Optimize data models for performance, scalability, and ease of use.
+ETL processes: Develop and maintain ETL (Extract, Transform, Load) processes using Databricks to transform and cleanse data. Implement efficient data integration and transformation logic using languages such as Python, SQL, or Scala.
+Data integration: Integrate data from multiple systems and sources, ensuring data consistency, accuracy, and quality. Develop and maintain data connectors, APIs, and data ingestion processes.
+Performance optimization: Identify and address performance bottlenecks in data pipelines and data models. Optimize query performance, data loading, and data processing capabilities on Databricks.
+Data governance and security: Implement data governance practices, data privacy measures, and security controls on Databricks. Ensure compliance with data governance policies and regulations.
+Monitoring and troubleshooting: Monitor the health and performance of Databricks data infrastructure, data pipelines, and data processing jobs. Troubleshoot issues and provide timely resolutions.
+Collaboration and teamwork: Collaborate with cross-functional teams, including data scientists, data analysts, and business stakeholders, to understand data requirements, provide data engineering expertise, and support their data-related needs.
+Qualifications:
+Databricks expertise: Strong knowledge and hands-on experience with the Databricks platform, including Databricks notebooks, Databricks runtime, and Databricks clusters.
+Data engineering skills: Proficiency in data engineering principles, ETL processes, data modeling, and data integration techniques. Experience with programming languages such as Python, SQL, or Scala.
+Big data technologies: Experience with big data technologies, such as Apache Spark, Apache Hadoop, or related frameworks. Familiarity with distributed computing and data processing concepts.
+Cloud platforms: Experience working with cloud platforms, preferably Azure Databricks, AWS Databricks, or Google Cloud Databricks. Knowledge of cloud storage, compute, and networking services.
+Database and data warehouse concepts: Understanding of relational databases, data warehousing concepts, and SQL. Familiarity with data warehousing best practices and dimensional modeling.
+Performance optimization: Strong skills in optimizing Spark jobs and queries on Databricks. Ability to identify and resolve performance bottlenecks.
+Problem-solving skills: Strong analytical and problem-solving abilities to tackle complex data engineering challenges and troubleshoot issues.
+Collaboration and communication: Excellent collaboration and communication skills to work effectively with cross-functional teams and stakeholders, translating business requirements into technical solutions and providing technical guidance.
+Education: A bachelor's or master's degree in computer science, data engineering, or a related field is typically required. Relevant certifications, such as Databricks Certified Developer or similar, are h
+Job Types: Full-time, Contract
+Pay: $70.00 - $80.00 per hour
+Experience level:
+7 years
+Schedule:
+Monday to Friday
+Ability to commute/relocate:
+Redmond, WA 98052: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Informatica: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: In person",-1,-1,Unknown / Non-Applicable,-1
+Software Engineer/Data - ASE Analytics Engineering,seattle,"Apple
+4.2","Seattle, WA",4.2,-1,-1,-1,-1,-1,-1,10000+ Employees,1976,"Summary
+Posted: May 24, 2023
+Weekly Hours: 40
+Role Number:200460089
+The Apple Services Engineering team is one of the most exciting examples of Apple’s long-held passion for combining art and technology! These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a massive scale, meeting Apple’s high expectations with dedication to deliver a huge variety of entertainment in over 35 languages to more than 150 countries. These engineers build secure, end-to-end solutions. They develop the custom software used to process all the creative work, the tools that providers use to deliver that media, all the server-side systems, and the APIs for many Apple services. Thanks to Apple’s unique integration of hardware, software, and services, engineers here partner to get behind a single unified vision. That vision always includes a deep commitment to strengthening Apple’s privacy policy, one of Apple’s core values. Although services are a bigger part of Apple’s business than ever before, these teams remain small, forward-thinking, and multi-functional, offering greater exposure to the array of opportunities here.
+Key Qualifications
+Passionate about data and skilled in software design
+Experience working with data, preferably Big Data scale, with batch or streaming jobs
+Strong technical programming experience, preferably in Scala, Java, Python, Spark, Flink.
+Proficiency with SQL against relational and noSQL data stores
+Experience working in an Agile development process
+Ability to gather requirements, design engineering solutions, and translate into stories or tasks.
+Strong debugging, critical thinking, and collaborative skills with the ability to learn new technologies.
+Description
+As a team member of the ASE Data Engineering team, you will have significant responsibility and influence in shaping its future direction. This role is inherently multi-functional and the ideal candidate will work across subject areas. We are looking for someone with a love for data and ability to iterate quickly on all stages of data pipeline. This position involves working on a small team to develop large scale data pipelines and analytical solutions using Big Data technologies. Successful candidates will have strong engineering skills and communication, as well as, a belief that data driven processes lead to phenomenal products. You will need to have a passion for quality and an ability to understand sophisticated systems.
+Education & Experience
+Bachelor’s degree, or equivalent work experience in Engineering, Computer Science, Business Information Systems, or similar.
+Additional Requirements
+Pay & Benefits
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $115,000 and $217,500, and your base pay will depend on your skills, qualifications, experience, and location.
+
+Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.
+
+Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",$10+ billion (USD),Computer Hardware Development,Company - Public,Information Technology
+data engineer sr,seattle,"Starbucks
+3.7","Seattle, WA",3.7,$96K - $138K (Glassdoor est.),3.5,3.7,3.1,3.8,3.4,10000+ Employees,1971,"Senior data engineer
+Job Summary and Mission
+This position contributes to Starbuck's success by building enterprise data services for analytic solutions. This position is responsible for design, development, testing, and support for data pipelines and data products to enable continuous data processing for data exploration, data preparation, and real-time business analytics.
+Summary of Key Responsibilities
+Responsibilities and essential job functions include but are not limited to the following:
+Demonstrate deep knowledge of the data engineering domain, including non-interactive (batch, distributed) & real-time, highly available data, data pipelines
+Deep knowledge of data as a concept and the development of domain driven data products.
+Optimization of data products to service customer personas, Data science, AI/ML and data visualization.
+Knowledge of semantic data concepts.
+Build fault-tolerant, self-healing, adaptive, and highly accurate data computational pipelines
+Provide consultation and lead the implementation of complex programs
+Develop and maintain documentation relating to all assigned systems and projects
+Perform root cause analysis to identify permanent resolutions to software or business process issues
+Basic Qualifications
+Bachelor’s degree in computer science, management information systems, or related discipline, or equivalent work experience
+MUST HAVE Technology skills (7/10 or higher):
+Strong/expert Spark (PySpark) Using Jupyter Notebooks, Colab or DataBricks
+Hands-on data pipeline development, ingest patterns in Azure
+Orchestration tools, ADF or Airflow
+SQL
+Denormalized Data modeling for big data systems
+MUST HAVE competencies:
+Collaborative, able to work remotely, and still be an engaging team member.
+Strong analytical and design skills.
+Years
+Architect and design large scale high performance distributed systems 7-10
+SQL Platform 7-10
+No-SQL Platform 3+
+Spark 3+
+Data platform implementation on Azure or AWS 3+
+CI/CD experience 2+
+Exposure to SOA architecture 2+
+
+div>
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+We are committed to creating a diverse and welcoming workplace that includes partners with diverse backgrounds and experiences. We believe that enables us to better meet our mission and values while serving customers throughout our global communities. People of color, women, LGBTQIA+, veterans and persons with disabilities are encouraged to apply.
+
+Qualified applicants with criminal histories will be considered for employment in a manner consistent with all federal state and local ordinances. Starbucks Corporation is committed to offering reasonable accommodations to job applicants with disabilities. If you need assistance or an accommodation due to a disability, please contact us at applicantaccommodation@starbucks.com.",$10+ billion (USD),Restaurants & Cafes,Company - Public,Restaurants & Food Service
+Data Engineer,seattle,"PitchBook Data
+4.2","Seattle, WA",4.2,Employer Provided Salary:$97K - $164K,4.1,4.4,3.8,3.7,4.2,1001 to 5000 Employees,2007,"At PitchBook, we are always looking forward. We continue to innovate, evolve and invest in ourselves to bring out the best in everyone. We're deeply collaborative and thrive on the excitement, energy and fun that reverberates throughout the company.
+Our extensive learning programs and mentorship opportunities help us create a culture of curiosity that pushes us to always find new solutions and better ways of doing things. The combination of a rapidly evolving industry and our high ambitions means there's going to be some ambiguity along the way, but we excel when we challenge ourselves. We're willing to take risks, fail fast and do it all over again in the pursuit of excellence.
+If you have a good attitude and are willing to roll up your sleeves to get things done, PitchBook is the place for you.
+
+About the Role:
+As a member of the Product and Engineering team at PitchBook, you will be part of a team of big thinkers, innovators and problem solvers who strive to deepen the positive impact we have on our customers and our company every day. We value curiosity and the drive to find better ways of doing things. We thrive on customer empathy, which remains our focus when creating excellent customer experiences through product innovation.
+We know that greatness is achieved through collaboration and diverse points of view, so we work closely with partners around the globe. As a team, we assume positive intent in each other's words and actions, value constructive discussions, and foster a respectful working environment built on integrity, growth and business value. We invest heavily in our people, who are eager to learn and constantly improve. Join our team and grow with us!
+To that end, as our scope of data integration and analysis expands so do the needs of the Business Intelligence team. We're looking for a person with the ability to work with a range of data and reporting technologies (eg. Python, Docker, Tableau, Power BI) in order to build upon a strong foundation of rigor, quantitative techniques and efficient processing. The Data Engineer will join other Engineers and Analytics professionals as part of the team that develops data pipelines and insights for our internal stakeholders across Sales, Customer Success, Marketing, Research, Product, Finance and Administration.
+
+Primary Job Responsibilities:
+You'll be PitchBook's expert at building unified data tech to support advanced and automated business analytics
+Design, develop, document and maintain database and reporting structures used to compile insights
+Define, develop and review extract, transform and load processes and data modeling solutions
+Consistently evolve data processes and techniques in accordance with industry best practices
+Establish and help define reports and dashboards used to translate business data into insights, identify and prioritize operational improvement opportunities and measure business performance against objectives
+Contribute to the ongoing improvement of quality assurance standards and procedures
+
+Skills and Qualifications:
+Bachelor's degree in Economics, Business, Finance, Engineering, Statistics, Computer Science or related fields
+2 years of relevant work experience creating and maintaining data pipelines and architecture
+Understanding of advanced data warehousing concepts, data modeling and extract, transform and load development
+Advanced SQL skills with experience querying large datasets from multiple sources and developing automated reporting
+Python skills for scripting, data manipulation, custom extract, transform and loads and statistical/regression analysis particularly, as they apply to sales and marketing operations and performance
+Experience with software programs, such as Tableau, Microsoft Power BI, Docker, Linux and Postgres
+Ability to display complex quantitative data in a simple, intuitive format and to present findings in a clear and concise manner
+Capable of investigating, familiarizing and mastering new data sets quickly
+Excellent interpersonal skills, with the ability to communicate complex data issues correctly and clearly to both internal and external customers
+Experience with presenting actionable insights to business stakeholders
+Experience with: Airflow, Luigi, Amazon Web Services, Microsoft Azure, Git, Postgres, Debezium and Kafka is preferred
+Experience with Snowflake development and cloud data warehousing is preferred
+
+Benefits + Compensation at PitchBook:
+Physical Health
+Comprehensive health benefits
+Additional medical wellness incentives
+STD, LTD, AD&D and life insurance
+
+Emotional Health
+Paid sabbatical program after four years
+Paid family and paternity leave
+Annual educational stipend
+Ability to apply for tuition reimbursement
+CFA exam stipend
+Robust training programs on industry and soft skills
+Employee assistance program
+Generous allotment of vacation days, sick days and volunteer days
+
+Social Health
+Matching gifts program
+Employee resource groups
+Subsidized emergency childcare
+Dependent Care FSA
+Company-wide events
+Employee referral bonus program
+Quarterly team building events
+
+Financial Health
+401k match
+Shared ownership employee stock program
+Monthly transportation stipend
+
+Please be aware the above PitchBook benefit and perk offerings are subject to corresponding plan and policy documents and may change during the course of your employment.
+
+Compensation
+Annual base salary: $96,600-$164,450
+Target annual bonus percentage: 10%
+
+Starting pay will be based on several factors and commensurate with qualifications & experience. We also have a location-based compensation structure; there may be different ranges for candidates by location.
+
+Life At PB:
+We are consistently recognized as a Best Place to Work and our culture is at the heart of our success. It's our fundamental belief that people do and create great things and that people are the cornerstone of prosperity. We believe that proactively seeking out different points of view, listening to others, learning and reflecting on what we've heard creates a sense of belonging within PitchBook and strengthens the PitchBook community.
+
+We are excited to get to know you and your background. Concerned that you might not meet every requirement? We encourage you to still apply as you might be the right candidate for the role or other roles at PitchBook.
+
+#LI-BL1",$500 million to $1 billion (USD),Research & Development,Company - Public,Management & Consulting
+"Data Engineer, TikTok Multimedia",seattle,"TikTok
+3.6","Seattle, WA",3.6,Employer Provided Salary:$129K - $195K,3.4,3.4,3.1,3.6,3.0,1001 to 5000 Employees,2016,"Responsibilities
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices, including Los Angeles, New York, London, Paris, Berlin, Dubai, Mumbai, Singapore, Jakarta, Seoul, and Tokyo.
+
+Why Join Us
+At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok.
+
+About the Team
+The Multimedia Data Platform team is responsible for optimizing app experience related to performance for TikTok users by providing data support. Working in collaboration with various teams throughout TikTok, the data platform team focuses on the creation and consumption of video content to provide comprehensive optimization solutions. This includes end-to-end optimization solutions such as client, video shooting, uploading, video playback, video delivery and player, etc.
+
+Responsibilities:
+Our Multimedia data platform team work closely with our product managers and data analysts by building state of the art streaming and batch data processing solution. The entire data pipeline is not only supporting the core business at TikTok -- short video, but also horizontal business across TikTok. In this role, you will see a direct link between your work, and the company's business success. You will have opportunities to deal with Petabyte-level data warehouse. Some of the world's most challenging technical and business problems are waiting for you to solve.
+
+Apply broad knowledge of technology options, technology platforms, design techniques and approaches across the Data Engineering ecosystem to build systems that meet quality needs.
+Build systems and datasets using software engineering best practices, data management fundamentals, data storage principles, recent advances in distributed systems, and operational and engineering excellence best practices.
+Analyze systems, define transformation requirements, design suitable data models and document the design/specifications.
+Demonstrate passion for quality and productivity by using efficient development techniques, standards and guidelines.
+Drive the design, to build, execute, and maintain automated tests and/or manage deep data profiling runs to ensure data products and pipelines meet expectations
+Partner with analysts, engineers, subject matter experts, and product managers to apply TikTok Multimedia analytical and quality methods to satisfy client needs.
+Participate in the growth of the Data Quality Excellence practice by sharing knowledge and lessons learned, continually improving best practices, and contributing to methods that will systematically advance workforce capabilities
+Effectively communicate through technical documentation, commented code, and interactions with stakeholders and adjacent teams
+Contribute to building a vibrant workplace, where teams can thrive, and model the organization’s positive, supportive culture of respect and excellence
+Qualifications
+BS/BA in Technical Field, Computer Science or Mathematics.
+3+ years experience in the data warehouse space.
+3+ years experience in custom ETL design, implementation and maintenance.
+2+ years experience working with big data technologies (Hadoop, Hive, Spark, Clickhouse, etc.) .
+2+ years experience with schema design and dimensional data modeling.
+3+ years experience in writing SQL statements.
+Proficient in one of Programming languages (e.g., Python, Go, C++)
+Communication skills, including the ability to identify and communicate data driven insights.
+Ability in managing and communicating data warehouse plans to internal clients.
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at USRC@tiktok.com.
+Job Information
+The base salary range for this position in the selected city is $129200 - $194750 annually.
+
+
+
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+
+
+
+At ByteDance/TikTok our benefits are designed to convey company culture and values, to create an efficient and inspiring work environment, and to support ByteDancers to give their best in both work and life. We offer the following benefits to eligible employees:
+
+
+
+We cover 100% premium coverage for employee medical insurance, approximately 75% premium coverage for dependents and offer a Health Savings Account(HSA) with a company match. As well as Dental, Vision, Short/Long term Disability, Basic Life, Voluntary Life and AD&D insurance plans. In addition to Flexible Spending Account(FSA) Options like Health Care, Limited Purpose and Dependent Care.
+
+
+
+Our time off and leave plans are: 10 paid holidays per year plus 17 days of Paid Personal Time Off(PPTO) (prorated upon hire and increased by tenure) and 10 paid sick days per year as well as 12 weeks of paid Parental leave and 8 weeks of paid Supplemental Disability.
+
+
+
+We also provide generous benefits like mental and emotional health benefits through our EAP and Lyra. A 401K company match, gym and cellphone service reimbursements. The Company reserves the right to modify or change these benefits programs at any time, with or without notice.",Unknown / Non-Applicable,Internet & Web Services,Company - Private,Information Technology
+Data /Software Engineers,seattle,"Ars Quanta
+5.0","Seattle, WA",5.0,$90K - $142K (Glassdoor est.),4.6,5.0,4.6,4.6,5.0,1 to 50 Employees,Company - Private,"We are looking for a Data Engineer to help us with implementing new data capabilities at our clients. This is contract, and part-time or full-time, remote, and potentially contract to hire.
+What You’re Good At
+Building Data Pipelines
+Python
+AWS
+BI/DW architectures
+Flask, Django etc.
+Relational data bases
+Working with other software engineers; Experience working with Data Scientists a plus; Experience with data science tools, ML, etc. a plus.",-1,Management & Consulting,Business Consulting,$5 to $25 million (USD)
+Data Engineer,seattle,"Compact Information Systems LLC
+4.0","Redmond, WA",4.0,Employer Provided Salary:$98K - $125K,3.0,3.0,2.0,3.0,4.0,Unknown,Company - Private,"Description:
+
+About Deep Sync
+Our parent company, Compact Information Systems LLC, is considered a pioneer of the data industry and was originally founded in 1988 as a mailing list company for direct marketers and print shops. Thirty-five years later, and combining the strength of our sister brands – AccuData Integrated Marketing, AlumniFinder, ASL Marketing, College Bound Selection Service (CBSS), Deep Sync Labs and HomeData – we have grown to become some of the foremost data suppliers in the U.S.
+Today, we are Deep Sync. A company that powers agencies and brands with unmatched audience insights, unsurpassed reach, and unrivaled expertise by combining the industry’s most comprehensive data with easy-to-activate solutions. We provide billions of privacy-first data connections annually to thousands of customers. Learn more about us here.
+Role
+We are seeking a Data Engineer with strong experience in SQL, Data Warehouse, and building scalable ETL pipelines. This role requires the design, development and implementation of data architecture and solutions. You will work closely with product/engineering/leadership teams to collect requirements for development of data products, application and data pipelines/etl processes.
+You will be working with Deep Sync to build our next generation of data products.
+Requirements:
+Requirements :
+3+ years experience in SQL Query Design, SQL Performance Tuning and Query Optimization
+3+ years of relevant experience in Data Warehouse Design,Data Warehouse Technical Architectures, Development and Implementation
+3+ years of relevant experience in ETL Development, ETL Implementation, Unit Testing, Troubleshooting and Support of ETL Processes
+Knowledge and Skills:
+Strong Experience in SQL Query Design and Implementation
+Strong Experience with Relational Data Warehouse Systems
+Data Warehouse Management Systems
+Optimization by Indexing, Partitioning and Denormalization
+Strong Ability to build and optimize data sets, ‘big data’ data pipelines and architecture
+Strong analytical and problem-solving skills
+Microsoft SQL Server Certifications
+Equivalent SQL Certifications: Redshift, RDS, Snowflake, Big Query…etc (or experience)
+Additional Desirable Skills:
+Experience in programming languages like Python, Scala & Java
+Experience with graph databases",-1,Media & Communication,Advertising & Public Relations,Unknown / Non-Applicable
+Data Platform Engineer,seattle,Invictus Data,"Seattle, WA",-1,Employer Provided Salary:$100K - $150K,-1,-1,-1,-1,-1,-1,-1,"Are you an experienced Platform Engineer looking for the chance to make a real impact? We're hiring! We help organizations create robust technical architecture, develop complex systems and build out their infrastructures. Check out our openings here.
+Responsibilities:
+Develop, evaluate, test and maintain data platform architecture and data solutions
+Administer systems including configuration, monitoring and maintenance of Application servers
+Work closely with IT Platform Manager to implement and support infrastructure for key project work and company objectives
+Administration and maintenance of existing on premise and cloud infrastructure
+Excellent organizational and time management skills to handle multiple tasks simultaneously
+Analyze and improve data platform performance
+Resolve data and platform anomalies observed in collaboration with other teams
+Code deployments and migrations of data initiatives
+Ensure Infrastructure maintains its high standard of security by regularly carrying out mitigation and preventive maintenance tasks
+Keep abreast of best practices and develop a leading-edge expertise on supported technologies
+Qualifications:
+Bachelor's or Graduate's Degree in computer science, engineering or information systems
+Candidate should have 6+ years of platform experience with 3+ years of cloud experience
+Good Knowledge of Big Data systems (AWS), including Hadoop, HDFS, Hive
+Scripting Experience with Apache Spark, Python, Shell
+Proficient in installing Apache Airflow, configuring, and monitoring Airflow cluster
+Proficient in Manage application security
+Proficient with developing guidelines for Airflow clusters and DAG's
+Proficient in building CICD Pipeline with Git & Jenkins
+Experience in AWS clusters, EC2, S3, EFS & other components
+Experience with SQL and writing queries
+Experience in BI and data science tools such as Tableau, Superset, Jupyter
+Experience in Tableau Administration & Vertica administration
+Experience in Administration of Dremio Application
+Job Type: Full-time
+Pay: $100,000.00 - $150,000.00 per year
+Experience level:
+3 years
+Schedule:
+Monday to Friday
+Ability to commute/relocate:
+Seattle, WA: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+AWS: 2 years (Required)
+Scripting: 2 years (Required)
+Hadoop: 2 years (Preferred)
+Work Location: In person",-1,-1,-1,-1
+principal data engineer- Enterprise Analytics,seattle,"Starbucks
+3.7","Seattle, WA",3.7,$117K - $174K (Glassdoor est.),3.5,3.7,3.1,3.8,3.4,10000+ Employees,1971,"Job Summary and Mission
+The principal data engineer is a senior-level position responsible for designing, building, and maintaining complex data systems and applications for Starbucks.
+Primary job functions
+Architecture design: Lead the design and development of a scalable and reliable data architecture for large-scale data processing systems. Ensure that data pipelines are designed to meet the business’s specific requirements and can handle the increasing amount of data.
+Data modeling: Lead the design of data models and schema designs for a Transactional, operational, and Analytical data environment. This includes defining data structures, data types, and data relationships.
+Data pipeline design: Lead the design of data pipelines that enable efficient data processing and transformation.
+Data storage and management: Responsible for designing and implementing data storage solutions that enable efficient data retrieval and management. Work with various database technologies and Azure cloud storage platforms to ensure the data is stored securely and is easily accessible.
+Performance optimization: Optimize data processing and storage systems to ensure they perform efficiently. Identify bottlenecks and performance issues and implement solutions to improve overall system performance.
+Team leadership: Mentors a team of lead engineers through influence and expertise, providing project guidance and direction and ensuring that engineering team members meet their goals and objectives.
+Data Taxonomy Design: Primary contributor to the data taxonomy, defining data classes to support the full data lifecycle supporting related business functions.
+Platform Design: Design and govern the data platform patterns supporting consistent data storage and compute utilization for data Engineering and data analytics needs.
+Consultant: Acts as a consultant for the Data Engineering, Decision Science, and Data Science leaders to develop a holistic operational and Analytical platform to develop a foundation for developing robust cross-domain, Enterprise AI solutions.
+
+Qualifications
+Deep knowledge of the Microsoft Platform or demonstrated equivalent AWS or Google Cloud expertise.
+Demonstrated Spark and Databricks expertise.
+Demonstrated Data modeling skills for both structured and unstructured data.
+Knowledge of enterprise metadata management and the development of Data Catalogs
+Demonstrated thought leadership in developing an enterprise data landscape for operational and analytical use cases.
+Demonstrated knowledge of Data Operations and DevOps for data.
+Demonstrated ability to build relationships with data and application stakeholders outside of the organization.
+Demonstrated exceptional collaboration, communication, and influence skills.
+Deep understanding of the data lifecycle and its relationship to business processes.
+The pay range for this position may be narrower than that displayed, depending on where the work is performed.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+We are committed to creating a diverse and welcoming workplace that includes partners with diverse backgrounds and experiences. We believe that enables us to better meet our mission and values while serving customers throughout our global communities. People of color, women, LGBTQIA+, veterans and persons with disabilities are encouraged to apply.
+Qualified applicants with criminal histories will be considered for employment in a manner consistent with all federal state and local ordinances. Starbucks Corporation is committed to offering reasonable accommodations to job applicants with disabilities. If you need assistance or an accommodation due to a disability, please contact us at applicantaccommodation@starbucks.com.",$10+ billion (USD),Restaurants & Cafes,Company - Public,Restaurants & Food Service
+Data Engineer,seattle,"ASSURANCE
+3.2","Seattle, WA",3.2,Employer Provided Salary:$130K - $170K,3.2,3.2,3.1,3.3,3.4,1001 to 5000 Employees,2016,"About Assurance
+Assurance IQ is a technology company headquartered in Seattle. We were acquired by Prudential (NYSE: PRU) to further the joint mission of improving financial wellness across the world.
+
+Our team of world class software engineers, data scientists, and business professionals work every day to expand our product offerings and the reach of our platform. We simplify the complex world of insurance and financial services into straightforward, valuable solutions to improve people's lives. We start by asking customers a few questions, so our system can learn about their needs; from there, our ground-breaking, proprietary platform takes over and analyzes the thousands of data points that make customers unique. This is how we create custom-tailored plans for each customer; plans built precisely for their needs and budget. Our platform serves as the intersection between customer and seller, technology, and the human touch.
+
+At Assurance, we are innovative, persevering, collaborative, calculated, and authentic, and we're working together to improve the lives of millions!
+
+About the Position
+As we build the future of consumer insurance in a modern age, data is at the core of everything that we do. The role requires team members who are adept at building software tools to move and organize data with an approach that is rooted in improving the insights and efficiency of the business. Our team uses a variety of data mining and analysis methods, a variety of data tools, builds and implements models, develops algorithms, and creates simulations. Our Data Engineers design and build the backbone that makes this development possible with no support from engineering (we own our stack end to end). At Assurance, we hire experts in their field, and we give them the independence and trust to build based on their expertise.
+To be successful in this role, you must possess the following:
+Experience with Python and SQL
+Experience in data modelling
+Business Acumen – you are always eager to understand how the business works, and more specifically, how your work impacts the business.
+Comfort with QA’ing your own data, to include ‘menial tasks’ like listening to calls or scrubbing excel files to ensure everything is correct
+Comfort with learning new technologies to help the team explore new solutions to existing problems
+Excellent communication ability – you can explain your work in a way that anyone on the team can understand, and you can frame problems in a way that ensures the right question is being asked.
+Enthusiastic yet humble – you are excited about the work you do, but you are also humble enough to embrace feedback – you don’t need to be the smartest person in the room.
+Bachelors degree in mathematics, statistics, data science or related field of study.
+The following additional experience is desired:
+You have a proven ability to drive business results by building the right infrastructure that enables data-based insights.
+You are comfortable working with a wide range of stakeholders and functional teams.
+The right candidate will have a passion for enabling the discovery of solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+We’re growing at a rapid pace, so it’s important that you embrace the opportunity to blaze your own trail.
+You thrive in a fast-paced environment where priorities can shift rapidly as we corner opportunity.
+You can work independently, with little oversight or guidance.
+
+Note: Assurance is required by multiple state and city laws to include the salary range on position postings when hiring in those specific locals. The salary range for this position will be between $130,000-$170,000 and may be eligible for additional bonus or commission plans + benefits. Eligibility to participate in the bonus or commission plans is subject to the rules governing those programs, whereby an award, if any, depends on various factors including, without limitation, individual and/or organizational performance. In addition, employees are eligible for standard benefits package including paid time off, medical, dental and retirement.",$100 to $500 million (USD),Insurance Agencies & Brokerages,Company - Public,Insurance
+"Data Engineer, Internal Audit Data Analytics",seattle,"Amazon.com Services LLC
+3.8","Seattle, WA",3.8,Employer Provided Salary:$106K,3.8,3.7,3.4,3.9,3.3,10000+ Employees,1994,"3+ years of data engineering experience
+Experience with data modeling, warehousing and building ETL pipelines
+Experience with SQL
+Experience programming with at least one modern language such as C++, C#, Java, Python, Golang, PowerShell, Ruby
+Experience with AWS technologies like Redshift, S3, AWS Glue, EMR, Kinesis, FireHose, Lambda, and IAM roles and permissions
+
+Internal Audit’s mission is to help our businesses improve controllership, operational efficiency, and customer experience.
+
+Amazon is seeking a Data Engineer for our Internal Audit Data Analytics team to provide data analytics services and solutions to enable our audit programs to scale with Amazon’s growth and complexity. This is a highly visible opportunity to provide custom-build solutions and services that will increase the productivity of Amazon’s audit function using data.
+
+In this role, you will be a technical expert with a scope that spans all of Amazon’s Consumer businesses, Amazon Web Services, and Amazon subsidiaries. You will work closely with the Engineers & Scientists on our team to improve resiliency and quality of the data in our environment. You will be an expert in sourcing semi-structured and complex data types and normalizing them into a consumable data models that are accessible to business users. Our team maintains an infrastructure that supports changing data needs. This requires data engineering problem solving to build high quality, reliable, accurate, consistent, and architecturally sound data solutions that are aligned with our business objectives.
+
+
+
+Key job responsibilities
+Develop and improve the current data architecture, data quality, monitoring, and data availability.
+Collaborate with Data Scientists to implement analytical solutions that leverage our rich data sets for statistical analysis, prediction, clustering, and machine learning
+Partner with Engineers from upstream data teams to develop mechanisms for data ingestion and quality assurance
+Help continually improve ongoing reporting and analysis processes simplifying self-service support for customers
+Keep up to date with advances in big data technologies and run pilots to design the data architecture to scale and take advantage of new AWS services.
+
+Experience with distributed systems as it pertains to data storage and computing
+Experience in ETL optimization, designing, coding, and tuning big data processes using Apache Spark or similar technologies.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $105,700/year in our lowest geographic market up to $205,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. Applicants should apply via our internal or external career site.",$10+ billion (USD),Internet & Web Services,Company - Public,Information Technology
+Data Engineer,seattle,"Crane Co.
+3.5","Lynnwood, WA",3.5,Employer Provided Salary:$114K - $140K,3.2,3.3,2.9,3.4,3.6,10000+ Employees,1855,"Crane Aerospace & Electronics seeks mid-level Data Engineer to join our Lynnwood, WA team. This is a hybrid/remote position.
+The Data Engineer will be responsible for supporting and updating existing data solutions as well as creating new data solution using Microsoft Azure BI stack. The Data Engineer will partner with Senior Data Architect and our business teams to identify data analytics opportunities, define functional and non-functional requirements for technology or process solutions, and develop data workflows and processes to achieve a business solution.
+The candidate should be knowledgeable of a variety of techniques to provide actionable insights while familiar with manipulating, cleaning, and analyzing large datasets. The candidate must be comfortable with ambiguity and able to converse with Data Architect/Business analyst to better understand data and business problems. They must have familiarity with software development tools and processes. Knowledge of ERP and other business systems and data models is preferred.
+Essential Functions:
+Maintain/Update existing data platform solutions and data models created using Azure platform/Power BI.
+Understand user requirements for how data is used to make decisions. Includes process mapping, optimization, and technology enablement.
+Extract data from various data sources; perform exploratory data analysis, cleanse, massage, and aggregate data to develop end to end data and analytics solutions.
+Efficiently use relevant Azure services related to data and analytics to build Enterprise Data warehouse/Data Lake
+Help support day to day activities of the Modern Analytics team; this may include creating knowledge base articles, updates to platform manuals and documentation, best practices and guidance, and diagnostics of issues that are raised as well as promoting and advocating for the value of advanced modeling techniques.
+Participate in demos and user acceptance reviews while working with the technical team on the creation of design documents and artifacts.
+Collaborate with others on the team and business teams to deliver new, innovative solutions to Crane Aerospace & Electronics users.
+Desire to learn new areas and tools required to enable BI solutions.
+Interact with infrastructure teams to coordinate technology deployment.
+Must Have Qualifications :
+Sound knowledge of Data Warehousing with dimensional modelling
+Hands on Knowledge of Azure Data Factory V2/Azure SQL server/ Azure Data Lake Gen2
+6-7 years of demonstrated experience delivering multiple data solutions with ETL development - both on-premises and in the cloud (2+ years in Azure preferred)
+Hands on Knowledge of Power BI data models, reports, and dashboards
+3-4 years of demonstrated experience with report development using tools such as Power BI, QLIK
+Data analysis training or experience working with structured and/or unstructured datasets
+Knowledge about Azure Services, Computation using Azure Databricks/ Synapse/Python
+Strong problem-solving skills with an emphasis on analysis and resolution of complex functional areas and technical issues across teams.
+Preferred Qualifications :
+· Knowledge of ERP and other business systems and data models
+REST APIs, PowerShell, Azure Functions, Logic Apps
+Experience with analyzing telemetry data
+Experience with machine learning platforms and Tools
+Experience with Azure DevOps
+Familiarity with custom development, open-source products implementation, systems integration
+Min Education: Bachelor or higher degree in computer science, Engineering, Information Systems, or other quantitative fields
+Eligibility Requirement: This position may require access to Controlled Data or Information. Where the position requires such access only US persons will be considered. As a US Department of Defense contractor, we are bound by International Traffic in Arms Regulations (ITAR).
+Working Conditions :
+Standard office environment.
+Work requires substantial visual concentration on detail.
+Working conditions are normal for a manufacturing environment.
+Manufacturing operations may require the use of safety equipment to include but not limited to: eye safety glasses, gowns, masks, hearing protectors, heel/wrist straps and any other required PPE.
+May be exposed to unusual environmental conditions such as loud noises, cold temperatures, confined spaces, dust, or fumes.
+Ability to carry laptops and other equipment weighing up to 25 lbs.
+Ability to travel to various Crane Co locations, if and as required for projects.
+Standing: 10% *percentage is approximate and may vary depending on work task
+Sitting: 90% *percentage is approximate and may vary depending on work task
+Lifting (in pounds): up to 25 pounds
+Pushing (in pounds): up to 10 pounds
+Mental/Visual: use of computer, calculator, filing cabinets
+Workspace (line, cube, etc.,): cubicle/desk
+About Crane Aerospace & Electronics:
+Crane Aerospace & Electronics supplies critical systems and components to the aerospace and defense markets. You will find Crane Aerospace & Electronics in some of the toughest environments: from engines to landing gear; from satellites to medical implants and from missiles to unmanned aerial systems (UAS).
+Crane Aerospace offers a full line of products for sensing both position (proximity) and pressure of mechanical, flight control and air data systems. All incorporate flight proven, highly reliable technology and are in use on many commercial and military aircraft.
+We are committed to operational excellence and world-class processes. We employ Lean manufacturing techniques to optimize manufacturing efficiency and accuracy on all product lines. Our products are known for their technical strength, proven reliability and overall value.
+Salary range: $114,212 to $140,000. Several factors contribute to actual salary, including experience in a similar role or performing comparable job responsibilities, skills, training, and other qualifications. Compensation packages also include comprehensive benefits, 401K contribution and match, Paid Time Off, paid holidays, tuition reimbursement and more. Some roles may be eligible for participation in performance-based bonus programs. You can see a list of our benefits at https://www.craneae.com/company/careers or visit our website at www.CraneAE.com for more information on our company and great opportunities
+In our efforts to maintain a safe and drug-free workplace, Crane Aerospace & Electronics requires that candidates complete a satisfactory background check. FAA sensitive positions require employees to participate in a random drug test pool.
+This description has been designed to indicate the general nature and level of work being performed by employees within this classification. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of employees assigned to this job.
+Crane Co. is an Equal Opportunity Employer and does not discriminate on the basis of race, color, creed, religion, sex, national origin, marital status, age, sexual orientation, gender identity, disability, pregnancy, medical condition, genetic information, protected veteran status or any other characteristic protected under federal, state, or applicable local law.",$1 to $5 billion (USD),Machinery Manufacturing,Company - Public,Manufacturing
+Data Engineer III,seattle,"Intelliswift Software, Inc.
+4.2","Seattle, WA",4.2,Employer Provided Salary:$75.00 - $78.00 Per Hour,4.1,4.1,4.0,3.9,4.1,1001 to 5000 Employees,2001,"100% Remote
+Pay rate range - $75/hr. to $78/hr. on W2
+
+Responsibilities
+As a Data Engineer, you will be working in one of the world's largest and most complex data environments and responsible for:
+Automate processes to ingest, normalize, expose, and analyze market intelligence data.
+Deep dive into the cloud infrastructure capabilities of AWS vs market by working backward from customer needs.
+Designing and implementing a platform using third-party and in-house reporting tools, modeling metadata, building reports, and dashboards.
+
+Required Skills & Experience
+7+ years of related experience.
+Strong development experience with notable BI reporting and Data management tools.
+Experience developing complex and a variety of reports.
+A good candidate has strong analytical skills and enjoys working with large complex data sets.
+A good candidate can directly partner with business owners to understand their requirements and provide data to help them observe patterns and spot anomalies.
+
+REQUIRED SKILLS
+Knowledgeable data processes
+Capture, Store, and Expose Data (Knowledgeable about databases, how to code, how to expose data)
+Business Intelligence
+SQL
+Understand paths in data
+Create processes
+Python
+Web Services
+CSB data formats
+Quick sight
+Excel
+Attention to detail
+Able to listen to the problem
+Collaborative – able to work in a team environment
+Good interaction with others
+Ambiguity
+Have the patience to learn and understand and reflect on things
+Degree required
+5-7 years of relevant experience
+IT experience
+Open to consider a strong candidate with no degree as well
+
+PREFERRED SKILLS
+Knowledge of SQL
+Python
+Customize Coding
+Role-
+Place exposed to the significant amount of data of different nature and perspectives, market data, and technical data.
+Able to manage different types of data and produce something that is really impactful for the business
+Produce deliverables used to make certain business decisions. What we produce here is impacting other people’s businesses
+Type of technology we use. Today we use classic methods to capture information. We are looking to find other techniques to find other efficiencies in how we manage data
+Exposed to advanced techniques to manage data
+Will be able to experiment with new things that might help us be more efficient when it comes to dealing with data.
+Work with many different things. Able to connect with people from Sales, marketing, PR, and operations. Able to learn different types of problems from different orgs and help find solutions for these problems
+Day to Day activity
+Typically, we have five goals assigned. In these goals we specifics about the things we should do every day
+Attend team meetings will check on the status of the goals that we have specifically those that are associated with the process that we have for intake information
+Take the process to capture data and validate that the processes are producing the correct information
+Information that is being sourced.
+We check the status of data processes.
+May have a meeting to check the data process and address issues or blockers
+Make sure the processes are producing the information that we need so that this information is injected into these other mechanisms, like dashboards
+Checking into dashboards, looking at the different views, and potentially making changes on some of the views. May need a new chart or new widget that exposes certain information. Make the changes. Produce the new view of the dashboard and then publish for people to see
+Test application (if it works well or has limitations and fix those limitations)
+Monitor market insights, and figure if there is something we should do based on the information captured",$100 to $500 million (USD),Software Development,Company - Private,Information Technology
+Senior Data Engineer (US Remote),seattle,"Swyfft
+4.1","Seattle, WA",4.1,$103K - $165K (Glassdoor est.),3.9,4.8,3.3,4.0,4.4,51 to 200 Employees,Company - Private,"Swyfft Holdings, LLC, consists of Swyfft, LLC and Core Programs, LLC. Both are fast-growing, tech-enabled MGA’s that are disrupting the traditional insurance industry by re-imagining how you price and bind home insurance and commercial package products. From lightning-fast quotes to hassle-free claims servicing, Swyfft Holdings, LLC leverages big data to provide the very best customer service experience in the industry. We're growing, we’re expanding and we're looking for “tech-savvy” folks like you to join our team!
+
+This position is a U.S. remote based opportunity. Some travel for team meetings and trainings may be required
+
+About the Position:
+As a Senior Data Engineer, you will be instrumental in supporting the development and use of our data systems. Your goal is to ensure that information flows timely and accurately to and from the organization as well as within. As a successful Senior Data Engineer will bring forth a strong understanding of databases and data analysis procedures. You are a highly technical SQL expert with strong problem-solving skills and excellent troubleshooting capabilities. In a perfect world, you might even have some previous experience working for an insurtech or an analytics measurement platform.
+
+Key Responsibilities: (What you'll be asked to do)
+Build efficient ways to organize, store and analyze data while maintaining availability and consistency.
+Create processes and enforce policies for effective data management.
+Formulate techniques for quality data collection to ensure adequacy, accuracy and legitimacy of data.
+Devise and implement efficient and secure procedures for data handling and analysis with attention to all technical aspects.
+Establish rules and procedures for data sharing with upper management and external stakeholders.
+Support others in the daily use of data systems and ensure compliance to legal and company standards.
+Provide assistance with reports and data extraction when needed.
+Monitor and analyze information and data systems and evaluate their performance to discover ways of enhancing them (such as new technologies and upgrades).
+Ensure digital databases and archives are protected from security breaches and data losses.
+Troubleshoot data-related problems and authorize maintenance or modifications
+
+The Successful Candidate: (what we're looking for)
+You have a strong understanding of databases and data analysis procedures.
+You have an analytical mindset and strong problem-solving skills.
+You have excellent communication and collaboration skills.
+You have intense attention to detail and quality assurance.
+
+Some Requirements:
+Expertise in SQL (MS and PostgreSQL).
+Familiarity with modern database and information system technologies.
+Expertise in both Tableau Desktop and Server.
+7+ years of experience as a data manager.
+Excellent understanding of data administration and management functions such as collection, analysis, and distribution.
+Understanding of data warehousing and star schemas.
+Basic familiarity with predictive analysis and data visualization techniques.
+Solid understanding of R and Python environment configuration and basic programming.
+Expert level in Microsoft Excel.
+Understanding of spatial database functionality is a plus.
+
+Education:
+Bachelors’ degree or equivalent experience required in a related field.
+Advanced degrees or Certifications are a plus.
+
+Computer Skills:
+You are familiar with predictive analysis and data visualization techniques using relevant tools such as: Tableau, Dataiku, R, Python.
+Must be proficient with MS Office and other internal insurance related programs, systems or applications.
+Ability to communicate effectively using programs such as Slack & MS Teams. You are comfortable sharing screens and video chatting.
+
+Other:
+Reliable high-speed internet connectivity required.
+Designated quiet work from home space.
+
+We Have a Great Benefits Package!
+20 days of PTO annually
+Medical, Dental, Vision
+Short- and Long-Term Disability (Company Paid)
+Life & AD&D (Company Paid)
+Healthcare, Dependent Care and Transit FSA
+401K with a generous matching contribution and no vesting schedule
+
+It is the policy of Swyfft to provide equal employment opportunities to all employees and applicants for employment without regard to race, religion, color, ethnic origin, gender, gender identity, age, marital status, veteran status, sexual orientation, disability, or any other basis prohibited by applicable federal, state, or local law. EOE/AA/M/D/V/F.
+
+Please Note: Swyfft is not accepting 3rd party agency resumes for this position, please do not forward resumes to our careers email address or Swyfft employees. Swyfft will not be responsible for any fees related to unsolicited resumes.",-1,-1,Unknown / Non-Applicable,-1
+"Data Engineer (Level 5), Global Analytics and Insights (GAIN)",seattle,"Amazon.com Services LLC
+3.8","Bellevue, WA",3.8,Employer Provided Salary:$106K,3.8,3.7,3.4,3.9,3.3,10000+ Employees,1994,"5+ years of data engineering experience
+Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+Proficiency in programming languages such as Python, Java, or Scala for data manipulation and transformation.
+Strong experience with big data technologies such as Hadoop, Spark, and Hive.
+Hands-on expertise in building and optimizing ETL pipelines and data workflows.
+In-depth understanding of data modeling, database design, and performance tuning.
+Familiarity with cloud-based data technologies (e.g., AWS, Azure, or Google Cloud Platform).
+Solid knowledge of SQL and experience working with relational and NoSQL databases.
+Excellent problem-solving and analytical skills, with the ability to work on complex data challenges.
+Strong communication and collaboration skills, with the ability to work effectively in a team environment.
+
+Amazon is seeking a highly analytical and skilled Data Engineer to join our Global Analytics and Insights Team (GAIN). Our team's mission is to develop, deploy, and sustain scalable mechanisms that drive world-class performance in Amazon's Worldwide Operations. With millions of analyzable events, billions of data points, and petabytes of data, GAIN is at the forefront of an evolving data processing landscape. Our data is utilized by numerous teams worldwide, including Operation Managers, Process Engineers, Data Scientists, and Business Analysts. As a Data Engineer, you will collaborate with business intelligence, software engineering, and product teams to deliver timely, accurate, and actionable business intelligence and customer-facing data and reporting. Your role will involve building and maintaining infrastructure that answers critical questions through data analysis. Utilizing software engineering best practices, data management fundamentals, data storage principles, and the latest advancements in distributed systems (e.g., MapReduce, MPP architectures, NoSQL databases), you will be responsible for creating data infrastructure that enables valuable insights. As a part of Amazon's GAIN Team, your responsibilities will include designing, developing, implementing, testing, and operating large-scale, high-volume, and high-performance data structures for analytics and deep learning. You should possess expertise in architecting data warehouse solutions for the enterprise across multiple platforms and tools (EMR, RDBMS, Columnar, Cloud, Redshift, EMR, Athena, Aurora, DynamoDB, Kinesis, Glue, Lambda, S3, EC2, etc.). Additionally, you should have extensive experience in designing, creating, managing, and utilizing extremely large datasets. You will analyze source data systems and drive best practices within the source teams. Participation in the entire development life cycle, from design and implementation to testing, documentation, delivery, support, and maintenance, will be expected. You will produce comprehensive and usable dataset documentation and metadata and evaluate dataset implementations proposed by peer data engineers. Strong business and communication skills are essential for collaborating with business owners to develop key business questions and build data sets that provide answers, drive change, and promote a deep understanding of the data. Key job responsibilities • Design, implement, and maintain large-scale data processing systems and pipelines using the latest technologies and best practices. • Collaborate with cross-functional teams to understand business requirements and translate them into scalable and efficient data solutions. • Develop and optimize data models, schemas, and structures to ensure data quality, integrity, and performance. • Build robust ETL processes for extracting, transforming, and loading data from various sources into data warehouses and data lakes. • Implement data governance and security measures to ensure compliance with regulatory requirements and protect sensitive information. • Perform data analysis and profiling to identify trends, patterns, and insights for business decision-making. • Monitor data pipelines and systems to identify and resolve issues promptly, ensuring high availability and reliability of data infrastructure. • Stay up-to-date with emerging technologies, tools, and industry trends in data engineering and contribute to continuous improvement of data engineering practices within the organization.
+Familiarity with data visualization tools and techniques (e.g., Tableau, Power BI, or D3.js).
+Background in machine learning and statistical analysis.
+AWS certification (e.g., AWS Certified Big Data - Specialty).
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $105,700/year in our lowest geographic market up to $205,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. Applicants should apply via our internal or external career site.",$10+ billion (USD),Internet & Web Services,Company - Public,Information Technology
+Facilities Data Engineer,seattle,"Nordstrom Inc
+3.7","Seattle, WA",3.7,Employer Provided Salary:$130K - $202K,3.4,3.6,3.2,3.5,3.3,10000+ Employees,1901,"Job Description
+A Senior Engineer 1 is part of a key team of Nordstrom Technology professionals that applies scientific, mathematical and social principles to design, build, and maintain technology products, devices, systems and solutions. These technology products and solutions provide amazing customer experiences while meeting the needs of the business. The scope, responsibility and accountability is at the solution level.
+A day in the life…
+Responsible for feature design, evaluate designs and provide feedback
+Influence quality standards and understand, identify, measure across entire solution
+Identify performance issues and optimize solution
+Demonstrate strong knowledge of security coding practices and secure system fundamentals
+Understand security protocols, interpret security and compliance requirements
+You own this if you have…
+Bachelor’s or Master’s degree in CS, Engineering
+5+ years professional experience in practice area
+We’ve got you covered…
+Our employees are our most important asset and that’s reflected in our benefits. Nordstrom is proud to offer a variety of benefits to support employees and their families, including:
+Medical/Vision, Dental, Retirement and Paid Time Away
+Life Insurance and Disability
+Merchandise Discount and EAP Resources
+A few more important points...
+The job posting highlights the most critical responsibilities and requirements of the job. It’s not all-inclusive. There may be additional duties, responsibilities and qualifications for this job.
+Nordstrom will consider qualified applicants with criminal histories in a manner consistent with all legal requirements.
+Applicants with disabilities who require assistance or accommodation should contact the nearest Nordstrom location, which can be identified at www.nordstrom.com.
+© 2022 Nordstrom, Inc
+Current Nordstrom employees: To apply, log into Workday, click the Careers button and then click Find Jobs.
+Pay Range Details
+The pay range(s) below are provided in compliance with state specific laws. Pay ranges may be different in other locations.
+Washington: $130,000.00 - 201,500.00 annually
+Job Type: Full-time
+Pay: $130,000.00 - $201,500.00 per year",$10+ billion (USD),"Department, Clothing & Shoe Stores",Company - Public,Retail & Wholesale
+Data Migration Engineer (Remote),seattle,"Gray Digital
+5.0","Seattle, WA",5.0,Employer Provided Salary:$110K - $130K,5.0,5.0,5.0,5.0,5.0,1 to 50 Employees,Company - Public,"About the Role
+Gray is a human-centered digital services company with a mission to transform critical government services using design and technology. We partner with government agencies to deliver digital solutions that are purposeful, trustworthy, and meet the needs of millions of Americans. We're looking for the most tenacious and mission-obsessed team members committed to nurturing a people-first culture and reimagining how the government serves its citizens.
+Our Engineer - Data Migration will work directly with The U.S. Department of Veterans Affairs and Accenture Federal Services Services to modernize and improve GI Bill claims processing for veterans, service members, and dependents. As a key member of the team, you'll contribute directly to impactful digital services transformation that empowers government agencies and civil servants to better serve the American people by delivering a best-in-class user experience.
+You are a team player who knows how to collaborate with many different teams and stakeholders, and prevent technical bottlenecks. You are a self-starter who never stops learning and helps their team perform at its best.
+Are you passionate about untangling and redesigning government services to better serve Americans? Do you strive to do meaningful work with a company that cares about its people's well-being? In that case, Gray is the right company for you.
+What You'll Do (Primary Responsibilities):
+Perform database functions across one or more teams or clients, including designing, implementing and maintaining new databases, backup/recovery and configuration management.
+Administer, develop, test, or demonstrate databases.
+Design, Develop, Test and implement the Data Migration scripts.
+What You'll Bring (Requirements):
+Education Requirements: A Bachelor's Degree in computer science, electronics engineering or other engineering or technical discipline is required.
+Years of experience: 5+ years experience.
+Required Skills:
+Good understanding of AWS Data and storage families.
+5+ years in Cloud technology, working with AWS Athena, Glue, S3, AWS DMS and AWS SCT
+Prior experience in migrating data from on premise (Mainframe, Oracle, SQLDB etc.) to cloud platform.
+Experience in optimizing and troubleshooting ETL processes and Data pipelines.
+Agile development experience
+Experience in AWS Aurora (PostgreSQL)
+Experience in Data Migrations and ETL methodologies.
+Preferred Skills:
+2+ years hands on experience in building data pipelines in SQL, Python (preferred)
+Previous experience with VA and working on VA legacy systems for Education Service
+What Our Team Values:
+Mission and values-driven - passionate about prioritizing Gray's values and mission to transform how the government serves its citizens.
+Positive can-do attitude - can navigate challenges and find solutions while being tenacious, optimistic, and results driven.
+Self-starter with a bias for action - works well without a lot of direction and thrive on being accountable to discover problems, create goals, and execute plans.
+Resilience - dependable in the face of adversity and handle uncertainty and obstacles with grace and elegance.
+Collaboration - embrace differing perspectives to make better decisions and collaborate effectively with people of diverse backgrounds and cultures.
+Passion - strong ability to motivate and inspire people to do their best work.
+Communication - exceptional written, verbal, relationship building, and emotional intelligence skills.
+Curiosity - constant desire to learn and improve.
+Analytical thinking - in search of the truth and can dig into data to make reasoned decisions objectively.
+Integrity and selflessness - treat people with respect, take a stand yet commit even in disagreement, and are known for your candor and sincerity.
+Compensation
+$110,000 - 130,000 Base Salary + Benefits + Growth Potential
+Why Gray (Benefits and Perks):
+Gray is an experienced team of dreamers, doers, and change-makers brought together by a shared commitment to doing work that matters, solving big problems, and upholding Gray's mission and values in our daily interactions.
+While our headquarters is in Boulder, CO (recently named the best place to live by U.S. News), we are a remote first company and you're free to work where you work best, anywhere within the US.
+We care about the happiness of our people. We offer an industry best benefits package and cultivate an environment of empowerment, autonomy with accountability, and a commitment to a healthy work-life balance. Join our team and help defend our vision to deliver meaningful work and a people-first culture.
+""If you want to build a ship, don't drum up the people to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.""
+Here are highlights of our benefits package:
+Competitive Compensation - We monitor industry salaries annually and make sure we're paying in the top tier based on skills and experience, for every position at the company. Base salaries are standardized on the Colorado market (our headquarters).
+Remote-Friendly - We hire the most talented technologists from across the country and are committed to being a remote-first company. We want you to perform at your best, and promise to help you feel comfortable and connected wherever you call home.
+Flexible Work Schedules - We treat our people like adults and trust you to manage your schedule. We offer flexible hours to align with your work style.
+Unlimited Vacation - Taking time off to promote health and wellness is crucial to your well being. There's no prescribed vacation or sick day policies. If you're feeling under the weather or need a mental health day, take time to recharge, it's good for you!
+100% Health Coverage - We pay 100% of your medical, dental, and vision insurance premiums.
+401k Match - Saving for retirement and investing in your financial future is important. That's why Gray matches 401K contributions up to 6% of your salary.
+Professional Development - We want to invest in your growth and development. If you find a class, conference, or opportunity to advance your skill-set, we will help offset the cost up to $2,000.00 per year.
+Wellness Allowance -We want you to do your best work, and we know that your health and happiness are critical to making that happen. We offer up to $50.00 per month reimbursement toward whatever it is that heals you-yoga class, acupuncture-you name it!
+Publishing and Speaking Opportunities - We encourage you to be thought leaders and share your knowledge and expertise. Let's build a more interconnected, diverse, and prosperous digital services community together.
+Swag Budget - New hires receive a gift certificate to Gray's curated online store of branded merchandise. We promise it's quality merch you'll enjoy. Take a peek and see for yourself. We're regularly adding new products.
+Tech and Tools Allowance - You choose whatever technical tools you need to work most effectively. Each year, you can expense up to $500 on the tech gear and tools you need. This includes an external monitor, standing desk, 3D printer, and more.
+Mission and Public Good Impact - We are brought together by a shared commitment to do work that matters. You'll work on projects that transform government services, strengthen national defense and are critical to the well-being of millions of Americans.
+Work-life balance. Whether you need to take a midday run or step out to pick up your kid from childcare, we want to see your best self at Gray - that means helping you lead a healthy life outside of work.
+Our mission is bold, audacious, and there's a lot on the line. It's a significant career move, and we appreciate the courage and passion that go into considering us. We look forward to hearing from you.
+What You Should Know:
+Federal contracts require that you be a U.S. Citizen or Green Card holder to be eligible for employment.
+All work must be conducted within the U.S.
+You may be required to meet additional pre-employment contingencies to the extent required by applicable law, at the time of hire or any time thereafter.
+Equal Opportunity & Inclusive Workplace. Gray is deeply committed to diversity, equity and inclusion and making our organization a hospital and accessible place for all individuals. Gray is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, ethnicity, national origin, sexual orientation, gender identity or expression, religion, age, pregnancy, disability, work-related injury, covered veteran status, political ideology, marital status, or any other factor that the law protects from employment discrimination.
+About Gray
+Gray is a human-centered digital services company using design and technology to transform government services. We deploy highly-efficient, cross-functional digital service teams to empower government agencies and civil servants to better serve the American people. These multi-disciplinary groups leverage agile software development, DevOps, and human-centered design to deliver mission-critical products with a purpose.
+Founded by technologists from the White House's U.S. Digital Service (USDS), Gray has experience at the highest levels of government, academia, and the commercial sector. Our executive leadership and advisory board have diverse backgrounds from a wide range of organizations, including Google, Deloitte, The White House, The U.S. Military Academy at West Point, Airbnb, Duke University, and more.
+Our team members have created and sold tech startups, led COVID 19 front-line operations, served tours of civic service to reimagine government in the digital era, and built some of the most innovative and well-loved technology products on earth. Leveraging our unique blend of government, academia, and commercial expertise, we work closely with our partners to solve their most pressing technical challenges.
+The Gray team is brought together by a shared commitment and unconventional approach to untangle and redesign mission-critical government services. Whether we're improving access to Veterans' disability benefits, building sensors to save lives in war-torn Syria, or developing secure and equitable products for U.S. Citizenship and Immigration Services (USCIS), we thrive on delivering digital solutions that are purposeful, trustworthy, and meet the needs of millions of people.
+At Gray, we've established a people-first strategy. That's why our culture encourages self-care, professional development, and nurturing a sense of ownership and responsibility. We believe that a happy team and intentional and mindful growth lead to the best outcomes for our partners and our business.",-1,-1,Unknown / Non-Applicable,-1
+"Data Engineer (ITP-B, BU)",seattle,"City of Seattle
+3.7","Seattle, WA",3.7,Employer Provided Salary:$45.44 - $68.20 Per Hour,3.6,3.6,2.9,4.2,3.7,10000+ Employees,1869,"Position Description
+The City of Seattle is recruiting a Data Engineer (ITP-B, BU) to become a Data Integration and Data Analytics authority on the Data Engineering and Analytics team. This position is a key development role creating and supporting data analytics products for city enterprise business and for specific city departments.
+
+As a city, Seattle is known as a dynamic leader in technology, innovation, and the environment. As an employer, the City of Seattle is leading local government in environmental stewardship and social justice among other things, making our city what it is today and shaping our exciting future. The organization's workforce plays a meaningful role in making this possible.
+
+Seattle IT is a trusted partner that provides secure, reliable, and compliant technologies enabling the City of Seattle to deliver equitable and responsive services to the residents of Seattle. This purpose statement is a simple declaration of who we are and why we do our work. It is intended to be a guide that helps us to not lose sight of why we perform everyday tasks or to invest effort to tackle difficult problems. It emphasizes that our existence as a department is to support our City partners. It reminds us that we are part of a larger organization that collectively is working towards improving the lives of the residents of our city. The 600+ strong professionals in Seattle IT are involved in the full spectrum of a modern IT enterprise offering many dynamic career opportunities. We hope you'll join us!
+
+This position is open until filled. To be considered in the first round of interviews, please submit your application materials by May 16, 2023.
+Job Responsibilities
+This role as a Data Engineer will use your expertise in database design and development to build and enhance the data warehouse architecture, Extract, Transform, and Load (ETL) / (ELT) Processes, and Analytic solutions. The Data Engineer position will also monitor for consistent performance of these data systems, and work with Sr. Data Engineers supporting strategic relationships with our key customers to collaborate on issues, enhancement, priorities, and future state roadmaps.
+
+As a Data Engineer, you will constantly explore, learn, and use new technologies and products and will contribute to the adoption of future work and technologies used in the City of Seattle. This will involve understanding business use cases for new data technology and working with the Data Engineering and Analytics team to create adoption strategies.
+
+While database and connection knowledge in both Oracle and SQL Server are important skills for this position you will also be depended on to understand system processing and server requirements, process, and automation tools, and cloud-based implementations.
+
+Here's what you will be doing:
+Support existing Data Warehouse / Data Lake Solutions for city departments. Monitor scheduled process logs and alerts, respond to customers, and coordinate with customers and Seattle IT Staff/roles to resolve issues.
+Design, Develop and test enhancements to Data Warehouse and BI solutions. Analyze server resource patterns and performance with data analytics products.
+Understand business requirements, and develop Extract, Transform, and Load (ETL) / (ELT) processes, Data Warehouse schemas, and other data analytics products.
+Assist business customers in connecting and using data marts and cubes with analytics and reporting products, including Tableau, Power BI SQL Server Reporting Services, and Microsoft Excel. Communicate and coordinate work and scheduled processes with customers.
+Use automation and integration tools such as SQL Server Integration Services, Amazon Glue, Automation Anywhere and Power Automate, to build robust scheduled processes for moving and redefining data into data warehouses, data lakes, or other analytics data systems.
+Develop and support Public Safety (Police and/or Fire Department data solutions), supporting critical reporting needs of this department.
+Qualifications
+Required Qualifications:
+Education: BA degree in Computer Science, Business Information systems, Database management, or equivalent work training or experience.
+
+Experience:3+ years’ experience working with data to address business needs, including development of data repositories, warehouses, operational data stores, or related analytic systems.
+Knowledge of Database systems, and SQL languages, management, scheduling, optimization, integration tools.
+
+Understanding of server architectures and requirements for large data analytics projects.
+Experience and knowledge of cloud services for data analytics (i.e. AWS, Azure, Google), including tools and processes for cloud native tools and services for data analytics, deployment processes, security and privacy principles, and cloud service cost strategies.
+
+Technical/Professional skills needed to succeed:
+Knowledge and experience with multiple database systems and the related tool sets available, for example Oracle, SQL Server, Postgres SQL, Extract, Transform, Load (ETL) tools, Reporting, scheduling, and integration tools.
+Experience building data solutions and analytics systems, including learning, and understanding business needs and identifying analytic strategies.
+Successful completion of a Criminal Justice Information System (CJIS) background investigation and certification may be required after starting this position for work with the Seattle Police Department systems.
+Desired Qualifications:
+Communication Skills: Established experience with written, verbal, and illustrative communication. Ability to effectively communicate relevant technical content with the professionals that perform the various city business functions at our city departments, as well as with Seattle IT technical professionals and various management staff.
+
+Team engagement: Serve roles in various City of Seattle, technology teams to provide expertise and support for Information Technology projects that have reporting or analytics requirements.
+Maintain open contact with Applications, Server, Security, Privacy, and Database teams to address project or program needs and to provide necessary support for the roles of those teams.
+
+Analytics and Cloud Data: Experience with Cloud based data tools such as AWS S3, Glue, Python, Spark, Athena, or other cloud data tools. Understanding of Analytics and reporting tools (i.e. O365 tools, Tableau, etc.). A strong desire to learn and explore new capabilities in this area.
+
+Commitment to Race, Social Justice, and Equity
+Successful candidates for these positions will be expected to take part and understand the City of Seattle’s need to continually address race- based disparities and to end institutionalized racism. Data Engineers are in a unique position to address this need since progress is frequently measured with our many data sources. To support this need, we encourage participation in department race and social justice initiatives and create standard processes for using a related tool kit in all projects. As a key role in providing accurate city performance data, this work is critical for all or our city departments to be able to understand and manage the equitable distribution of City services.
+Additional Information
+The full salary range for this position is $45.44 - $68.20 per hour.
+
+Why work at the City of Seattle
+The City of Seattle recognizes every City employee must play a role in ending institutional and structural racism. Our culture is the result of our behavior, our personal commitments, and the ways that we courageously share our perspectives and encourage others to do the same. To cultivate an antiracist culture, we seek employees who will engage in the Race and Social Justice Initiative by working to dismantle racist policies and procedures, unlearn the way things have always been done, and provide equitable processes and services.
+
+Benefits
+The City of Seattle offers a comprehensive benefits package including vacation, holiday, and sick leave as well as medical, dental, vision, life and long-term disability insurance for employees and their dependents. More information about employee benefits is available on the City's website at: 2023_EBGMOST_0126.pdf (Download PDF reader). (Download PDF reader) for more information.
+
+Application Process
+For optimal consideration, we encourage you to include a cover letter and resume with your application. We encourage you to use your cover letter to discuss why you want to do this work and how you meet the qualifications for the position. Your resume should summarize the talent, experience, knowledge, and skills you bring to this work.
+Apply online at https://www.governmentjobs.com/careers/seattle/
+
+If you have any questions, please contact Alfreda Wilson, HRBP, for Seattle IT, at Email: Alfreda.wilson2@seattle.gov.
+
+Workplace Environment (Telework Expectation)
+Most work is performed in a regular City work/office environment however, Seattle IT is currently working a hybrid schedule with two days in office and three days remote. This is subject to change as circumstances dictate.
+
+Background Checks
+This hiring process involves a background check of conviction and arrest records in compliance with Seattle's Fair Chance Employment Ordinance, SMC 14.17. Applicants will be provided an opportunity to explain or correct background information.
+Successful completion of a Criminal Justice Information System (CJIS) background investigation and certification may be required after starting this position for work with the Seattle Police Department systems.
+
+Who may apply
+This position is open to all candidates that meet the minimum qualifications. The City of Seattle values different viewpoints and life experiences. Applicants will be considered regardless of race, color, creed, national origin, ancestry, sex, marital status, disability, religious or political affiliation, age, sexual orientation, or gender identity. The City encourages people of all backgrounds to apply, including people of color, immigrants, refugees, women, LGBTQ, people with disabilities, veterans, and those with diverse life experience.
+
+NOTE: This position is covered by a collective bargaining unit; International Brotherhood of Electrical Workers, Local 77. For information explore Local 77’s website.
+
+#LI-MV1
+
+The City of Seattle offers a comprehensive benefits package including vacation, holiday and sick leave as well as medical, dental, vision, life and long-term disability insurance for employees and their dependents.",$500 million to $1 billion (USD),National Agencies,Government,Government & Public Administration
+Big Data Engineer,seattle,"Binance.US
+3.7","Seattle, WA",3.7,$90K - $129K (Glassdoor est.),3.9,3.6,3.6,3.9,3.3,501 to 1000 Employees,2019,"Launched in 2019, BAM Management US Holdings Inc. d/b/a Binance.US (""Binance.US"") is the fastest growing and most integrated digital asset marketplace in the United States, powered by matching engine and wallet technologies license from the world's largest cryptocurrency exchange - Binance. Our mission is to provide liquidity, transparency, and efficiency to financial markets by creating products that leverage crypto to unlock the power of everything. We build bridges between traditional finance and digital markets that enable growth for all—empowering the future of finance. Binance.US is operated by BAM Trading Services.
+Responsibilities：
+Be responsible for leveraging existing data assets and platform components to build a flexible and reliable service layer for business systems.
+After joining our team, you need to get familiar with our core business logic, and then use the big data tool stack to develop services and applications to satisfy product requirements.
+Requirements：
+Bachelor's degree or higher in Computer Science, Software Engineering or a related field, or equivalent functional experience in the area.
+2+ years experience in a big data related area.
+Decent understanding in big data ecosystem and familiar with computation engines(Spark/Flink) and storage engines(Hive/Hudi/Doris).
+Strong Java/Scala backend development skills.
+Strong SQL development and optimization skills.
+Familiar with Shell/Python or any other scripting languages.
+Experiences with monitoring, optimizing and troubleshooting large scale big data applications is a plus.
+
+Binance.US is an Equal Opportunity Employer. Our mission is to give Americans access to a broad array of digital assets, and we thrive because of the diverse and inclusive team that we are building. We do not discriminate against qualified employees or applicants because of race, color, religion, gender identity, sex, sexual preference, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status physical disability, mental disability, medical condition, military status, or any other characteristic protected by local law or ordinance.
+Binance.US complies with Federal Transparency in Coverage regulations by providing this link to machine readable files related to the health plans offered to our employees. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data including negotiated service rates, and out-of-network allowed amounts between health plans and healthcare providers.
+Kaiser Permanente
+www.aetna.com
+
+Applicant Privacy Notice",Unknown / Non-Applicable,Internet & Web Services,Company - Private,Information Technology
+Azure Data Engineer,seattle,"ProIT Inc.
+4.9","Bellevue, WA",4.9,Employer Provided Salary:$100K - $104K,4.8,4.6,4.9,4.6,4.6,51 to 200 Employees,Company - Private,"Data Engineering experience primarily on Spark. Someone who has worked on Azure cloud with knowledge on Azure DEVOPS (CI/CD & Infrastructure as a code), ADF, ADW & Power BI. Apache Nifi will be good to have.Power BI: Understand business requirements to set functional specifications for reporting applications Build automated reports and dashboards with the help of Power BI reporting tool Be experienced in tools and systems on MS SQL Server BI Stack, including SSRS and TSQL, Power Query, MDX, PowerBI, and DAX Be able to quickly shape data into reporting and analytics solutions Have knowledge of database fundamentals such as multidimensional database design, relational database design, and more Create functional reporting Study, analyze and understand business requirements in context to business intelligence. Design and map data models to shift raw data into meaningful insights. Utilize Power BI to build interactive and visually appealing dashboards and reports. Spot key performance indicators with apt objectives Run DAX queries and functions in Power BI Should have an edge over making DAX queries in Power BI desktop. Developing visual reports, KPI scorecards, and dashboards using Power BI desktop. Connecting data sources, importing data, and transforming data for Business intelligence.
+Spark ,Azure DEVOPS (CI/CD & Infrastructure as a code), ADF, ADW & Power
+Job Type: Full-time
+Pay: $100,154.64 - $104,132.47 per year
+Ability to commute/relocate:
+Bellevue, WA 98004: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Informatica: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: Hybrid remote in Bellevue, WA 98004",-1,-1,Unknown / Non-Applicable,-1
+Senior Software Engineer - Data Semantic layer,seattle,"Apple
+4.2","Seattle, WA",4.2,-1,-1,-1,-1,-1,-1,10000+ Employees,1976,"Summary
+Posted: May 22, 2023
+Weekly Hours: 40
+Role Number:200461722
+The Apple Services Engineering team is one of the most exciting examples of Apple’s long-held passion for combining art and technology. These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a massive scale, meeting Apple’s high expectations with dedication to deliver a huge variety of entertainment in over 35 languages to more than 150 countries. These engineers build secure, end-to-end solutions. They develop the custom software used to process all the creative work, the tools that providers use to deliver that media, all the server-side systems, and the APIs for many Apple services. Thanks to Apple’s outstanding integration of hardware, software, and services, engineers here partner to get behind a single unified vision. That vision always includes a deep dedication to strengthening Apple’s privacy policy, one of Apple’s core values. Although services are a bigger part of Apple’s business than ever before, these teams remain small, nimble, and multi-functional, offering greater exposure to the array of opportunities here. We are seeking a highly experienced Senior Engineer to join our team and own the development of a semantic layer for our analytics data. In this role, you will be responsible for crafting and building a comprehensive data architecture that will enable seamless data integration and enable the delivery of high-quality insights to our customers.
+Key Qualifications
+Proven experience in data engineering, data architecture, or a related field
+Experience in building and deploying semantic layers for analytics data is a plus
+Strong understanding of data modeling, data warehousing, and ETL concepts
+Proficiency in SQL and experience with at least one major data analytics platform, such as Hadoop, Spark, or Snowflake
+Experience with data integration and data governance tools, such as Talend, Informatica, or Collibra
+Excellent problem-solving and analytical skills, and the ability to work well under tight deadlines
+Excellent interpersonal skills and the ability to collaborate effectively with multi-functional teams
+Description
+Design and implement a semantic layer that integrates analytics data from multiple sources in an efficient and effective manner. Develop data models and mapping rules to transform raw data into actionable insights and reports. Collaborate with the analytics and data science teams to understand their requirements and deliver solutions that meet their needs. Ensure data quality and accuracy by developing data validation and reconciliation processes. Play an active role in the development and maintenance of user documentation, including data models, mapping rules, and data dictionaries. Collaborate with multi-functional teams to define and implement data governance policies and standards. Stay informed about the latest developments in data analytics and data management technologies and recommend new tools and methodologies to improve the semantic layer.
+Education & Experience
+Bachelor's or Master's degree in Computer Science, Information Systems, or a related field Apple is an equal opportunity employer and value diversity at our company. Apple does not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+Additional Requirements
+Pay & Benefits
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $115,000 and $217,500, and your base pay will depend on your skills, qualifications, experience, and location.
+
+Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.
+
+Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",$10+ billion (USD),Computer Hardware Development,Company - Public,Information Technology
+"Quality Assurance Engineer, Data Center Engineering",seattle,"Amazon Data Services, Inc.
+3.8","Seattle, WA",3.8,Employer Provided Salary:$74K,3.8,3.7,3.4,3.9,3.3,10000+ Employees,1994,"Bachelor’s degree in engineering, or architecture, required.
+2+ years’ experience as a project engineer for large commercial construction projects, 2+years of experience in the design or construction industry
+1+ year experience with design and/or construction management software including Autodesk BIM360, Bluebeam, and Procore
+1+ year experience with managing documents in various types of office software
+1+ year experience in Salesforce, BIM, Procore, SharePoint is a plus.
+Able to read and interpret specifications and drawings for all disciplines
+Attention-to-detail including proven ability to manage multiple, competing priorities simultaneously
+
+The purpose of this role is to perform quality assurance and quality control reviews, track, and manage design drawings, specifications and documents prepared during the engineering design process in order to ensure regulatory, legal, and security compliance. You will work alongside internal partner teams such as Engineering, Power and Cooling (PAC), Security, Controls, and Commissioning to build Data Centers that directly support our customers. You will also communicate with external stakeholder design consultants.
+
+The Quality Assurance Engineer, need to have a positive attitude, knowledge of the commercial industry design and construction process, experience reviewing technical and contractual documentation, and strong communication skills. You will deep dive documentation for completeness, update and create procedures to optimize workflows, and look for improvement opportunities.
+
+The Quality Assurance Engineer will manage the intake of design consultant documentation, review documentation for quality compliance and completeness, and update stakeholders with progress of the final workflow documentation processing. The Quality Assurance Engineer should expect high volumes for documentation, and will need to exercise strong judgement on how to communicate and engage stakeholders through various tools.
+
+Key job responsibilities
+Manage simultaneous projects’ engineering drawings, specifications, and documents and run the workflows where you engage with the correct stakeholders across the organization to raise the bar in the quality and the coherence of the content of the package provided.
+Perform quality review of technical documentation for accuracy and contract compliance
+Perform engineering quality assurance and engineering quality control reviews for all design drawings, prior to submission to Construction for builds.
+Provide coordination of all engineering and architectural specifications, design drawings, and permit submittals for projects
+Support the design managers to prepare complete and accurate documentation at various design phases and during construction hand off, including but not limited to drawings, specifications, bill of materials, calculations, etc
+Manages project archiving, tracking, processing and filing activities, assist in naming standard, versioning schema, etc.
+Set up and work on training initiatives for our internal and external partners, and provide tactical support
+Prepare ad hoc reports on project’s progress, Key Performance Indicators (KPI) and progress tracking
+Collaborate with technical teams in a fast-paced environment with showed ability to edit and raise the bar on high-quality technical documentation
+Configuration Analyst/System Owner for DE design documents
+Responsible for leading and driving process improvements (short-term wins) as well as process design / redesign (long-term wins) efforts
+Manage a portfolio of projects in an assigned region
+Maintain and add user accounts, security groups, and permission access levels
+Maintain confidentiality around sensitive documentation
+Attend team meetings and communicate updates or requirements
+Executes vision and goals for the team or department
+Conduct audits to ensure processes are being followed
+Up to 25% travel may be required
+
+Experience in design and construction and/or project management
+Experience working with collaborative management systems
+Engineering Data Center Experience
+Knowledge of the scope and design/construction life cycle sequencing of project schedules
+Organizational, analytical, and writing skills, to include solid experience in writing functional and technical specifications
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $73,900/year in our lowest geographic market up to $185,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. Applicants should apply via our internal or external career site.",$10+ billion (USD),Internet & Web Services,Company - Public,Information Technology
